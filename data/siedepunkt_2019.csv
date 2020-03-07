@@ -1,0 +1,736 @@
+date;weekday;category;name;employees;students;type
+2019-02-05;Tue;Angebote;Gebackenes Schollenfilet mit mediterranem Nudelsalat;4,85;3,05;0
+2019-02-05;Tue;Angebote;Rucola-Süßkartoffelschnitte auf Tomaten-Paprikaragout, dazu Gemüseebly;4,5;2,7;2
+2019-02-05;Tue;Angebote;Bohneneintopf mit Rindfleisch, dazu ein Brötchen oder eine Scheibe Brot;3,85;2,05;0
+2019-02-06;Wed;Angebote;Lammbraten mit Prinzessbohnen und Kartoffeln;5,35;3,55;0
+2019-02-06;Wed;Angebote;Omelette mit Champignons gefüllt, dazu Kräuterquark-Dip und Salat;4,45;2,65;1
+2019-02-06;Wed;Angebote;Hähnchengratin mit Curry, Erdnüssen und Reis;3,95;2,15;0
+2019-02-07;Thu;Angebote;Hähnchenbrust Forstmeister Art, dazu buntes Gemüse und Kartoffelbällchen;4,45;2,65;0
+2019-02-07;Thu;Angebote;Hausgemachte Pasta mit mediterranem Pfannengemüse und fruchtiger Tomatensoße, dazu gehobelter italienischer Hartkäse Grana Padano;4,95;3,15;1
+2019-02-07;Thu;Angebote;Vier Hefeklöße an Heidelbeerensoße;3,85;2,05;1
+2019-02-08;Fri;Angebote;Schweinegeschnetzeltes Gyros Art, dazu Tsatsiki, Erbsengemüse und Pommes frites;4,5;2,7;0
+2019-02-08;Fri;Angebote;Gemüsebällchen mit Chili-Lauchsoße, dazu Karottengemüse und Ebly;4,1;2,3;1
+2019-02-08;Fri;Angebote;Mediterrane Grillkartoffeln, dazu Radieschen-Kresse-Dip und Salat;3,9;2,1;1
+2019-02-09;Sat;Angebote;Rucola-Süßkartoffel-Schnitte mit Kräuterquark, dazu Bratkartoffeln und Salat;4,25;2,45;1
+2019-02-09;Sat;Angebote;Hackfleischbällchen mit feuriger Tomatensoße, dazu Gemüsereis;3,9;2,1;0
+2019-02-10;Sun;Angebote;Hähnchen Piccata mit Rahmgemüse und Schwenkkartoffeln;;;0
+2019-02-10;Sun;Angebote;Kohlrabi-Kräutermedaillons mit buntem Gemüse und Schwenkkartoffeln;4,2;2,4;1
+2019-02-11;Mon;Angebote;Hähnchenbrust Picata, dazu buntes Gemüse und Pommes Twister;5,2;3,4;0
+2019-02-11;Mon;Angebote;Röstoppers mit Philadelphia, dazu mediterranes Pfannengemüse und Blattsalat mit Himbeerdressing;5,35;3,55;1
+2019-02-11;Mon;Angebote;Penne Rigate mit Chili con carne oder Rahmsoße mit Tomaten und Auberginen, dazu geriebenen Käse;4,05;2,25;0
+2019-02-12;Tue;Angebote;Backfischstücke mit Remoulade, dazu Pommes frites und Salat;5,3;3,5;0
+2019-02-12;Tue;Angebote;Champignon-Lauchpfanne an Rösti-Ecke und Rotkohlsalat;4,55;2,75;2
+2019-02-13;Wed;Angebote;Spanferkelrollbraten mit Bayrischkraut und Kartoffelklößen;5,3;3,5;0
+2019-02-13;Wed;Angebote;Gebackene Broccoli-Nussecke, dazu Schwarzwurzelgemüse, Frischkäse-Basilikumsoße und Zitronen-Linsen-Couscous;4,6;2,8;1
+2019-02-13;Wed;Angebote;Makkaroni-Auflauf mit Hackfleisch;3,95;2,15;0
+2019-02-14;Thu;Angebote;Hirschgulasch mit Kirschrotkohl, dazu Kräuterspätzle oder Hefeknödel;4,75;2,95;0
+2019-02-14;Thu;Angebote;Pasta mit Spinatpesto, dazu gehobelter italienischer Hartkäse Grana Padano;4,0;2,2;1
+2019-02-14;Thu;Angebote;Buttermilchplinsen mit Beerengrütze;3,9;2,1;1
+2019-02-15;Fri;Angebote;Schweinesteak Strindberg, dazu Erbsengemüse und Pommes frites;4,6;2,8;0
+2019-02-15;Fri;Angebote;Valess-Nuggets an Ratatouillegemüse, dazu Gemüseebly;5,35;3,55;1
+2019-02-15;Fri;Angebote;Chili con Kürbis mit Basmati Reis;3,85;2,05;2
+2019-02-16;Sat;Angebote;Kohlroulade in deftiger Schmorkrautsoße, dazu Petersilienkartoffeln;4,7;2,9;0
+2019-02-16;Sat;Angebote;Gebackene Polenta-Käseschnitte, dazu Tomatensalsa, buntes Gemüse und fruchtiger Eisbergsalat;5,3;3,5;1
+2019-02-17;Sun;Angebote;Schweinekammbraten an Rahmwirsing und gebackene Kartoffelbällchen;4,6;2,8;0
+2019-02-17;Sun;Angebote;Pastinaken-Steckrübenrösti mit Rahmwirsing und Kartoffelbällchen;4,75;2,95;1
+2019-02-18;Mon;Angebote;Schweinekammsteak-Mexiko mit Speck, Kidneybohnen, Champigon und Mais, dazu buntes Gemüse und Amazing fries;4,75;2,95;0
+2019-02-18;Mon;Angebote;Schwarzwurzel-Knusperkarrees an Ratatouille, dazu Bulgursalat mit Linsen und Pfirsich;5,1;3,3;1
+2019-02-18;Mon;Angebote;Vollkornspirelli mit Bolognese oder Pastasoße mit Champignons und getrockneten Tomaten, dazu geriebenen Käse;4,0;2,2;0
+2019-02-19;Tue;Angebote;Seelachsfilet in Backteig, dazu Kartoffelpüree und Möhrensalat mit Rosinen;4,5;2,7;0
+2019-02-19;Tue;Angebote;Maisgrießbällchen mit Ratatouillefüllung, dazu grüne Bohnen in Tomaten-Sahnesoße und Möhrensalat mit Rosinen;5,0;3,2;1
+2019-02-19;Tue;Angebote;Deftiger Möhren-Kartoffeltopf, dazu ein Brötchen oder eine Scheibe Brot;4,0;2,2;0
+2019-02-20;Wed;Angebote;Schinkenbraten vom Schwein an Möhrengemüse und Kartoffelbälle;4,5;2,7;0
+2019-02-20;Wed;Angebote;Schupfnudeln mit Basilikum Pesto, dazu Ratatouille-Gemüse und Avocado-Mayonnaise;5,1;3,3;1
+2019-02-21;Thu;Angebote;Chicken Wings mit Amazing Fries, dazu Salat;5,35;3,55;0
+2019-02-21;Thu;Angebote;Hausgemachte Pasta mit Tomatensoße und Ricotta, dazu gehobelter italienischer Hartkäse Grana Padano;4,85;3,05;1
+2019-02-21;Thu;Angebote;Milchreis mit Zimt und Zucker, dazu Sauerkirschen;4,05;2,25;1
+2019-02-22;Fri;Angebote;"Hähnchenbrust Picata mit Paprikasoße und mediterranem Gemüsecouscous, dazu Gemüsesalat ""Budapest""";4,5;2,7;0
+2019-02-22;Fri;Angebote;Paprikaschote mit Soja-Gemüsefüllung, dazu Paprikasoße und mediterraner Gemüsecouscous;5,25;3,45;2
+2019-02-22;Fri;Angebote;Nürnberger Bratwürstchen mit buntem Gemüse und Kartoffelpüree;;;0
+2019-02-23;Sat;Angebote;Putengeschnetzeltes mit Champignons, dazu Basmati Reis;4,75;2,95;0
+2019-02-23;Sat;Angebote;Kichererbsenbällchen an Paprika-Sojajoghurt-Dip, dazu Rote Bete-Gnocchi mit Gemüse und bunter Salat;5,3;3,5;2
+2019-02-24;Sun;Angebote;Frikadelle mit Schwarzbiersoße, dazu Karottenrahmgemüse und Petersilienkartoffeln;5,05;3,25;0
+2019-02-24;Sun;Angebote;Paprikaschote mit Soja dazu Karottenrahmgemüse und Petersilienkartoffeln;4,75;2,95;1
+2019-02-25;Mon;Angebote;Hähnchenbrust kreolische Art mit Champignons, Paprika, Tomaten und Oliven, dazu buntes Gemüse und Kartoffelbällchen;4,9;3,1;0
+2019-02-25;Mon;Angebote;Polenta-Käse-Knusperschnitte auf Ratatouillegemüse, dazu bunter Blattsalat;4,55;2,75;1
+2019-02-25;Mon;Angebote;Spaghetti an Rahmsoße mit Tomaten und Auberginen, dazu geriebenen Käse;4,0;2,2;1
+2019-02-26;Tue;Angebote;Seelachs-Schlemmerfilet Broccoli, dazu Bratkartoffeln und Bohnensalat;4,65;2,85;0
+2019-02-26;Tue;Angebote;Kartoffel-Möhren-Bällchen an orientalischem Risotto mit Lauch, Minze und Tomate, dazu bunter Eisbergsalat;4,15;2,35;2
+2019-02-26;Tue;Angebote;Ungarischer Kesselgulasch, dazu ein Brötchen oder eine Scheibe Brot;3,95;2,15;0
+2019-02-27;Wed;Angebote;Schweinehackbraten mit Hirtenkäse und Oliven, dazu Bratensoße, Prinzessbohnen und Macairekartoffeln;4,45;2,65;0
+2019-02-27;Wed;Angebote;Vegetarische Maultaschen mit Tomatenconcassee an Champignonpfanne;4,9;3,1;1
+2019-02-27;Wed;Angebote;Rahmspinat mit Rührei und Salzkartoffeln;4,05;2,25;1
+2019-02-28;Thu;Angebote;Radeberger Schweineroulade mit Camembert-Füllung, dazu Rosenkohl mit Schinken, Kartoffelklöße oder Salzkartoffeln;5,2;3,4;0
+2019-02-28;Thu;Angebote;Hausgemachte Pasta mit frischem Tomaten-Basilikumpesto, dazu gehobelter italienischer Hartkäse Grana Padano;4,05;2,25;1
+2019-02-28;Thu;Angebote;Kaiserschmarrn mit Apfelmus;4,0;2,2;1
+2019-03-01;Fri;Angebote;Kohlroulade in deftiger Bratensoße, dazu Petersilienkartoffeln;4,25;2,45;0
+2019-03-01;Fri;Angebote;Rucola-Süßkartoffelschnitte mit scharfer Tomatensalsa und Gemüseebly;4,35;2,55;2
+2019-03-01;Fri;Angebote;Chili con carne, dazu Kräuterreis;3,95;2,15;0
+2019-03-02;Sat;Angebote;Hähnchenschnitzel mit Broccoli und Käse, an Broccolirahmgemüse und Pommes frites;4,75;2,95;0
+2019-03-02;Sat;Angebote;Broccoli-Karottenküchlein mit Basilikumsoße, dazu mediterraner Gemüsereis;5,1;3,3;1
+2019-03-04;Mon;Angebote;Hähnchenbrust mit Estragon- Zwiebelsoße, dazu Sommergemüse und Kroketten;5,05;3,25;0
+2019-03-04;Mon;Angebote;Kartoffelrösti mit Tomate und Mozzarella überbacken, dazu Blattsalat mit Roter Bete, Birnen und Balsamicodressing;4,4;2,6;1
+2019-03-04;Mon;Angebote;Penne Rigate an Gorgonzolasoße mit Schinkenstreifen, dazu geriebenen Käse;3,95;2,15;0
+2019-03-05;Tue;Angebote;Paniertes Seelachsfilet mit Spinat-Käsefüllung, dazu Möhren-Kartoffelstampf und Gurken-Bohnensalat;5,35;3,55;0
+2019-03-05;Tue;Angebote;Zwei Spinatmedaillons an Tomaten-Rucola-Risotto, dazu Möhrensalat mit Apfel;5,3;3,5;1
+2019-03-06;Wed;Angebote;Grillzopf vom Schweinekamm mit Letschosoße, dazu buntes Gemüse und Pommes Frites;;;0
+2019-03-06;Wed;Angebote;Rote Bete Gnocchi mit Tomatenpesto, dazu bunter Gemüseteller und Avocado-Mayonnaise;5,3;3,5;2
+2019-03-06;Wed;Angebote;Lasagne Bologneser Art;3,95;2,15;0
+2019-03-07;Thu;Angebote;Rinderroulade, dazu Rotkohl und Kartoffelklöße oder Salzkartoffeln;5,35;3,55;0
+2019-03-07;Thu;Angebote;Blumenkohl im Backteig mit Knoblauchcreme, dazu Ratatouillegemüse und Kartoffeln;4,75;2,95;1
+2019-03-07;Thu;Angebote;Kräuterquark mit Salzkartoffeln, Butter und Bauernsalat;4,05;2,25;1
+2019-03-08;Fri;Angebote;Back-Camembert mit Preiselbeersahne, dazu Bratkartoffeln und Salat;5,1;3,3;1
+2019-03-08;Fri;Angebote;Schweineschnitzel mit  Erbsengemüse und Bratkartoffeln;4,05;2,25;0
+2019-03-09;Sat;Angebote;Soja-Schnitzel an Spinat-Risotto, dazu Kräuterquark und Chicoree-Salat mit Früchten;5,35;3,55;1
+2019-03-09;Sat;Angebote;Rinder-Sahne-Gulasch, dazu Rosenkohl oder Rotkraut und Kartoffeln;4,75;2,95;0
+2019-03-11;Mon;Angebote;6 Korn-Putenschnitzel, dazu glasierte Honigmöhren und gebackene Kartoffelecken mit Sauerrahm-Dip;5,2;3,4;0
+2019-03-11;Mon;Angebote;Italienisches Gemüserisotto, dazu gebackene kleine Teigtaschen mit Curry-Gemüsefüllung und Chinakohlsalat;4,85;3,05;1
+2019-03-11;Mon;Angebote;Gabelspaghetti an Tomatensoße mit Wurzelgemüse, dazu geriebenen Käse;3,9;2,1;1
+2019-03-12;Tue;Angebote;Gebackenes Schollenfilet an griechischem Nudelsalat mit Hirtenkäse, Tomaten, Paprika und Oliven;4,7;2,9;0
+2019-03-12;Tue;Angebote;Orientalische Gemüsepfanne mit Couscous, dazu scharfe Soja-Joghurtsoße;3,85;2,05;2
+2019-03-12;Tue;Angebote;Linseneintopf süßsauer mit einem Paar Wiener Würstchen, dazu eine Scheibe Brot oder ein Brötchen;4,05;2,25;0
+2019-03-13;Wed;Angebote;"Rinderhacksteak ""Räuber Art"" mit Salami, Paprika, Gewürzgurke und Kapern, dazu buntes Gemüse und Kartoffelkroketten";4,7;2,9;0
+2019-03-13;Wed;Angebote;Kohlrabi-Kräutermedaillons an rahmigem Gemüse, dazu Schupfnudeln;4,65;2,85;1
+2019-03-13;Wed;Angebote;Hausgemachte Eierkuchen mit Beerengrütze;3,9;2,1;1
+2019-03-14;Thu;Angebote;Großer Angus-Rindfleischburger, dazu Pommes frites;6,5;4,7;0
+2019-03-14;Thu;Angebote;Gebackene Valess-Nuggets mit Chili-Tomaten-Dip, dazu Linsencurry und bunter Zupfsalat;4,9;3,1;1
+2019-03-14;Thu;Angebote;Paprikapfanne mit Ingwer und Bambus, dazu grüner Bulgursalat;4,05;2,25;1
+2019-03-15;Fri;Angebote;Blätterteigtasche gefüllt mit Champignons, dazu Basilikum-Quark-Dip, Gemüseebly und Blattsalat mit Limetten-Joghurtdressing;4,6;2,8;1
+2019-03-15;Fri;Angebote;Bierkammsteak mit Zwiebelsoße, dazu Bratkartoffeln und bunter Krautsalat;4,05;2,25;0
+2019-03-16;Sat;Angebote;Panierter Hirtenkäse mit Tsatsiki, dazu buntes Gemüse und Kartoffelgratin;4,9;3,1;1
+2019-03-16;Sat;Angebote;"Putenstreifen ""Caipirinha"" mit Champignons, Paprika und Lauchzwiebeln, dazu Basmati Reis";5,25;3,45;0
+2019-03-18;Mon;Angebote;Großes Schweinekammschnitzel, dazu Erbsengemüse und Pommes frites;4,85;3,05;0
+2019-03-18;Mon;Angebote;Steckrüben-Karottenragout mit Curry und Limette, dazu Basmati Reis;4,2;2,4;2
+2019-03-18;Mon;Angebote;Spaghetti Bolognese, dazu geriebenen Käse;3,9;2,1;0
+2019-03-19;Tue;Angebote;Gebackenes Seelachsfilet in Sesampanade mit Tatarensoße oder Tsatsiki, dazu Kartoffelpüree und Bohnensalat;4,9;3,1;0
+2019-03-19;Tue;Angebote;Schupfnudel-Gemüsepfanne, dazu Käsesoße und bunter Chinakohlsalat;4,25;2,45;1
+2019-03-19;Tue;Angebote;Lauch-Hackfleischtopf mit Champignons, dazu ein Brötchen oder eine Scheibe Brot;4,05;2,25;0
+2019-03-20;Wed;Angebote;Hähnchen Piccata mit Apfelsoße, dazu Broccoli und Kartoffelkroketten;4,75;2,95;0
+2019-03-20;Wed;Angebote;Spinat-Karottenrösti mit Tomaten-Olivenragout, dazu gemischter Wildreis;4,65;2,85;1
+2019-03-20;Wed;Angebote;Zucchini-Kartoffelpuffer, dazu Kräuterquark-Dip und Blattsalat;;;1
+2019-03-21;Thu;Angebote;Szegediner Gulasch mit Salzkartoffeln;4,35;2,55;0
+2019-03-21;Thu;Angebote;Gebackene Briespitze mit Preiselbeersahne, dazu Bratkartoffeln und Salat;5,15;3,35;1
+2019-03-21;Thu;Angebote;Pasta mit frischem Bärlauch-Ruccolapesto, dazu gehobelter italienischer Hartkäse Grana Padano;4,05;2,25;1
+2019-03-22;Fri;Angebote;Hähnchenbrustfilet in Kokospanade an Wokgemüse süßsauer, dazu Thai-Reis;4,8;3,0;0
+2019-03-22;Fri;Angebote;Käsespätzle mit Tomatenragout;4,05;2,25;1
+2019-03-23;Sat;Angebote;Eibauer Schwarzbierfleisch, dazu Bohnen-Paprikagemüse und Petersilienkartoffeln;4,45;2,65;0
+2019-03-23;Sat;Angebote;Bunter Gemüseteller mit Kräutersoße und Schwenkkartoffeln;4,25;2,45;2
+2019-03-25;Mon;Angebote;Schweineschnitzel in der Käsepanade, dazu buntes Gemüse und Bratkartoffeln;4,75;2,95;0
+2019-03-25;Mon;Angebote;Gebackene Zucchini-Pakoras mit Tomatensalsa (leicht scharf), dazu Pestokartoffeln;4,75;2,95;2
+2019-03-25;Mon;Angebote;Penne Rigate an Pastasoße mit Lachs und Blattspinat, dazu geriebenen Käse;4,05;2,25;0
+2019-03-26;Tue;Angebote;Seelachsfilet in Eipanade mit buntem Gemüse, dazu Kartoffelpüree;4,6;2,8;0
+2019-03-26;Tue;Angebote;Hausgemachter Buchweizenbrätling mit Pilzen, Zwiebeln und Gouda, dazu cremiges Frischkäse-Zuckerschoten-Risotto und Salat;4,6;2,8;1
+2019-03-26;Tue;Angebote;Sächsische Kartoffelsuppe mit einem Apfel (vegane Variante), dazu ein Brötchen oder eine Scheibe Brot;4,05;2,25;0
+2019-03-27;Wed;Angebote;Schinkenbraten mit Backpflaumensoße, dazu Prinzessbohnen, kleine Kartoffelklöße;4,65;2,85;0
+2019-03-27;Wed;Angebote;Kartoffel-Käsefrikadelle an Tomaten-Zucchiniragout, dazu Bohnensalat;4,55;2,75;1
+2019-03-27;Wed;Angebote;Möhrenpfannkuchen, dazu Radieschen-Kressequark und Chicorée-Paprikasalat;4,05;2,25;1
+2019-03-28;Thu;Angebote;BBQ-Rippchen mit gebackenen Kartoffelecken und Sauerrahm-Dip, dazu bunter Krautsalat;;;0
+2019-03-28;Thu;Angebote;Gemüseschnitzel, dazu veganer Tsatsiki, buntes Gemüse und gebratene Rote Bete-Gnocchi;4,9;3,1;2
+2019-03-28;Thu;Angebote;Bratwurst mit Sauerkraut und Kartoffelpüree;4,05;2,25;0
+2019-03-29;Fri;Angebote;Koch-Klopse in Karpernsoße, dazu Möhrengemüse und Reis;4,25;2,45;0
+2019-03-29;Fri;Angebote;Bratkartoffeln mit Tomate und Mozzarella, dazu Blattsalat;4,05;2,25;1
+2019-03-30;Sat;Angebote;Jägerschnitzel (panierte Jagdwurst), dazu Makkaroni mit fruchtiger Tomatensoße;4,65;2,85;0
+2019-03-30;Sat;Angebote;Blumenkohlmedaillon mit Schnittlauch-Dip, dazu Bratkartoffeln und Salat;4,35;2,55;1
+2019-04-01;Mon;Angebote;Schweinekammsteak mit deftiger Auflage aus Salami, Gurken, Senf, Käse und Schwarzbrot, dazu buntes Gemüse und Amazing fries;5,35;3,55;0
+2019-04-01;Mon;Angebote;Soja-Schnitzel an Champignonragout Mailänder Art, dazu Bratkartoffeln;5,3;3,5;1
+2019-04-01;Mon;Angebote;Vollkornspirelli mit spanischer Hackfleischsoße oder Broccoli-Sahne-Käsesoße, dazu geriebenen Käse;4,05;2,25;0
+2019-04-02;Tue;Angebote;Gebackene Schellfischfilets in der Cornflakespanade, dazu Kartoffel-Zitronenstampf und Gurken-Tomatensalat;4,75;2,95;0
+2019-04-02;Tue;Angebote;Zucchini-Karotten-Pakoras mit Paprika-Sojajoghurt-Dip, dazu Gemüseebly;4,85;3,05;2
+2019-04-02;Tue;Angebote;Ungarischer Kesselgulasch, dazu ein Brötchen oder eine Scheibe Brot;4,05;2,25;0
+2019-04-03;Wed;Angebote;Lausitzer Kümmelbraten an Bayrischkraut, dazu Kartoffelkroketten oder Salzkartoffeln;4,75;2,95;0
+2019-04-03;Wed;Angebote;Zwei Mini Soufflee mit Spinat und Käse auf Ratatouillegemüse, dazu Chinakohlsalat;5,1;3,3;1
+2019-04-03;Wed;Angebote;Pilzschmarrn mit Schnittlauchrahm und Rote-Bete-Salat;4,05;2,25;1
+2019-04-04;Thu;Angebote;Pulled Pork Burger mit Amazing fries;4,75;2,95;0
+2019-04-04;Thu;Angebote;Hausgemachte Pasta mit Soße Napoli (Sellerie, Kapern, Oliven und Tomaten), dazu gehobelter italienischer Hartkäse Grana Padano;4,05;2,25;1
+2019-04-04;Thu;Angebote;Milchgrieß mit Zimt und Zucker, dazu Sauerkirschen;4,05;2,25;1
+2019-04-05;Fri;Angebote;Sahne-Zwiebelhähnchen an Möhrengemüse und Reis;4,75;2,95;0
+2019-04-05;Fri;Angebote;Gebratene Auberginenscheiben im Haferflockenmantel, dazu Kräuter-Dip und mediterraner Gemüsecouscous;;;2
+2019-04-05;Fri;Angebote;Zwei gekochte Eier an Senfsoße, dazu buntes Gemüse und Petersilienkartoffeln;4,05;2,25;1
+2019-04-06;Sat;Angebote;Gemüse-Goudastäbchen mit Rucola-Dip, dazu buntes Gemüse;4,85;3,05;1
+2019-04-06;Sat;Angebote;Schweinegeschnetzeltes Züricher Art, dazu Broccoligemüse und Butterspätzle;4,75;2,95;0
+2019-04-07;Sun;Angebote;Hähnchenbrust in Honig-Balsamicosoße, dazu buntes Gemüse und Kartoffelkroketten;5,0;3,2;1
+2019-04-07;Sun;Angebote;Valess-Schnitzel mit feiner Tomatenfüllung, dazu buntes Gemüse und Pastasotto;4,75;2,95;1
+2019-04-08;Mon;Angebote;Gegrillte Hähnchenbrust mit Mango-Chilichutney, dazu Honigmöhren und Pommes Twister;5,2;3,4;0
+2019-04-08;Mon;Angebote;Rösti aus Mais, Kartoffeln, Lauch und Käse, dazu Zartweizen-Risotto und gezupfter Blattsalat mit Honig-Senfdressing;5,05;3,25;1
+2019-04-08;Mon;Angebote;Muschelnudeln an Tomatensoße mit Jagdwurst oder Basilikumsoße, dazu geriebenen Käse;4,05;2,25;0
+2019-04-09;Tue;Angebote;Seelachs im Backteig an Remouladensoße, dazu Kartoffelpüree und Salat;4,65;2,85;0
+2019-04-09;Tue;Angebote;Gemüseragout Kokos-Curry, dazu Rote Bete-Gnocchi und bunter Eisbergsalat;5,05;3,25;2
+2019-04-09;Tue;Angebote;Brühnudeln mit Geflügelfleisch, dazu ein Brötchen oder Scheibe Brot;3,9;2,1;0
+2019-04-10;Wed;Angebote;Sauerbratenragout, dazu Apfelrotkohl, Kartoffelklöße oder Petersilienkartoffeln;4,75;2,95;0
+2019-04-10;Wed;Angebote;Gebackene Champignons im Backteig, dazu Knoblauchcreme, buntes Gemüse und Bratkartoffeln;;;1
+2019-04-10;Wed;Angebote;Tortelloni mit Spinat-Ricotta-Füllung in Tomatensoße und Käse überbacken;3,95;2,15;1
+2019-04-11;Thu;Angebote;Big Cheeseburger, dazu Pommes frites;5,65;3,85;0
+2019-04-11;Thu;Angebote;Hausgemachte Pasta mit Bärlauchpesto und Rucola, dazu gehobelter italienischer Hartkäse Grana Padano;4,25;2,45;1
+2019-04-11;Thu;Angebote;Zwei Buttermilchplinsen, dazu Apfelmus;3,75;1,95;1
+2019-04-12;Fri;Angebote;Schweineschnitzel mit Champignonsoße, dazu Broccoli-Blumenkohlgemüse und Kartoffelkroketten;4,65;2,85;0
+2019-04-12;Fri;Angebote;Käsesoufflee, dazu Tomatenratatouille und bunter Chinakohlsalat;4,75;2,95;1
+2019-04-12;Fri;Angebote;Knusprige Gemüsefrikadelle, dazu Rahmporree und Pestokartoffeln;;;2
+2019-04-13;Sat;Angebote;Rindergulasch ungarischer Art, dazu Hefeknödel oder Petersilienkartoffeln;4,45;2,65;0
+2019-04-13;Sat;Angebote;Falafelbällchen auf einem buntem Gemüseteller, dazu Bärlauchsoße;4,4;2,6;2
+2019-04-14;Sun;Angebote;Rinderfrikadelle mit Zwiebelsoße, dazu Blumenkohlröschen und Bratkartoffeln;4,85;3,05;0
+2019-04-14;Sun;Angebote;Pastinaken-Steckrübenrösti, dazu Rahmgemüse und Bratkartoffeln;4,75;2,95;1
+2019-04-15;Mon;Angebote;Putensteak mit Bolognese überbacken, dazu buntes Gemüse und Pommes frites;4,95;3,15;0
+2019-04-15;Mon;Angebote;Drei Kartoffeltaschen mit Frischkäsefüllung auf Bohnen-Mais-Paprikagemüse, dazu Friseesalat mit Himbeerdressing;4,9;3,1;1
+2019-04-15;Mon;Angebote;Spirelli mit Putenstreifen in fruchtiger Currysoß, dazu geriebenen Käse;4,05;2,25;0
+2019-04-16;Tue;Angebote;Gebratenes Hokifilet mit Zitronenbutter, dazu Kartoffel-Erbsenstampf und Tomatensalat;5,15;3,35;0
+2019-04-16;Tue;Angebote;Gebratene Gnocchi, dazu buntes Gemüse und Avocado-Mayonnaise;5,1;3,3;1
+2019-04-16;Tue;Angebote;Lauch-Hackfleischtopf mit Champignons, dazu ein Brötchen oder eine Scheibe Brot;4,05;2,25;0
+2019-04-17;Wed;Angebote;Lammgulasch, dazu Schwarzwurzel-Karottengemüse und kleine Kartoffelklöße;4,95;3,15;0
+2019-04-17;Wed;Angebote;Champignon-Lauchpfanne an Rösti-Ecken, dazu Salat;4,55;2,75;2
+2019-04-17;Wed;Angebote;Kaiserschmarrn mit Apfelmus;4,05;2,25;1
+2019-04-18;Thu;Angebote;Hähnchenschnitzel mit Letschosoße, dazu Erbsengemüse und Pommes frites;4,95;3,15;0
+2019-04-18;Thu;Angebote;Zucchini gefüllt mit Pilzen, Kräutern und Polenta, dazu Tomaten-Salsa und bunter Eisbergsalat;;;2
+2019-04-18;Thu;Angebote;Käsespätzle mit fruchtiger Tomatensoße, dazu Salat;3,85;2,05;1
+2019-04-23;Tue;Angebote;Marinierter Hering nach Hausfrauen Art mit Bratkartoffeln und Bauernsalat;5,05;3,25;0
+2019-04-23;Tue;Angebote;Spinat-Karottenrösti mit Ratatouillegemüse und Basmati Reis;4,75;2,95;1
+2019-04-23;Tue;Angebote;Spaghetti mit Hackfleisch-Gorgonzola-Zucchinisoße oder Pastasoße mit Champignons und getrockneten Tomaten, dazu geriebenen Käse;4,0;2,2;0
+2019-04-24;Wed;Angebote;Schweinskammbraten, dazu glasierte Honigmöhren und Herzoginkartoffeln;4,45;2,65;0
+2019-04-24;Wed;Angebote;Rahmspinat mit Rührei und Kartoffeln;4,05;2,25;1
+2019-04-24;Wed;Angebote;Sächsische Kartoffelsuppe mit einem Paar Wiener Würstchen oder einem Apfel (vegetarische Variante), dazu eine Scheibe Brot oder ein Brötchen;4,05;2,25;0
+2019-04-25;Thu;Angebote;Hirschgulasch an Kirschrotkohl und Kräuterspätzle;4,85;3,05;0
+2019-04-25;Thu;Angebote;Pasta mit Tomaten-Ricotta-Soße, dazu gehobelter italienischer Hartkäse Grana Padano;4,05;2,25;1
+2019-04-25;Thu;Angebote;Zucchini-Kartoffelpuffer an Kräuter-Dip, dazu fruchtiger Chinakohlsalat;3,85;2,05;1
+2019-04-26;Fri;Angebote;Schweinefilet im Baconmantel an Pfefferrahmsoße, Broccoli und Mandelkroketten;5,15;3,35;0
+2019-04-26;Fri;Angebote;Hausgemachte Tofufrikadelle mit Zwiebel und Paprika an Linsencurry und fruchtigem Eisbergsalat;5,05;3,25;2
+2019-04-26;Fri;Angebote;Sojaklops in Kapernsoße mit Möhrengemüse und Reis;4,0;2,2;1
+2019-04-27;Sat;Angebote;Radeberger Braumeisterfleisch, dazu Rosenkohl mit Schinken und Hefeknödel oder Kartoffeln;4,45;2,65;0
+2019-04-27;Sat;Angebote;Röstoppers mit Philadelphia, dazu buntes Gemüse und Basilikumsoße;4,75;2,95;1
+2019-04-28;Sun;Angebote;Hähnchenschnitzel Cordon bleu, dazu deftige Grillkartoffelpfanne und scharfe Tomatensalsa;5,05;3,25;0
+2019-04-28;Sun;Angebote;Hirse-Käse-Taler, dazu deftige Grillkartoffelpfanne und scharfe Tomatensalsa;4,65;2,85;1
+2019-04-29;Mon;Angebote;Schnitzel in Tortilla-Chipspanade, dazu buntes Gemüse und Pommes frites;5,0;3,2;0
+2019-04-29;Mon;Angebote;Gemüsestäbchen mit Käse auf cremigem Blattspinat und Schwenkkartoffeln;4,35;2,55;1
+2019-04-29;Mon;Angebote;Hörnchen-Nudeln mit Pastasoße Chili con carne oder Tomatensoße mit Zucchini, dazu geriebenen Käse;4,05;2,25;0
+2019-04-30;Tue;Angebote;Seelachsfilet in der Knusperpanade mit Remouladensoße, Stampfkartoffeln und Bohnensalat;4,65;2,85;0
+2019-04-30;Tue;Angebote;Zwei Erbsen-Quinoamedaillons, dazu Radieschen-Kresse-Dip und Kartoffel-Gemüsepfanne;4,75;2,95;2
+2019-04-30;Tue;Angebote;Deftiger Möhren-Kartoffeltopf, dazu ein Brötchen oder eine Scheibe Brot;3,85;2,05;0
+2019-05-02;Thu;Angebote;Gegrillte Hähnchenkeule mit Geflügelsoße, dazu buntes Gemüse und Kartoffelkroketten;4,5;2,7;0
+2019-05-02;Thu;Angebote;Blumenkohl und Wurzelgemüse in Kräuterrahm, dazu Rote Bete-Gnocchi und bunter Eisbergsalat;4,7;2,9;2
+2019-05-02;Thu;Angebote;Apfel-Milchreis und zerlassene Butter, dazu Sauerkirschen, Zucker und Zimt;3,75;1,95;1
+2019-05-03;Fri;Angebote;Schweinesteak Strindberg, dazu Erbsengemüse und Pommes frites;4,75;2,95;0
+2019-05-03;Fri;Angebote;Hausgemachte Kartoffel-Möhren-Bällchen an orientalischem Risotto mit Lauch, Minze und Tomate, dazu Chili-Dip;4,3;2,5;2
+2019-05-03;Fri;Angebote;Kartoffelrösti mit Gemüse und Creme fraiche gratiniert, dazu Chinakohlsalat;4,05;2,25;1
+2019-05-04;Sat;Angebote;2 Polenta-Käseschnitten, dazu scharfe Tomatensalsa und frisches Ofengemüse;4,95;3,15;1
+2019-05-04;Sat;Angebote;Fleischkäsepfanne mit Kartoffeln, Bohnen und Perlzwiebeln, dazu bunter Krautsalat;4,9;3,1;0
+2019-05-05;Sun;Angebote;Hähnchenbrustfilet Napoli, dazu Romanescoröschen und Pastasotto;5,05;3,25;0
+2019-05-05;Sun;Angebote;Valess-Schnitzel mit feiner Tomatenfüllung, dazu Tomaten-Olivenragout und Pastasotto;4,65;2,85;1
+2019-05-19;Sun;Angebote;Kleine Schweinshaxe mit Bratensoße, Sauerkraut und Petersilienkartoffeln;4,95;3,15;0
+2019-05-19;Sun;Angebote;Eieromelett mit Champignonfüllung, dazu Kressehollandaise, Petersilienkartoffeln und gezupfter Blattsalat;4,9;3,1;1
+2019-05-20;Mon;Angebote;Schweinekammsteak Akropolis, dazu buntes Gemüse und Amazing fries;4,9;3,1;0
+2019-05-20;Mon;Angebote;Pastinaken-Steckrüben-Rösti, dazu Ratatouillegemüse und Bulgursalat mit Linsen und Pfirsich;4,7;2,9;1
+2019-05-20;Mon;Angebote;Spaghetti mit Pastasoße Carbonara oder Tomatensoße und Wurzelgemüse, dazu geriebenen Käse;3,9;2,1;0
+2019-05-21;Tue;Angebote;Lammbraten an Bohnengemüse und Röstitaler;5,05;3,25;0
+2019-05-21;Tue;Angebote;Gemüsebällchen mit fruchtiger Currysoße an Ebly und Tomaten-Ruccolasalat;4,95;3,15;2
+2019-05-21;Tue;Angebote;Canneloni mit Spinatfüllung in Tomatensoße und Käse überbacken;3,95;2,15;1
+2019-05-22;Wed;Angebote;Seelachsfilet in Eipanade, dazu Kartoffelpüree und Gurkensalat mit Dilljoghurt;4,9;3,1;0
+2019-05-22;Wed;Angebote;Käsesoufflee, dazu Linsencurry und Chinakohlsalat;4,85;3,05;1
+2019-05-22;Wed;Angebote;Kräuterquark mit Leinsamöl verfeinert, Butter und Leberwurst oder vegetarisch mit einem Apfel, dazu Petersilienkartoffeln;3,85;2,05;0
+2019-05-23;Thu;Angebote;Hähnchenkeule Forstmeister Art, dazu buntes Gemüse und Kartoffelbällchen;4,75;2,95;0
+2019-05-23;Thu;Angebote;Hausgemachte Pasta an Rahmsoße mit Kürbis, dazu gehobelter italienischer Hartkäse Grana Padano;4,1;2,3;1
+2019-05-23;Thu;Angebote;Hausgemachte Kartoffelpuffer Gärtnerin Art, dazu Radieschen-Kresse-Dip und Salat;4,05;2,25;1
+2019-05-24;Fri;Angebote;Burrito mit Hackfleisch, Peperoni, Kidneybohnen und Paprika gefüllt, dazu gebackene Kartoffelecken mit Sauerrahm-Dip;5,1;3,3;0
+2019-05-24;Fri;Angebote;Backfrischkäse mit Mango-Dip, dazu Bratkartoffeln und bunter Krautsalat;4,6;2,8;1
+2019-05-24;Fri;Angebote;Paprikapfanne mit Ingwer und Bambus, dazu Rösti-Ecken und fruchtiger Salat;4,05;2,25;2
+2019-05-25;Sat;Angebote;Blumenkohl im Backteig mit Knoblauchcreme, dazu Kohlrabi-Möhrengemüse und Gemüseebly;4,8;3,0;1
+2019-05-25;Sat;Angebote;Gebackenes Hähnchenbrustfilet in Parmesanpanade, dazu Kohlrabi-Möhrengemüse und Pastasotto;4,75;2,95;0
+2019-05-26;Sun;Angebote;Gemüseschnitzel an Lauchcremesoße, dazu buntes Gemüse und Schwenkkartoffeln;4,45;2,65;1
+2019-05-27;Mon;Angebote;Putensteak mit Tomaten-Frischkäsecreme gratiniert, dazu Broccoli und Kartoffelbällchen;5,25;3,45;0
+2019-05-27;Mon;Angebote;Röstoppers mit Philadelphia an Ratatouillegemüse, dazu Blattsalat;4,75;2,95;1
+2019-05-27;Mon;Angebote;Penne Rigate mit Pusztasoße oder Grünkern-Bolognese, dazu geriebenen Käse;4,05;2,25;0
+2019-05-28;Tue;Angebote;Schinkenbraten mit Rosmarin-Honig-Glasur, dazu Bohnengemüse und Herzoginkartoffeln;4,55;2,75;0
+2019-05-28;Tue;Angebote;Karotten-Sesamsticks auf Porree in Bechamelsoße, dazu Bulgur;4,75;2,95;1
+2019-05-28;Tue;Angebote;Eierkuchen mit Apfelmus;3,75;1,95;1
+2019-05-29;Wed;Angebote;Gebratenes Hokifilet Müllerin Art, dazu Kartoffel-Zitronenstampf und Gurken-Bohnensalat;5,05;3,25;0
+2019-05-29;Wed;Angebote;Spinat-Karottenrösti auf Tomaten-Olivenragout, dazu gemischter Wildreis;4,7;2,9;1
+2019-05-29;Wed;Angebote;Hausgemachte Quark-Frikadelle von Schwein und Rind mit Bratensoße, dazu Möhrengemüse und Schwenkkartoffeln;4,05;2,25;0
+2019-05-31;Fri;Angebote;Hamburger mit Steak fries;5,35;3,55;0
+2019-05-31;Fri;Angebote;Backkartoffel mit Hüttenkäse gefüllt, dazu bunter Gemüseteller;4,45;2,65;1
+2019-05-31;Fri;Angebote;Kichererbsen-Gemüsecurry mit Basmati Reis;3,85;2,05;2
+2019-06-01;Sat;Angebote;Strudelteig gefüllt mit Karotten, Erbsen, Bohnen, Blumenkohl, Kohlrabi und weißen Rüben, dazu Hüttenkäsecreme, Bombay-Kartoffeln und Salat;4,75;2,95;1
+2019-06-01;Sat;Angebote;Ungarischer Gulasch mit Hefeknödel oder Kartoffeln;4,45;2,65;0
+2019-06-02;Sun;Angebote;Gebackenes Schweinerückenschnitzel mit Champignonsoße, dazu buntes Gemüse und Kroketten;4,8;3,0;0
+2019-06-02;Sun;Angebote;Blumenkohl-Käsemedaillon mit Champignonsoße, dazu buntes Gemüse und Kroketten;4,55;2,75;1
+2019-06-03;Mon;Angebote;Gegrilltes Hähnchenbrustfilet, dazu buntes Spargel-Tomatenragout und Macairekartoffeln;5,15;3,35;0
+2019-06-03;Mon;Angebote;Broccoli-Nußecke, dazu Grünkern-Reispfanne mit Rucola und Kürbiskernen und scharfe Tomatensalsa;4,65;2,85;2
+2019-06-03;Mon;Angebote;Penne Rigate mit Pastasoße Tomatenratatouille, dazu geriebenen Gouda;4,05;2,25;1
+2019-06-04;Tue;Angebote;Paniertes Schweineschnitzel, dazu Bratensoße, frischer Stangenspargel mit Kräuterhollandaise, Kartoffelkroketten oder Petersilienkartoffeln;6,0;4,2;0
+2019-06-04;Tue;Angebote;Gnocchi mit Tomatenpesto, dazu Ofengemüse und Avocado-Mayonnaise;5,35;3,55;2
+2019-06-04;Tue;Angebote;Rahmspinat mit Rührei und Petersilienkartoffeln;4,05;2,25;1
+2019-06-05;Wed;Angebote;Gebratenes Pangasiusfilet, dazu gegrilltes Spargel-Karottengemüse und grüner Kartoffelpüree;5,75;3,95;0
+2019-06-05;Wed;Angebote;Räuchertofu paniert mit Haferflocken an Bulgur und Dörrobst, Möhren-Ananassalat, dazu Mangochutney;4,9;3,1;2
+2019-06-05;Wed;Angebote;Hausgemachte Möhrenpfannkuchen, dazu Radieschen-Kresse-Dip und bunter Eisbergsalat;;;1
+2019-06-06;Thu;Angebote;Sauerbraten mit Apfelrotkohl, Kartoffelklößen oder Petersilienkartoffeln;4,7;2,9;0
+2019-06-06;Thu;Angebote;Hausgemachte frische Pasta mit Spargel-Tomatenpesto, dazu geriebenen Käse;4,55;2,75;1
+2019-06-06;Thu;Angebote;Chili sin Carne mit Kräuterreis, dazu Chicoreesalat mit Früchten;3,8;2,0;2
+2019-06-07;Fri;Angebote;Zartes Schweinefilet an Pfefferrahmsoße, dazu frischer Spargel mit Semmelbröseln oder Hollandaise und Kartoffelbällchen;5,9;4,1;0
+2019-06-07;Fri;Angebote;2 Grillwürstchen mit Letschosoße, dazu Erbsengemüse und Kartoffelrösti;4,05;2,25;0
+2019-06-07;Fri;Angebote;Hausgemachte Kartoffel-Käsefrikadelle auf rahmigen Blattspinat, dazu Chinakohlsalat mit Wassermelone;4,3;2,5;1
+2019-06-11;Tue;Angebote;Hähnchenbrust kreolische Art mit Champignons, Paprika, Tomaten und schwarzen Oliven(scharf), dazu buntes Gemüse und Kartoffelkroketten;4,75;2,95;0
+2019-06-11;Tue;Angebote;Kohlrabi-Kräutermedaillons an Spargel-Risotto mit Erbsen und Minze, dazu bunter Eisbergsalat;4,95;3,15;1
+2019-06-11;Tue;Angebote;Lasagne Bologneser Art;4,05;2,25;0
+2019-06-12;Wed;Angebote;Fischstäbchen an Möhren-Kartoffelstampf und Gurkensalat;4,65;2,85;0
+2019-06-12;Wed;Angebote;3 Rösti-Ecken mit Kräuterquark und Bauernsalat;4,35;2,55;1
+2019-06-12;Wed;Angebote;Pilzschmarrn mit Schnittlauchrahm und Rote-Bete-Salat;4,05;2,25;1
+2019-06-13;Thu;Angebote;Schweinskrustenbraten, dazu Bayrischkraut und Herzoginkartoffeln;4,45;2,65;0
+2019-06-13;Thu;Angebote;Hausgemachte Pasta mit Pastasoße Napoli oder Pusztasoße, dazu geriebenen Käse;4,0;2,2;1
+2019-06-13;Thu;Angebote;Milchgrieß mit zerlassener Butter, Zucker und Zimt, dazu Erdbeerkompott;3,75;1,95;1
+2019-06-14;Fri;Angebote;Gyros in Metaxasoße mit Hirtenkäse überbacken, dazu Tsatsiki, Erbsengemüse und Pommes frites;4,75;2,95;0
+2019-06-14;Fri;Angebote;Champignon-Bohnenpfanne mit Reibekuchen und Salat;4,0;2,2;1
+2019-06-14;Fri;Angebote;Hausgemachte Buchweizenbrätling auf Tomaten-Olivenragout, dazu Pestokartoffeln;;;1
+2019-06-17;Mon;Angebote;Schweinekammsteak mit Salami, Lauch, Hirtenkäse und Tsatsiki, dazu buntes Gemüse und Amazing fries;4,95;3,15;0
+2019-06-17;Mon;Angebote;Gemüse-Vollkornbrätling an asiatischem Gemüse süß-sauer,dazu Reis;4,6;2,8;1
+2019-06-17;Mon;Angebote;Gabelspaghetti mit Lauch-Hackfleisch-Käsesoße, dazu geriebenen Käse;3,95;2,15;0
+2019-06-18;Tue;Angebote;Putenbrustbraten mit Apfelsoße, dazu Honigmöhren und Kartoffelbällchen;4,7;2,9;0
+2019-06-18;Tue;Angebote;Gemüseragout Kokos-Curry, dazu gebratene Rote Bete-Gnocchi und bunter Eisbergsalat;5,05;3,25;1
+2019-06-18;Tue;Angebote;Griechischer Nudelauflauf mit Schweinefleisch und Hirtenkäse;4,05;2,25;0
+2019-06-19;Wed;Angebote;Seelachs-Schlemmerfilet Bordelaise, dazu Kartoffelsalat und Tomatensalat;4,7;2,9;0
+2019-06-19;Wed;Angebote;Blumenkohlröschen im Backteig mit Knoblauchcreme, dazu Gemüseebly und Möhrensalat mit Apfel;4,95;3,15;1
+2019-06-19;Wed;Angebote;Mecklenburger Sahnegurken mit Schwenkkartoffeln;4,05;2,25;1
+2019-06-20;Thu;Angebote;Hähnchenkeule spanische Art mit Champignons, Oliven, Mais und Tomaten, dazu Erbsen und Kartoffelbällchen;4,75;2,95;0
+2019-06-20;Thu;Angebote;Hausgemachte Pasta mit Zucchini-Basilikum-Pesto, dazu geriebenen Käse;4,1;2,3;1
+2019-06-20;Thu;Angebote;Zwei Buttermilchplinsen mit Heidelbeeren;4,0;2,2;1
+2019-06-21;Fri;Angebote;Cheeseburger, dazu Pommes frites;5,45;3,65;0
+2019-06-21;Fri;Angebote;Gebackener Frischkäse mit Preiselbeersahne, dazu Bratkartoffeln und bunter Chinakohlsalat;4,55;2,75;1
+2019-06-21;Fri;Angebote;Austernpilze und Champignons in Rahmsoße, dazu Röstitaler, Blattsalat mit Apfel-Balsamicodressing;4,05;2,25;1
+2019-06-22;Sat;Angebote;Krautnudeln mit Salami, dazu Tomatensoße und geriebenen Käse;4,4;2,6;0
+2019-06-22;Sat;Angebote;Schwarzwurzel-Knusper-Karee, dazu mediterranes Pfannengemüse und Rucola-Dip;4,95;3,15;1
+2019-06-23;Sun;Angebote;Hähnchenbrust in Honig-Balsamicosoße, dazu rustikales Möhrengemüse und Zartweizen-Risotto;4,85;3,05;0
+2019-06-23;Sun;Angebote;Spinat-Käseküchlein mit Ratatouillegemüse und Zartweizen-Risotto;4,95;3,15;1
+2019-06-24;Mon;Angebote;Putensteak gratiniert mit Bolognese und Käse, dazu buntes Gemüse und Pommes frites;5,25;3,45;0
+2019-06-24;Mon;Angebote;Wiener Sojaschnitzel, dazu Pastasotto und Blattsalat mit Honig-Senfdressing;4,6;2,8;1
+2019-06-24;Mon;Angebote;Spirelli an Pastasoße mit Hähnchen und Curry, dazu geriebenen Käse;4,05;2,25;0
+2019-06-25;Tue;Angebote;Schweinebraten mit Senf-Kräuterkruste, dazu Prinzessbohnen, kleine Kartoffelklöße oder Petersilienkartoffeln;4,55;2,75;0
+2019-06-25;Tue;Angebote;Duett aus Rote Bete-Gnocchi und Süßkartoffel-Gnocchi, dazu Ofengemüse und Avocado-Mayonnaise;;;1
+2019-06-25;Tue;Angebote;Steckrüben-Karottenragout mit buntem Pfeffer und Minze, dazu Püree von Roten Linsen mit Tomate, Rosine, Minze und Ingwer;3,9;2,1;2
+2019-06-26;Wed;Angebote;Alaska Pollack in Eipanade mit Tatarensoße, dazu mediterraner Nudelsalat;4,55;2,75;0
+2019-06-26;Wed;Angebote;Champignon-Lauchpfanne an Rösti-Ecken, dazu Salat;4,35;2,55;1
+2019-06-26;Wed;Angebote;Zwei scharfe Kokosplinsen, dazu Sesam-Koriander-Dip und Möhren-Apfel-Salat;3,95;2,15;1
+2019-06-27;Thu;Angebote;Hähnchenschnitzel mit Letschosoße, dazu Erbsen und Amazing fries;4,95;3,15;0
+2019-06-27;Thu;Angebote;Pasta an Tomatensoße mit Ricotta, dazu geriebenen Käse;4,2;2,4;1
+2019-06-27;Thu;Angebote;Kartoffelpuffer Gärtnerin Art mit Kräuterquark-Dip, dazu bunter Eisbergsalat;;;1
+2019-06-28;Fri;Angebote;Zwiebelsteak, dazu hausgemachter Kartoffelsalat;4,55;2,75;0
+2019-06-28;Fri;Angebote;Scharfes Kartoffel-Kürbiscurry mit Falafelbällchen, dazu Rotkohlsalat;4,25;2,45;1
+2019-06-28;Fri;Angebote;Käsespätzle mit Tomatensoße und Salat;3,85;2,05;1
+2019-06-29;Sat;Angebote;Sauerbratenragout vom Rind, dazu Apfelrotkohl, Kartoffelklöße oder Gemüsereis;4,85;3,05;0
+2019-06-29;Sat;Angebote;Spinat-Karottenrösti an buntem Gemüseteller mit Kräutersoße;4,45;2,65;1
+2019-06-30;Sun;Angebote;Broccoli-Nuss Ecke an Zucchini-Paprika-Champignongemüse, dazu Schwenkkartoffeln;4,75;2,95;1
+2019-06-30;Sun;Angebote;Jägerschnitzel mit Malzsoße, dazu Prinzessbohnen und Schwenkkartoffeln;4,55;2,75;0
+2019-07-01;Mon;Angebote;Schweinekammsteak Mexiko, dazu buntes Gemüse und Amazing fries;4,95;3,15;0
+2019-07-01;Mon;Angebote;Spinat-Karottenrösti mit Ratatouillegemüse, dazu Rosmarinkartoffeln;4,75;2,95;1
+2019-07-01;Mon;Angebote;Spirelli an Pastasoße mit scharfer Salami und Paprika oder Rahmsoße mit Zucchini, dazu geriebenen Käse;4,05;2,25;0
+2019-07-02;Tue;Angebote;Schweineschnitzel, dazu Bratensoße, buntes Gemüse und Kartoffelkroketten oder Salzkartoffeln;4,4;2,6;0
+2019-07-02;Tue;Angebote;Pastinaken-Steckrübenrösti, dazu Karottenrahmgemüse und tomatisierter Reis;4,5;2,7;1
+2019-07-02;Tue;Angebote;Gemüselasagne;4,05;2,25;1
+2019-07-03;Wed;Angebote;Backfischstücke mit Remoulade, dazu Pommes frites und Salat;5,15;3,35;0
+2019-07-03;Wed;Angebote;Hausgemachte Tofufrikadelle mit Zwiebel und Paprika, dazu Linsencurry und Chinakohlsalat mit Wassermelone;5,05;3,25;1
+2019-07-03;Wed;Angebote;Rahmspinat mit Rührei, dazu Salzkartoffeln;;;1
+2019-07-04;Thu;Angebote;Radeberger Schweinsroulade mit Camembert-Gemüse-Speckfüllung, dazu Apfelrotkohl, Kartoffelklöße oder Petersilienkartoffeln;4,75;2,95;0
+2019-07-04;Thu;Angebote;Hausgemachte Pasta mit Tomaten-Oliven-Pesto, dazu geriebenen Käse;4,05;2,25;1
+2019-07-04;Thu;Angebote;Kaiserschmarrn mit Apfelmus;3,9;2,1;1
+2019-07-05;Fri;Angebote;Schweinesteak Strindberg, dazu Erbsengemüse und Pommes frites;4,75;2,95;0
+2019-07-05;Fri;Angebote;Gemüsebällchen mit Radieschen-Kresse-Dip, dazu Tomaten-Reis und Chinakohlsalat;;;1
+2019-07-05;Fri;Angebote;Kartoffelrösti mit Gemüse, Creme fraiche und Käse gratiniert, dazu bunte Blattsalate mit Joghurtdressing;4,05;2,25;1
+2019-07-06;Sat;Angebote;Radeberger Braumeisterfleisch vom Schwein, dazu Rosenkohl mit Speck oder Apfel-Rotkohl mit Speck und Hefeknödel;4,55;2,75;0
+2019-07-06;Sat;Angebote;Röstoppers mit Philadelphia, dazu buntes Gemüse und Basilikumsoße;4,65;2,85;1
+2019-07-07;Sun;Angebote;Hähnchenschnitzel Piccata, dazu mediterrane Grillkartoffeln und scharfe Tomatensalsa;4,95;3,15;0
+2019-07-07;Sun;Angebote;Hirse-Käse-Taler mit mediterranen Grillkartoffeln und scharfer Tomatensalsa;4,7;2,9;1
+2019-07-08;Mon;Angebote;Schnitzel in Tortilla-Chipspanade, dazu buntes Gemüse und Pommes frites;4,95;3,15;0
+2019-07-08;Mon;Angebote;Hirse-Käse Taler, dazu Blattspinat und Kartoffelpüree;4,45;2,65;1
+2019-07-08;Mon;Angebote;Hörnchennudeln mit Gulaschsoße oder Rahmsoße mit Tomaten und Zucchini, dazu geriebenen Käse;4,05;2,25;0
+2019-07-09;Tue;Angebote;Spanferkelrollbraten, dazu Bayrischkraut und Herzoginkartoffeln;4,55;2,75;0
+2019-07-09;Tue;Angebote;Pfannengemüse, dazu gebratene Süßkartoffel-Gnocchi mit Avocado-Mayonnaise;4,85;3,05;2
+2019-07-09;Tue;Angebote;Sojaklops in Kapernsoße, dazu Kohlrabi-Möhrengemüse und Rosmarinkartoffeln;4,05;2,25;1
+2019-07-10;Wed;Angebote;Seelachs-Schlemmerfilet Bordelaise an Kartoffelpüree, dazu Tomatensalat;4,75;2,95;0
+2019-07-10;Wed;Angebote;Paprikaschote mit Soja-Gemüsefüllung, dazu Tomatensoße und Bulgursalat mit Linsen und Pfirsich;4,65;2,85;2
+2019-07-10;Wed;Angebote;Gekochte Eier an Radieschen-Kressequark, dazu Möhrengemüse und Schwenkkartoffeln;4,05;2,25;1
+2019-07-11;Thu;Angebote;Ein halbes Grillhähnchen, dazu Erbsengemüse und Pommes frites;5,75;3,95;0
+2019-07-11;Thu;Angebote;Wellenbandnudeln, dazu Chili sin Carne und geriebenen Käse;4,1;2,3;1
+2019-07-11;Thu;Angebote;Apfel-Milchreis mit Sauerkirschen, dazu zerlassende Butter, Zucker und Zimt;4,05;2,25;1
+2019-07-12;Fri;Angebote;Hot Dog mit Pommes frites;4,65;2,85;0
+2019-07-12;Fri;Angebote;Gebackene Kartoffel-Möhrenbällchen an orientalischem Risotto mit Lauch, Minze und Tomate, dazu Chili-Dip;4,05;2,25;2
+2019-07-12;Fri;Angebote;Paprikapfanne mit Ingwer und Bambus, dazu Rösti-Ecke und fruchtiger Eisbergsalat;4,75;2,95;2
+2019-07-13;Sat;Angebote;Broccoli - Nuggets an Tomaten-Zucchiniragout, dazu Salat;4,75;2,95;1
+2019-07-13;Sat;Angebote;Feuerfleisch vom Rind mit Apfelrotkohl, dazu Petersilienkartoffeln;4,7;2,9;0
+2019-07-14;Sun;Angebote;Hähnchenbrustfilet Napoli, dazu Blumenkohlgemüse und Pastasotto;5,3;3,5;0
+2019-07-14;Sun;Angebote;Valess-Nuggets mit Basilikum-Quark-Dip, dazu Blumenkohlgemüse und Pastasotto;5,05;3,25;1
+2019-07-15;Mon;Angebote;Putensteak in Käse-Eihülle, dazu buntes Gemüse und Pommes frites;5,15;3,35;0
+2019-07-15;Mon;Angebote;Kartoffel-Käsefrikadelle, dazu Grünkern-Reispfanne mit Rucola und Kürbiskernen und Tomaten-Avocado-Salsa;4,7;2,9;1
+2019-07-15;Mon;Angebote;Vollkornspirelli mit Tomatensoße mit Schinken oder Pastasoße mit Champignons und getrockneten Tomaten, dazu geriebenen Käse;4,05;2,25;0
+2019-07-16;Tue;Angebote;Hackbraten Frankfurter Art mit Bratensoße, buntem Gemüse und Petersilienkartoffeln;4,5;2,7;0
+2019-07-16;Tue;Angebote;Gebratene Kichererbsen-Nockerln, dazu Zucchini-Tomatengemüse und Reis-Bulgurmix;4,25;2,45;2
+2019-07-16;Tue;Angebote;Tortelloni mit Spinat-Ricottafüllung in Tomatensoße und Käse überbacken;;;1
+2019-07-17;Wed;Angebote;Seelachsfilet in Kartoffelpanade mit Kartoffel-Linsenstampf und Gurken-Bohnensalat;4,85;3,05;0
+2019-07-17;Wed;Angebote;Gebackenes Käsesoufflee, dazu Cremechampignons und Chinakohlsalat;4,95;3,15;1
+2019-07-17;Wed;Angebote;Hausgemachte Kartoffel-Gemüse-Kürbiskernpuffer mit Tomaten-Schnittlauchquark;4,05;2,25;1
+2019-07-18;Thu;Angebote;Hausgemachte Rinderroulade, dazu Apfelrotkohl und Kartoffelklöße;5,65;3,85;0
+2019-07-18;Thu;Angebote;Pasta Treccine mit Spinatpesto und geriebenen Käse;4,1;2,3;1
+2019-07-18;Thu;Angebote;Orientalische Gemüsepfanne mit Couscous und scharfer Soja-Joghurtsoße;4,05;2,25;2
+2019-07-19;Fri;Angebote;Paniertes Schweinekotelett, dazu Blumenkohlröschen und Pommes frites;4,75;2,95;0
+2019-07-19;Fri;Angebote;Bayrischer Fleischkäse mit süßem Senf, dazu Bratkartoffeln und bunter Weißkrautsalat;;;0
+2019-07-19;Fri;Angebote;Zucchini-Pakoras mit Tomaten-Salsa und Pestokartoffeln;4,4;2,6;2
+2019-07-20;Sat;Angebote;Pestonudeln mit Hirtenkäse-Sesam-Spinatpesto;4,25;2,45;1
+2019-07-20;Sat;Angebote;Pikanter Wurstgulasch mit Spirelli und geriebenen Käse;4,25;2,45;0
+2019-07-21;Sun;Angebote;Schweineschnitzel Cordon bleu mit Bratensoße, dazu buntes Gemüse und Kartoffelbällchen;5,15;3,35;0
+2019-07-21;Sun;Angebote;Blumenkohl-Knuspermedaillon, dazu buntes Gemüse, Zitronen-Linsen-Couscous und Kräuter-Dip;4,75;2,95;1
+2019-07-22;Mon;Angebote;Schweinerückensteak Santiago mit Schinken, Paprika, Mais und Bohnen, dazu Kohlrabi-Möhrengemüse und Pommes Twister;4,75;2,95;0
+2019-07-22;Mon;Angebote;Drei Kartoffeltaschen mit Broccoli-Käsefüllung, dazu Rahmgemüse und bunter Eisbergsalat;4,65;2,85;1
+2019-07-22;Mon;Angebote;Gabelspaghetti mit Pastasoße Carbonara oder Käserahmsoße mit Blattspinat, dazu geriebenen Käse;4,0;2,2;0
+2019-07-23;Tue;Angebote;Seußlitzer Kasslerkammbraten, dazu Bayrischkraut und Herzoginkartoffeln;4,65;2,85;0
+2019-07-23;Tue;Angebote;Sizilianisches Pfannengemüse, dazu Süßkartoffel-Gnocchi und Avocado-Mayonnaise;5,35;3,55;2
+2019-07-23;Tue;Angebote;Gyros-Reispfanne mit Pilzsoße gratiniert;4,05;2,25;0
+2019-07-24;Wed;Angebote;Seelachsfilet mit Sesampanade, dazu Kartoffelpüree und Rohtkohlsalat;4,75;2,95;0
+2019-07-24;Wed;Angebote;Karottenschnitzel mit Frischkäse-Kräuter-Dip, dazu Mango-Linsen-Couscous und Chinakohlsalat;4,7;2,9;1
+2019-07-24;Wed;Angebote;Scharfes Kartoffel-Kürbiscurry, dazu Falafelbällchen und Rotkohlsalat;;;2
+2019-07-25;Thu;Angebote;Coq au vin von der Hähnchenbrust, dazu glasierte Honigmöhren und Kartoffelbällchen;4,8;3,0;0
+2019-07-25;Thu;Angebote;Tortellini grün/weiß mit Gemüsebolognese, dazu Reibekäse;4,45;2,65;1
+2019-07-25;Thu;Angebote;Vier Quarkkäulchen mit Zucker und Apfelmus;4,05;2,25;1
+2019-07-26;Fri;Angebote;Schweineschnitzel in Käsepanade, dazu Rahmerbsen und Pommes frites;4,75;2,95;0
+2019-07-26;Fri;Angebote;Champignonragout Mailänder Art, dazu Reibekuchen und Bauernsalat;4,05;2,25;1
+2019-07-26;Fri;Angebote;Zwei gekochte Eier mit Kapernsoße, dazu Broccoliröschen und Kartoffelpüree;4,45;2,65;1
+2019-07-27;Sat;Angebote;Rucola-Süßkartoffelschnitte an Tomaten-Olivenragout, dazu Bulgursalat mit Linsen und Pfirsich;4,35;2,55;2
+2019-07-27;Sat;Angebote;Schweinegulasch Debreciner Art, dazu buntes Gemüse und wahlweise Hefeknödel oder Petersilienkartoffeln;4,55;2,75;0
+2019-07-28;Sun;Angebote;Hähnchenroulade Florenz, dazu buntes Gemüse und Kartoffelkroketten;5,3;3,5;0
+2019-07-28;Sun;Angebote;Eieromelett mit Pilzfüllung mit holländischer Kresse-Soße, dazu Petersilienkartoffeln und Salat;4,75;2,95;1
+2019-07-29;Mon;Angebote;Schweinekammsteak mit deftiger Auflage aus Salami, Gurken, Senf, Käse und Schwarzbrot, dazu buntes Gemüse und Amazing fries;4,75;2,95;0
+2019-07-29;Mon;Angebote;Zwei Erbsen-Quinoamedaillons, dazu Champignon-Lauchgemüse und Tomatenebly;4,65;2,85;2
+2019-07-29;Mon;Angebote;Penne Rigate mit Bolognese von roten Linsen oder Mailänder Nudelsoße, dazu Reibekäse;3,95;2,15;0
+2019-07-30;Tue;Angebote;Rinderhacksteak griechische Art, dazu Bohnengemüse und Röstitaler;4,75;2,95;0
+2019-07-30;Tue;Angebote;Gemüsebällchen mit fruchtiger Currysoße, dazu Gemüsecouscous und bunter Eisbergsalat;4,7;2,9;1
+2019-07-30;Tue;Angebote;Canneloni mit Spinatfüllung in Tomatensoße;;;1
+2019-07-31;Wed;Angebote;Seelachsfilet in Eipanade, dazu griechischer Nudelsalat und Tomatensalat;4,75;2,95;0
+2019-07-31;Wed;Angebote;Karotten-Sesamsticks mit Porree in Bechamelsoße, dazu Reis-Bulgurmix;4,8;3,0;1
+2019-07-31;Wed;Angebote;Kräuterquark mit Leinöl, wahlweise Leberwurst oder ein Apfel (vegetarische Variante), dazu Petersilienkartoffeln;4,05;2,25;0
+2019-08-01;Thu;Angebote;Hähnchenkeule Forstmeister Art, dazu buntes Gemüse und Pommes frites;4,6;2,8;0
+2019-08-01;Thu;Angebote;Pasta Treccine mit Rucolapesto, dazu Reibekäse oder Pizzaschmelz (vegan);4,05;2,25;1
+2019-08-01;Thu;Angebote;Germknödel mit Heidelbeerfüllung, dazu Vanillesoße;3,95;2,15;1
+2019-08-02;Fri;Angebote;Burrito mit Hackfleisch, Peperoni, Kidneybohnen und Paprika gefüllt, dazu gebackene Kartoffelecken und Sauerrahm-Dip;5,25;3,45;0
+2019-08-02;Fri;Angebote;Backfrischkäse mit Preiselbeersahne, dazu buntes Gemüse und Bratkartoffeln;4,55;2,75;1
+2019-08-02;Fri;Angebote;Zucchini-Kartoffelpuffer mit Kräuterquark-Dip, dazu Möhrensalat mit Apfel;4,05;2,25;1
+2019-08-03;Sat;Angebote;Hähnchenbrust in Parmesanpanade, mit Tomatenspaghetti und Broccoligemüse;4,85;3,05;0
+2019-08-03;Sat;Angebote;Gemüse-Goudastäbchen mit Ratatouillegemüse, dazu Pastasotto;4,75;2,95;1
+2019-08-04;Sun;Angebote;Kasslersteak mit Honig-Meerrettichkruste, dazu Bohnen-Maisgemüse, Rosmarinkartoffeln und Bratensoße;4,7;2,9;0
+2019-08-04;Sun;Angebote;Blumenkohl-Käsemedaillon, dazu Bohnen Maisgemüse, Lauchcremesoße und Rosmarinkartoffeln;4,55;2,75;1
+2019-08-05;Mon;Angebote;Putensteak mit Tomaten-Frischkäsecreme gratiniert, dazu buntes Gemüse und Herzoginkartoffeln;5,0;3,2;0
+2019-08-05;Mon;Angebote;Broccoli- Nuggets mit Basilikumsoße, dazu Rote Bete-Gnocchi, Gemüse und bunter Eisbergsalat;4,95;3,15;1
+2019-08-05;Mon;Angebote;Spaghetti mit Pastasoße Chili con carne oder Basilikumsoße, dazu geriebenen Käse;4,05;2,25;0
+2019-08-06;Tue;Angebote;Schweinebraten mit Rosmarin-Honigsoße, dazu Bohnengemüse und Kartoffelbällchen;4,45;2,65;0
+2019-08-06;Tue;Angebote;Couscous-Karottenfrikadelle auf chinesischer Gemüsepfanne, dazu Rotkohl-Apfelsalat;4,4;2,6;1
+2019-08-06;Tue;Angebote;Kichererbsen-Gemüsecurry mit Basmati Reis;;;2
+2019-08-07;Wed;Angebote;Gebackenes Schellfischfilet mit  Cornflakespanade  an Stampfkartoffeln, dazu Gurkensalat;4,85;3,05;0
+2019-08-07;Wed;Angebote;Schwarzwurzel-Knusperkarrees mit Champignonragout Mailänder Art, dazu Ebly;4,75;2,95;1
+2019-08-07;Wed;Angebote;Folienkartoffeln mit Schnittlauchcreme, dazu bunter Gemüseteller;4,05;2,25;1
+2019-08-08;Thu;Angebote;Hamburger mit Pommes frites;5,35;3,55;0
+2019-08-08;Thu;Angebote;Möhrenpfannkuchen, dazu Radieschen-Kresse-Dip und bunte Blattsalate mit Joghurt;;;1
+2019-08-08;Thu;Pasta;Muschelnudeln mit Tomatenpesto, dazu Reibekäse oder Pizzaschmelz (vegan);4,15;2,35;1
+2019-08-09;Fri;Angebote;Schweineschnitzel, dazu Blumenkohl mit Semmelbutter und Pommes Twister;4,75;2,95;0
+2019-08-09;Fri;Angebote;Kartoffel-Möhren-Bällchen an orientalischem Risotto mit Lauch, Minze und Tomate, dazu Friseesalat mit Himbeerdressing;4,15;2,35;2
+2019-08-09;Fri;Angebote;Schaschlikpfanne mit Gemüsereis;4,05;2,25;0
+2019-08-12;Mon;Angebote;"Putensteak Strindberg ""Ei-Zwiebel-Senfhülle"", dazu buntes Gemüse und Amazing fries";5,15;3,35;0
+2019-08-12;Mon;Angebote;Blumenkohl-Knuspermedaillon, dazu Grünkern-Reispfanne mit Rucola und Tomatensalat;;;2
+2019-08-12;Mon;Angebote;Gabelspaghetti mit Wurstgulasch oder Tomatenratatouille, dazu geriebenen Gouda;4,05;2,25;0
+2019-08-13;Tue;Angebote;Frikadelle mit Bohnengemüse, dazu Kartoffelrösti;4,55;2,75;0
+2019-08-13;Tue;Angebote;Gnocchi mit Tomaten-Pesto, dazu Ofengemüse und Curry-Joghurt-Dip;5,05;3,25;2
+2019-08-13;Tue;Angebote;Mecklenburger Sahnegurken mit Kartoffelpüree;4,05;2,25;1
+2019-08-14;Wed;Angebote;Jägerschnitzel mit Bratensoße, dazu buntes Gemüse und Petersilienkartoffeln;;;0
+2019-08-14;Wed;Angebote;Gratinierte Fleischtomate gefüllt mit Hüttenkäse, dazu Basilikumsoße, Kartoffelrisotto und Chinakohlsalat;4,75;2,95;1
+2019-08-14;Wed;Angebote;Gebratenes Seehechtfilet in einer Käse-Eihülle, dazu Kartoffelrisotto und Chinakohlsalat;5,25;3,45;0
+2019-08-15;Thu;Angebote;Radeberger Schweinsroulade mit Camembert-Gemüse-Speckfüllung , dazu Honigmöhren und Herzoginkartoffeln;4,9;3,1;0
+2019-08-15;Thu;Angebote;Spinat-Käsesouffle, dazu Tsatsiki und  Linsencurry;5,15;3,35;1
+2019-08-15;Thu;Angebote;Kartoffelpuffer mit Apfelmus;4,0;2,2;1
+2019-08-16;Fri;Angebote;Thüringer Rostbrätel mit Zwiebelsoße und Kartoffelsalat;4,6;2,8;0
+2019-08-16;Fri;Angebote;Spinat-Knuspermedaillons, an Steckrüben-Karottenragout mit Curry und Limette (F), Bratkartoffeln;4,75;2,95;1
+2019-08-16;Fri;Angebote;Gemüsebällchen auf einem Steckrüben-Karottenragout mit Curry und Limette, dazu Reis;4,05;2,25;2
+2019-08-19;Mon;Angebote;Spirelli mit Kürbis-Rahmsoße oder Pusztasoße, dazu geriebenen Gouda;4,05;2,25;0
+2019-08-19;Mon;Angebote;Schupfnudelpfanne mit rotem Pesto, Hirtenkäse und buntem Gemüse, dazu Tomatensoße und Blattsalat mit Apfeldressing;5,0;3,2;1
+2019-08-19;Mon;Wok Gericht;BO XAO CAN, Rindfleisch mit Sellerie, Möhren und Ingwer, dazu Glasnudeln;5,2;3,4;0
+2019-08-20;Tue;Angebote;Hausgemachte Kartoffelpuffer mit Wurzelgemüse, dazu Kräuter-Dip und Salat;;;1
+2019-08-20;Tue;Angebote;Zucchini gefüllt mit Pilzen, Kräutern und Polenta, dazu Ratatouillegemüse und Chinakohlsalat mit Wassermelone;4,85;3,05;2
+2019-08-20;Tue;Wok Gericht;CUU XAO MAGI, Lamm mit roten Zwiebeln, Minze und Erdnüssen, dazu Basmati Reis;5,6;3,8;0
+2019-08-21;Wed;Angebote;Frikadelle mit Sauerkraut und Kartoffelpüree;4,05;2,25;0
+2019-08-21;Wed;Angebote;Broccoli Nuggets, dazu Tomaten-Bulgur, buntes Gemüse und Paprika-Sojajoghurt-Dip;5,0;3,2;1
+2019-08-21;Wed;Wok Gericht;CA CHIEN, Buntbarsch im Backteig mit Austernpilzen, Maiskölbchen und Kokos, dazu Reisnudeln;6,4;4,6;0
+2019-08-22;Thu;Angebote;Couscous-Karottenfrikadelle mit Spitzkohl-Rahmgemüse und Gemüseebly;4,55;2,75;1
+2019-08-22;Thu;Angebote;Vier Quarkkäulchen, dazu Apfelmus;3,8;2,0;1
+2019-08-22;Thu;Wok Gericht;VIT XAO XA, Barbarie Entenbrustscheiben auf Gemüse und Kurkumareis;6,05;4,25;0
+2019-08-23;Fri;Angebote;Schnitzel in Tortilla-Chipspanade, dazu Blumenkohl mit Semmelbutter und Pommes frites;5,05;3,25;0
+2019-08-23;Fri;Angebote;Chili sin Carne mit Kräuterreis;4,05;2,25;2
+2019-08-23;Fri;Wok Gericht;"Knusperschnitte ""Hong Kong"" mit asiatischem Gemüse aus dem Wok, dazu gebratener Reis";5,05;3,25;2
+2019-08-26;Mon;Angebote;Hähnchenschnitzel Cordon bleu, buntes Gemüse und Pommes Twister;;;0
+2019-08-26;Mon;Angebote;"Hausgemachte Tofufrikadelle mit Zwiebel und Paprika, dazu Mangochutney ""Ingwer-Chili"", orientalisches Risotto mit Lauch, Minze und Tomate";4,75;2,95;1
+2019-08-26;Mon;Angebote;Gabelspaghetti mit  Lauch-Hackfleischsoße, dazu geriebenen Gouda;4,0;2,2;0
+2019-08-27;Tue;Angebote;Hähnchenbrust mit Blattspinat und Hirtenkäse gratiniert, dazu deftige Grillkartoffelpfanne;5,15;3,35;0
+2019-08-27;Tue;Angebote;Gemüseragout Kokos-Curry, dazu gebratene Gnocchi und bunter Eisbergsalat;5,1;3,3;1
+2019-08-27;Tue;Angebote;Mit Tomaten, Lauch und Käse gefüllte Ofenkartoffeln, dazu Kräuterquark-Dip;;;1
+2019-08-28;Wed;Angebote;Hausgeräuchertes Lachsfilet, dazu Wellenbandnudeln, Limettensoße und Salat;6,1;4,3;0
+2019-08-28;Wed;Angebote;Blumenkohl im Backteig, dazu Knoblauchcreme, Gemüsecouscous und Rotkohlsalat;4,6;2,8;1
+2019-08-28;Wed;Angebote;Auberginen im Haferflockenmantel, dazu Joghurt-Kräuter-Dip, Püree von Roten Linsen mit Tomate, Rosine, Minze und Ingwer;4,05;2,25;2
+2019-08-29;Thu;Angebote;Sahne-Zwiebelhähnchen, dazu Broccoliröschen, Butterspätzle oder Bandnudeln;4,95;3,15;0
+2019-08-29;Thu;Angebote;Arancini, gebackene Reisbällchen auf Tomaten-Zucchiniragout und Chinakohlsalat mit Wassermelone;4,7;2,9;1
+2019-08-29;Thu;Angebote;Zwei Buttermilchplinsen mit Heidelbeersoße oder Schokoladensoße;4,05;2,25;1
+2019-08-30;Fri;Angebote;Currywurst Hot Pepper, dazu Erbsen und Pommes frites;4,8;3,0;0
+2019-08-30;Fri;Angebote;Sojaklops mit Kräutersoße, dazu Ratatouillegemüse und Schwenkkartoffeln;4,75;2,95;1
+2019-08-30;Fri;Angebote;Champignon-Bohnenpfanne mit Spätzle und Salat;4,05;2,25;1
+2019-09-02;Mon;Angebote;Gebratenes 6 Korn-Putenschnitzel, dazu buntes Gemüse und Amazing fries;5,25;3,45;0
+2019-09-02;Mon;Angebote;Käse-Soufflé auf cremigem Rahmgemüse, dazu Salat;5,1;3,3;1
+2019-09-02;Mon;Angebote;Spirelli mit Gulaschsoße oder Pastasoße Arrabiata, dazu geriebenen Käse;4,05;2,25;0
+2019-09-03;Tue;Angebote;Hausgemachte Paprikaschote gefüllt mit Hackfleisch und Hirtenkäse, dazu Paprikarahmsoße und Rösti-Ecken;5,05;3,25;0
+2019-09-03;Tue;Angebote;Falafelbällchen, dazu Kürbis-Lauch-Gemüse und Vollkornreis;4,45;2,65;2
+2019-09-03;Tue;Angebote;Zwei scharfe Kokosplinsen, dazu Sesam-Koriander-Dip und Gemüsesalat;4,05;2,25;1
+2019-09-04;Wed;Angebote;Marinierter Hering Hausfrauen Art, dazu Schwenkkartoffeln und Bohnensalat;4,95;3,15;0
+2019-09-04;Wed;Angebote;Gebackene Briespitze mit Preiselbeersahne, dazu Baguette und Bauernsalat;5,1;3,3;1
+2019-09-04;Wed;Angebote;Buntes Paprikaragout im Kräuterreisrand und Rotkohlsalat;4,05;2,25;2
+2019-09-05;Thu;Angebote;Cheeseburger mit Pommes frites;4,85;3,05;0
+2019-09-05;Thu;Angebote;Gemüse-Gouda-Knusperstäbchen, dazu Chili-Dip und Gemüseebly;4,05;2,25;1
+2019-09-05;Thu;Angebote;Halber Blumenkohl mit holländischer Soße und Petersilienkartoffeln;4,7;2,9;1
+2019-09-06;Fri;Angebote;Cordon bleu vom Schwein mit grüner Pfeffersoße, dazu buntes Gemüse und Kartoffelkroketten;4,8;3,0;0
+2019-09-06;Fri;Angebote;Gemüse-Knusperfrikadelle, dazu buntes Gemüse, Frischkäse-Kräuter-Dip und Zupfsalat mit Apfeldressing;4,25;2,45;1
+2019-09-06;Fri;Angebote;Zucchini im Cornflakesmantel an scharfer Tomatensalsa und Bombay Kartoffeln;;;2
+2019-09-09;Mon;Angebote;Rückensteak vom Schwein mit Paprika, Tomaten, Zwiebeln und Käse gratiniert, dazu buntes Gemüse und Röstitaler;5,05;3,25;0
+2019-09-09;Mon;Angebote;Frisches Ofengemüse, dazu gebratene Pestognocchi und Avocado-Mayonnaise;5,15;3,35;2
+2019-09-09;Mon;Angebote;Spaghetti mit Pusztasoße oder Champignons in Rahmsoße, dazu geriebenen Käse;4,05;2,25;0
+2019-09-10;Tue;Angebote;Quark-Paprika-Frikadelle, dazu buntes Gemüse und Petersilienkartoffeln;4,6;2,8;0
+2019-09-10;Tue;Angebote;Spinat-Karottenrösti auf Tomatenratatouille und Rosmarinkartoffeln;4,75;2,95;1
+2019-09-10;Tue;Angebote;Linseneintopf mit gebratenen Knackwurstscheiben, dazu ein Brötchen oder eine Scheibe Brot;4,05;2,25;0
+2019-09-11;Wed;Angebote;Seelachsfilet in Knusperpanade mit Remouladensoße, Bratkartoffeln und Gurkensalat;4,9;3,1;0
+2019-09-11;Wed;Angebote;Hirse-Käse-Taler mit mediterranen Grillkartoffeln und Tomaten-Avocado-Salsa;4,95;3,15;1
+2019-09-11;Wed;Angebote;Königsberger Klopse mit Kapernsoße, Möhrengemüse und Petersilienreis;4,05;2,25;0
+2019-09-12;Thu;Angebote;BBQ-Schmorrippchen, dazu gebackene Kartoffelecken mit Sauerrahm-Dip und bunter Krautsalat;5,6;3,8;0
+2019-09-12;Thu;Angebote;Gebackener Hirtenkäse an Paprika-Champignon-Couscous, dazu Chili-Tomaten-Dip;5,05;3,25;1
+2019-09-12;Thu;Angebote;Rahmiger Blattspinat, dazu Rührei und Petersilienkartoffeln;4,05;2,25;1
+2019-09-13;Fri;Angebote;Schweinesteak au four mit Würzfleisch überbacken, dazu Erbsengemüse und Pommes frites;5,05;3,25;0
+2019-09-13;Fri;Angebote;Falafelbällchen mit Tomatensoße, dazu Broccoliröschen und Kokos-Linsen-Reis;4,65;2,85;2
+2019-09-13;Fri;Angebote;Kartoffelrösti mit Gemüse und Creme fraiche gratiniert, dazu bunter Eisbergsalat;4,05;2,25;1
+2019-09-16;Mon;Angebote;Hörnchen-Chifferie an Rahmsoße mit Tomaten und Zucchini oder spanische Hackfleischsoße, dazu geriebenen Käse;4,05;2,25;0
+2019-09-16;Mon;Angebote;Gemüsekroketten aus Blumenkohl, Lauch, Sellerie und Erbsen, dazu rahmiger Blattspinat und Schwenkkartoffeln;4,45;2,65;2
+2019-09-16;Mon;WOK Gericht;Gebratene Hähnchenstreifen mit Paprika, Champignons, Zuckerschoten in feiner Limetten-Kokosnote, dazu Mie Nudeln;5,3;3,5;0
+2019-09-17;Tue;Angebote;Sächsische Kartoffelsuppe mit einem Paar Wiener Würstchen oder einem Apfel (vegane Variante), dazu eine Scheibe Brot oder ein Brötchen;;;0
+2019-09-17;Tue;Angebote;Karottenrösti mit Ananas und Gouda gratiniert, dazu Bombay Kartoffeln und Zupfsalat;4,75;2,95;1
+2019-09-17;Tue;WOK Gericht;CUU XAO XA, Lammfleisch mit Aubergine, Sellerie und roten Zwiebeln, dazu Basmati Reis;5,55;3,75;0
+2019-09-18;Wed;Angebote;Tiegelwurst mit Sauerkraut und Kartoffelrösti;4,05;2,25;0
+2019-09-18;Wed;Angebote;Frisches Pfannengemüse, dazu Süßkartoffel-Gnocchi und veganesTsatsiki;5,1;3,3;2
+2019-09-18;Wed;WOK Gericht;Gegrilltes Seelachsfilet auf buntem Wok-Gemüse (Paprika, Zuckerschote, Sprossen, Champignons und Tomate), dazu Glasnudeln;5,0;3,2;0
+2019-09-19;Thu;Angebote;Germknödel mit Heidelbeerfüllung, dazu Vanillesoße;;;1
+2019-09-19;Thu;Angebote;Schwarzwurzel-Knusperkarrees, dazu Linsencurry und Chinakohlsalat mit Wassermelone;4,65;2,85;1
+2019-09-19;Thu;WOK Gericht;BO XAO XA, Rindfleisch mit Bambus, Kaiserschoten und rotem Paprika, dazu Basmati Reis;5,25;3,45;0
+2019-09-20;Fri;Angebote;Soja-Geschnetzeltes mit Chili, dazu Kohlrabi-Möhrengemüse und grüner Bulgursalat;4,05;2,25;2
+2019-09-20;Fri;Angebote;Polenta-Käseschnitte an Kürbis-Tomatengemüse mit Rosmarin, dazu Rotkohlsalat;4,55;2,75;1
+2019-09-20;Fri;WOK Gericht;VIT XAO XA, Entenbruststreifen mit Zucchini, Ingwer und Ananas, dazu Thaireis;5,3;3,5;0
+2019-09-23;Mon;Angebote;Schweineschnitzel mit  Cremechampignons und Kartoffelkroketten;4,65;2,85;0
+2019-09-23;Mon;Angebote;Reis-Knuspersticks Tropicana an Mangochutney mit Ingwer und Chili, dazu Gemüseebly;4,95;3,15;1
+2019-09-23;Mon;Angebote;Vollkornspirelli mit Gulaschsoße oder Broccoli-Käsesoße, dazu geriebenen Käse;4,05;2,25;0
+2019-09-24;Tue;Angebote;Schinkenbraten mit Bayrisch Kraut und Kartoffelklößen;4,6;2,8;0
+2019-09-24;Tue;Angebote;Karotten-Sesamsticks auf Grünkern-Reispfanne mit Rucola und Kürbiskernen, dazu scharfe Tomatensalsa;4,95;3,15;2
+2019-09-24;Tue;Angebote;Eintopf mit grünen Bohnen und Rindfleisch, dazu ein Brötchen oder eine Scheibe Brot;4,05;2,25;0
+2019-09-25;Wed;Angebote;Fischstäbchen an Kartoffelpüree, dazu Gurken-Tomaten-Bohnensalat;4,65;2,85;0
+2019-09-25;Wed;Angebote;Champignontasche gebacken, dazu bunter Gemüseteller und Basilikumsoße;4,8;3,0;1
+2019-09-25;Wed;Angebote;"Soja-Geschnetzeltes ""Stroganoff"", dazu Erbsengemüse und Basmatireis";;;2
+2019-09-26;Thu;Angebote;Hähnchenkeule, dazu buntes Gemüse und Pommes frites;4,45;2,65;0
+2019-09-26;Thu;Angebote;Falafelbällchen, dazu Tomatensoße und Bulgursalat mit Linsen und Pfirsich;4,55;2,75;2
+2019-09-26;Thu;Angebote;Hausgemachte Kartoffel-Kürbiskernpuffer mit Tomaten-Schnittlauchquark;4,05;2,25;1
+2019-09-27;Fri;Angebote;Kasslersteak mit Honig-Merrettichkruste, dazu Schwarzwurzel-Karottengemüse und Bratkartoffeln;4,75;2,95;0
+2019-09-27;Fri;Angebote;Gebratener Mandeltofu, dazu Rahmgemüse und Pastasotto;4,95;3,15;2
+2019-09-27;Fri;Angebote;Zucchini-Pakoras mit Chili-Dip und Couscous mit Gemüse;4,05;2,25;2
+2019-09-30;Mon;Angebote;Schweinesteak Strindberg (Ei, Zwiebel, Senfpanade), dazu Erbsen und Pommes frites;4,65;2,85;0
+2019-09-30;Mon;Angebote;Röstoppers mit Philadelphia, dazu Ratatouillegemüse und bunter Eisbergsalat;4,85;3,05;1
+2019-09-30;Mon;Angebote;Gabelspaghetti an Pastasoße Carbonara, dazu geriebenen Käse;4,05;2,25;0
+2019-10-01;Tue;Angebote;Rindergulasch mit Champignons, dazu Rotkohl, Hefeknödel oder Petersilienkartoffeln;4,6;2,8;0
+2019-10-01;Tue;Angebote;Käsesoufflee an Linsen mit Apfel, Lauch und Sonnenblumenkernen, dazu Chinakohlsalat;4,95;3,15;1
+2019-10-01;Tue;Angebote;Champignonpfanne mit roten Zwiebeln und Creme fraiche, dazu kleine Klöße und Möhrensalat;4,05;2,25;1
+2019-10-02;Wed;Angebote;Seelachsfilet mit Sesampanade, dazu mediterraner Kartoffelsalat und Helgolander Salatmix;4,9;3,1;0
+2019-10-02;Wed;Angebote;Scharfes Kartoffel-Kürbiscurry, dazu Rotkohlsalat;4,05;2,25;1
+2019-10-02;Wed;Angebote;Gemüseschnitzel an Porree in Bechamelsoße oder Ratatouillegemüse  und Schwenkkartoffeln;4,5;2,7;1
+2019-10-04;Fri;Angebote;Hähnchenbrustfilet mit Ananas und Käse überbacken, dazu buntes Gemüse und Pommes frites;4,85;3,05;0
+2019-10-04;Fri;Angebote;Rucola-Süßkartoffelschnitte an Tomaten-Olivenragout und Basmati Reis;4,25;2,45;2
+2019-10-04;Fri;Angebote;Orientalische Gemüsepfanne mit Couscous und scharfer Joghurtsoße, dazu Feldsalat;4,05;2,25;1
+2019-10-05;Sat;Angebote;Falafelbrätling, dazu Chiligemüse, Ebly und Curry-Soja-Dip;4,8;3,05;2
+2019-10-05;Sat;Angebote;Rinderfrikadelle mit Bratensoße, dazu Karottengemüse und Petersilienkartoffeln;4,8;3,0;0
+2019-10-06;Sun;Angebote;Spinat-Dinkelplätzchen, dazu Kräutersoße, buntes Gemüse und Basmati Reis;4,8;3,0;0
+2019-10-06;Sun;Angebote;Schweineschnitzel in der Kräuter-Parmesanpanade, dazu Paprika-Bohnengemüse und Bratkartoffeln;4,75;2,95;0
+2019-10-07;Mon;Angebote;Schweinekammsteak Akropolis, dazu buntes Gemüse und Amazing fries;4,95;3,15;0
+2019-10-07;Mon;Angebote;Zwei Erbsen-Quinoamedaillons, dazu Currygemüse und Basmati Reis;5,05;3,25;1
+2019-10-07;Mon;Angebote;Makkaroni mit Mailänder Nudelsoße oder Bolognese von roten Linsen und Oliven, dazu geriebenen Käse;4,05;2,25;0
+2019-10-08;Tue;Angebote;Hackbraten mit Gemüse und Käse gefüllt, dazu Bratensoße, Bohnengemüse und Petersilienkartoffeln;4,35;2,55;0
+2019-10-08;Tue;Angebote;Hausgemachte Kartoffel-Käsefrikadelle, dazu Karottenrahmgemüse und Blattsalat mit Honig-Joghurt-Senfdressing;;;1
+2019-10-08;Tue;Angebote;Canneloni gefüllt mit Spinat, Tomatensoße und Käse überbacken;4,05;2,25;1
+2019-10-09;Wed;Angebote;Seelachs im Backteig mit Zitonenecke, dazu Kartoffelpüree und Tomatensalat;4,6;2,8;0
+2019-10-09;Wed;Angebote;Kohlrabi-Kräutermedaillons, dazu Rote-Bete-Dip und Zucchini-Kartoffelpfanne;4,75;2,95;1
+2019-10-09;Wed;Angebote;Kräuterquark mit Butter, wahlweise mit Leberwurst oder Apfel (vegetarische Variante), dazu Petersilienkartoffeln;4,05;2,25;0
+2019-10-10;Thu;Angebote;Hähnchenkeule Forstmeister Art, dazu buntes Gemüse und Kartoffelbällchen;4,55;2,75;0
+2019-10-10;Thu;Angebote;Gedrehte Makkaroni mit Kürbis-Pesto, dazu geriebenen Käse;4,1;2,3;1
+2019-10-10;Thu;Angebote;Hefeklöße mit Heidelbeersoße;4,05;2,25;1
+2019-10-11;Fri;Angebote;Schweinerückenschnitzel im Röstzwiebelmantel, dazu Champignonpfanne und Pommes frites;4,9;3,1;0
+2019-10-11;Fri;Angebote;Backfrischkäse mit Preiselbeersahne, dazu buntes Gemüse und Bratkartoffeln;4,7;2,9;1
+2019-10-11;Fri;Angebote;Kartoffel-Möhren-Bällchen mit veganem Tsatsiki und mediterranem Gemüsecouscous;4,05;2,25;2
+2019-10-12;Sat;Angebote;Blätterteigtasche mit Champignons, dazu Tomaten-Paprikaragout und bunter Chinakohlsalat;4,35;2,55;1
+2019-10-12;Sat;Angebote;Hähnchenbrust in Parmesanpanade, dazu Tomatenspaghettis  und Broccoliröschen;4,75;2,95;0
+2019-10-13;Sun;Angebote;mild scharfes Gemüseragout Kokos-Curry, dazu Schwenkkartoffeln und bunter Blattsalat mit Soja-Joghurt;4,4;2,6;2
+2019-10-13;Sun;Angebote;Seußlitzer Kasslerkammbraten an Sauerkraut und Schwenkkartoffeln;4,6;2,8;0
+2019-10-14;Mon;Angebote;Putensteak mit Tomaten-Frischkäsecreme gratiniert, dazu buntes Gemüse und Amaizing fries;5,0;3,2;0
+2019-10-14;Mon;Angebote;Rucola-Süßkartoffelschnitte, dazu Ratatouillegemüse und bunter Eisbergsalat;4,75;2,95;2
+2019-10-14;Mon;Angebote;Spirelli an Pastasoße mit Salami und Paprika dazu geriebenen Käse;4,05;2,25;0
+2019-10-15;Tue;Angebote;Schinkenbraten mit Rosmarin-Honig-Glasur, dazu rustikaler Karottenmix und Herzoginkartoffeln oder Schwenkkartoffeln;4,6;2,8;0
+2019-10-15;Tue;Angebote;Quinoa- Erbsenmedaillons mit Avocado-Mayonnaise, dazu rahmiger Blattspinat und Rote Bete-Gnocchi;4,95;3,15;2
+2019-10-15;Tue;Angebote;Erbseneintopf mit gebratenen Knackwurstscheiben, dazu eine Scheibe Brot oder ein Brötchen;4,05;2,25;0
+2019-10-16;Wed;Angebote;Seelachsfilet mit Kürbishaube, dazu Kartoffel-Zitronenstampf und Salat;5,15;3,35;0
+2019-10-16;Wed;Angebote;Kohlrabi-Kräuterkarrees mit Tomatensoße, dazu Champignon-Bohnengemüse und Kräuterspätzle;5,05;3,25;1
+2019-10-16;Wed;Angebote;Zwei gekochte Eier mit Senfsoße, dazu Möhrengemüse und Petersilienkartoffeln;4,05;2,25;1
+2019-10-17;Thu;Angebote;Radeberger Schweineroulade mit Camembertfüllung, dazu Rosenkohl, Kartoffelklöße oder Petersilienkartoffeln;4,85;3,05;0
+2019-10-17;Thu;Angebote;Hörnchennudeln mit Tomatenpesto, dazu geriebenen Käse;4,15;2,35;1
+2019-10-17;Thu;Angebote;Kaiserschmarrn mit Apfelmus;4,05;2,25;1
+2019-10-18;Fri;Angebote;Hamburger mit Pommes frites;5,15;3,35;0
+2019-10-18;Fri;Angebote;Gemüsebällchen, dazu Radieschen-Kresse-Dip, Tomatenebly und Bohnen-Paprikasalat;4,75;2,95;1
+2019-10-18;Fri;Angebote;Kichererbsen-Gemüsecurry mit Reis;4,05;2,25;2
+2019-10-19;Sat;Angebote;Sauerbratenragout mit Apfelrotkohl, Kartoffelklößen;4,75;2,95;0
+2019-10-19;Sat;Angebote;Gemüsefrikadelle, dazu Kartoffeln in Käsesoße (Papas Corridas) und Feldsalat mit Apfeldressing;4,6;2,8;1
+2019-10-20;Sun;Angebote;Kleine Schweinshaxe mit Bratensoße, dazu Sauerkraut und Schwenkkartoffeln;4,85;3,05;0
+2019-10-20;Sun;Angebote;Hirse-Käse-Taler, dazu Bohnen in Sahnesoße und Schwenkkartoffeln;4,55;2,75;1
+2019-10-21;Mon;Angebote;Hähnchenbrust Piccata, dazu buntes Gemüse und Pommes Twister;4,8;3,0;0
+2019-10-21;Mon;Angebote;Karotten-Sesamsticks an Rahmwirsing, dazu Bulgur mit Tomaten und Rucola;5,1;3,3;1
+2019-10-21;Mon;Angebote;Gabelspaghetti an Wurstgulasch oder Rahmsoße mit Kürbis, dazu geriebenen Käse;4,05;2,25;0
+2019-10-22;Tue;Angebote;Cordon bleu vom Schwein mit Prinzessbohnen, dazu Röstitaler;5,05;3,25;0
+2019-10-22;Tue;Angebote;Gebackene Broccoli-Nussecke an Grünkern-Reispfanne mit Rucola und Kürbiskernen, dazu Tomatensalat;4,7;2,9;2
+2019-10-22;Tue;Angebote;Lasagne Bologneser Art;4,05;2,25;0
+2019-10-23;Wed;Angebote;Gebackenes Seelachsfilet, dazu Kartoffelpüree und bunter Salatmix;4,9;3,1;0
+2019-10-23;Wed;Angebote;Broccoli-Karottenküchlein auf buntem Gemüseteller mit Kräutersoße;4,85;3,05;1
+2019-10-23;Wed;Angebote;Steckrüben-Karottenragout mit Minze, dazu Basmati Reis;4,05;2,25;2
+2019-10-24;Thu;Angebote;Ein halbes Grillhähnchen mit Pommes frites und Salat;5,55;3,75;0
+2019-10-24;Thu;Angebote;Schleifennudeln mit Tomatensoße und Hirtenkäse, dazu geriebenen Käse;4,1;2,3;1
+2019-10-24;Thu;Angebote;Vier Quarkkäulchen mit Zucker und Apfelmus;;;1
+2019-10-25;Fri;Angebote;Zwiebelsteak vom Schwein, dazu Kartoffelsalat und bunter Weißkrautsalat;4,85;3,05;0
+2019-10-25;Fri;Angebote;Strudelteig gefüllt mit Karotten, Erbsen, Bohnen, Blumenkohl, Kohlrabi und weißen Rüben, dazu Kichererbsenragout mit Kartoffel, Karotte und Koriander;4,95;3,15;1
+2019-10-25;Fri;Angebote;Käsespätzle, dazu Tomatensoße und Feldsalat mit Himbeerdressing;4,05;2,25;1
+2019-10-26;Sat;Angebote;Gulasch von Rind und Schwein, dazu Apfelrotkohl und Petersilienkartoffeln;4,75;2,95;0
+2019-10-26;Sat;Angebote;Rote-Bete-Taler mit veganem Tsatsiki und Mango-Linsen-Couscous;4,95;3,15;2
+2019-10-27;Sun;Angebote;Valess-Nuggets mit Basilikum-Quark-Dip, dazu Möhrengemüse und Pastasotto;4,75;2,95;1
+2019-10-27;Sun;Angebote;Hähnchenbrustfilet Napoli, dazu Möhrengemüse und Pastasotto;5,2;3,4;0
+2019-10-28;Mon;Angebote;Schweinekammsteak Mexiko, dazu Bohnengemüse und Amazing fries;4,8;3,0;0
+2019-10-28;Mon;Angebote;Rucola-Süßkartoffelschnitte an cremigem Grünkohl und tomatisiertem Ebly;4,55;2,75;2
+2019-10-28;Mon;Angebote;Spaghetti an Pastasoße Chili sin Carne, dazu geriebenen Käse;;;0
+2019-10-29;Tue;Angebote;Putenbrustbraten mit Apfelsoße, dazu glasierte Honigmöhren und Kartoffelbällchen;4,65;2,85;0
+2019-10-29;Tue;Angebote;Gnocchi mit Basilikumpesto, dazu mediterranes Pfannengemüse und Salat;5,05;3,25;2
+2019-10-29;Tue;Angebote;Ungarischer Kesselgulasch, dazu eine Scheibe Brot;4,05;2,25;0
+2019-10-30;Wed;Angebote;Seelachsfilet in Knusperpanade mit Zitrone, dazu Stampfkartoffeln und Gurkensalat mit Dilljoghurt;4,6;2,8;0
+2019-10-30;Wed;Angebote;Gemüse-Goudastäbchen mit Knoblauchcreme, dazu Kartoffelstampf oder Kartoffeln und bunter Salat;4,55;2,75;1
+2019-10-30;Wed;Angebote;Rahmspinat an Rührei und Petersilienkartoffeln;4,05;2,25;1
+2019-11-01;Fri;Angebote;Saltimbocca vom Schwein, dazu Broccoliröschen und Tomatenspaghetti;5,0;3,2;0
+2019-11-01;Fri;Angebote;Linsenlaibchen an Spitzkohl-Rahmgemüse und Bombay Kartoffeln;4,7;2,9;2
+2019-11-01;Fri;Angebote;Chili con carne mit Petersilienreis;4,05;2,25;0
+2019-11-02;Sat;Angebote;Bratwurst mit Sauerkraut und Kartoffelpüree;4,35;2,55;0
+2019-11-02;Sat;Angebote;Falafelbällchen, dazu buntes Gemüse und Püree von Roten Linsen mit Tomate, Rosine, Minze und Ingwer;4,3;2,5;2
+2019-11-03;Sun;Angebote;Reis-Knuspersticks Tropicana, dazu Rahmgemüse und Kartoffelkroketten;4,45;2,65;1
+2019-11-03;Sun;Angebote;Schweineschnitzel Cordon bleu, dazu Rahmgemüse und Kartoffelkroketten;4,7;2,9;0
+2019-11-04;Mon;Angebote;Putensteak Saint Tropez (Champignons, Perlzwiebelsoße), dazu buntes Gemüse und gebackene Kartoffelecken;5,0;3,2;0
+2019-11-04;Mon;Angebote;Gemüse-Vollkornbrätling an Tomaten-Olivenragout und Couscous;4,25;2,45;1
+2019-11-04;Mon;Angebote;Muschelnudeln mit Lauch-Hackfleisch-Käsesoße oder Rahmsoße mit Tomaten und Auberginen, dazu geriebenen Käse;4,05;2,25;0
+2019-11-05;Tue;Angebote;Hackbraten mit Hirtenkäse und Oliven, dazu buntes Gemüse, Bratensoße und Herzoginkartoffeln Bratensoße;4,35;2,55;0
+2019-11-05;Tue;Angebote;Schupfnudel-Käsepfanne mit Gemüse und Kräutertsoße, dazu Blattsalat mit Apfeldressing;4,3;2,5;1
+2019-11-05;Tue;Angebote;Brühreis mit Geflügelfleisch, dazu ein Brötchen oder eine Scheibe Brot;4,05;2,25;0
+2019-11-06;Wed;Angebote;Gebackenes Seelachsfilet in der Eipanade, dazu Kartoffelpüree und bunter Bohnensalat;4,95;3,15;0
+2019-11-06;Wed;Angebote;Quinoa-Erbsen-Frikadelle, dazu Mangochutney, Gemüse-Reis und Möhrensalat mit Ananas;4,75;2,95;2
+2019-11-06;Wed;Angebote;Gratinierter Kartoffelauflauf mit Rinderfleisch, Bohnen und Mais;4,05;2,25;0
+2019-11-07;Thu;Angebote;Italienischer Burger (Rindfleisch, Zwiebeln, Parmesankäse und Rucola), dazu Pommes frites;5,75;3,95;0
+2019-11-07;Thu;Angebote;Penne Rigate mit Spinatpesto und geriebenen Käse;4,15;2,35;1
+2019-11-07;Thu;Angebote;Buttermilchplinsen mit Apfelmus;4,05;2,25;1
+2019-11-08;Fri;Angebote;Geschnetzeltes Züricher Art, dazu buntes Gemüse und Spätzle;4,55;2,75;0
+2019-11-08;Fri;Angebote;Champignon-Bohnenpfanne mit Röstiecken und Salat;;;2
+2019-11-08;Fri;Angebote;Sojaklops auf Tomatenratatouille und Basmati Reis;4,45;2,65;1
+2019-11-09;Sat;Angebote;Gebackener Hirtenkäse mit Knoblauchcreme, dazu Gemüse und Bratkartoffeln;4,65;2,85;1
+2019-11-09;Sat;Angebote;Szegediner Gulasch, dazu Hefeknödel oder Spätzle;4,5;2,7;0
+2019-11-10;Sun;Angebote;Valess Schnitzel mit Goudafüllung an Champignon-Lauchgemüse und Rosmarinkartoffeln;4,7;2,9;1
+2019-11-10;Sun;Angebote;Gratinierte Hähnchenbrust auf Blattspinat, dazu Kräutersoße und Rosmarinkartoffeln;4,9;3,1;0
+2019-11-11;Mon;Angebote;Kammsteak vom Schwein mit Salami, Lauch und Hirtenkäse, dazu Tsatsiki, Bohnengemüse und Amazing fries;5,05;3,25;0
+2019-11-11;Mon;Angebote;Käsesouffle an rahmigen Blattspinat und buntem Eisbergsalat;4,9;3,1;1
+2019-11-11;Mon;Angebote;Spirelli mit Pastasoße Arrabiata, dazu geriebenen Käse;4,05;2,25;0
+2019-11-12;Tue;Angebote;Kasslerbraten in Malzsoße, dazu Sauerkraut, Kartoffelklöße oder Petersilienkartoffeln;4,65;2,85;0
+2019-11-12;Tue;Angebote;Buntes Grillgemüse an Süßkartoffel-Gnocchi und Avocado-Mayonnaise;5,35;3,55;2
+2019-11-12;Tue;Angebote;Deftiger Möhren-Kartoffeltopf mit gebratenen Scheiben vom Wiener Würstchen oder vegetarische Variante mit einem Apfel, dazu ein Brötchen oder eine Scheibe Brot;;;0
+2019-11-13;Wed;Angebote;Gebackenes Seelachsfilet in der Eipanade  an Kartoffel-Zitronenstampf und Tomatensalat;5,1;3,3;0
+2019-11-13;Wed;Angebote;Mini Soufflee mit Spinat und Käse, dazu Linsencurry;4,95;3,15;1
+2019-11-13;Wed;Angebote;Tortelloni mit Spinat-Ricottafüllung in Tomatensoße und Käse überbacken;4,05;2,25;1
+2019-11-14;Thu;Angebote;Wildschweingulasch mit Apfelrotkohl und Zapfenkroketten;5,15;3,35;0
+2019-11-14;Thu;Angebote;Fünf  Kartoffelpuffer mit Kräuterquark-Dip und Salat;;;1
+2019-11-14;Thu;Angebote;Pasta mit Chili con carne oder Chili sin Carne, dazu geriebenen Käse;4,05;2,25;0
+2019-11-15;Fri;Angebote;Hausgeräuchertes Schweinefilet mit grüner Pfeffersoße, dazu buntes Gemüse und Kartoffelbällchen;5,0;3,2;0
+2019-11-15;Fri;Angebote;Gemüse-Knusperfrikadelle, dazu Spitzkohl-Apfel-Currygemüse und bunter Zupfsalat mit Himbeerdressing;5,0;3,2;2
+2019-11-16;Sat;Angebote;Frikadelle  mit Tomatensoße, dazu buntes Gemüse und Wellenbandnudeln;4,55;2,75;0
+2019-11-16;Sat;Angebote;Blumenkohl-Käse-Frikadelle, dazu Zucchini-Kartoffelpfanne, Schnittlauch-Dip und Tomatensalat;4,5;2,7;1
+2019-11-17;Sun;Angebote;Hähnchenroulade Florenz, dazu glasierte Honigmöhren und Kartoffelkroketten;5,05;3,25;0
+2019-11-17;Sun;Angebote;Gemüsestäbchen mit Käse, dazu Kräutersoße, glasierte Honigmöhren und Schwenkkartoffeln;4,45;2,65;1
+2019-11-18;Mon;Angebote;Schweineschnitzel mit deftigem Chili und Nachos, dazu buntes Gemüse und gebackene Kartoffelecken;5,1;3,3;0
+2019-11-18;Mon;Angebote;Gemüsebällchen auf Rahmwirsing an Steckrübenpüree;4,9;3,1;1
+2019-11-18;Mon;Angebote;Hörnchen-Nudeln an Tomatensoße mit Jagdwurst oder Grünkern-Bolognese, dazu geriebenen Käse;4,05;2,25;0
+2019-11-19;Tue;Angebote;Burgunderbraten vom Rind an Kirschrotkohl mit Kartoffelklößen oder Petersilienkartoffeln;4,75;2,95;0
+2019-11-19;Tue;Angebote;Blumenkohl und Wurzelgemüse in Kräuterrahm, dazu Rote Bete-Gnocchi und Feldsalat mit Apfel-Balsamico-Dressing;4,85;3,05;2
+2019-11-19;Tue;Angebote;Linseneintopf mit einem Apfel, dazu eine Scheibe Brot oder ein Brötchen;4,05;2,25;0
+2019-11-21;Thu;Angebote;Backfischstücke mit Remouladensoße, dazu Pommes frites und bunter Salat;5,1;3,3;0
+2019-11-21;Thu;Angebote;Zucchini gefüllt mit Pilzen, Kräutern und Polenta, dazu Tomatenragout und Bauernsalat;4,7;2,9;2
+2019-11-21;Thu;Angebote;Griechischer Nudelauflauf mit Schweinefleisch und Hirtenkäse;4,05;2,25;0
+2019-11-22;Fri;Angebote;Hähnchenbrust gratiniert mit Paprika, Tomaten, Champignons und Hirtenkäse, dazu Broccoliröschen und Pastasotto;5,05;3,25;0
+2019-11-22;Fri;Angebote;Spinat-Karottenrösti an Zartweizen-Risotto und buntem Eisbergsalat mit fruchtigem Jogurtdressing;5,0;3,2;0
+2019-11-22;Fri;Angebote;Königsberger Klopse mit Karpernsoße, dazu buntes Gemüse und Kräuterreis;;;0
+2019-11-23;Sat;Angebote;Krautnudeln mit Salami, dazu Tomatensoße und geriebenen Käse;4,45;2,65;0
+2019-11-23;Sat;Angebote;Tomaten-Zucchiniragout, dazu Basmati Reis und Möhrensalat mit Apfel;4,4;2,6;2
+2019-11-24;Sun;Angebote;2 kleine Hähnchenhaxen mit Geflügelsoße, dazu buntes Gemüse und Kartoffelbällchen;4,95;3,15;0
+2019-11-24;Sun;Angebote;Karottenrösti mit Ananas und Gouda gratiniert, dazu Chiligemüse und Kartoffelbällchen;4,9;3,1;1
+2019-11-25;Mon;Angebote;Gebratenes Schweinerückensteak Santiago (Schinkenwürfel, Paprika und Mais), dazu Bohnengemüse und Amazing fries;4,85;3,05;0
+2019-11-25;Mon;Angebote;Polenta-Käseschnitte auf Kürbis-Tomatengemüse und Feldsalat mit Himbeerdressing;4,75;2,95;1
+2019-11-25;Mon;Angebote;Gabelspaghetti mit spanischer Hackfleischsoße oder Tomatensoße mit Zucchini, dazu geriebenen Käse;4,05;2,25;0
+2019-11-26;Tue;Angebote;Hackbraten Frankfurter Art (mit Wiener Würstchen gefüllt), dazu Bratensoße, buntes Gemüse und Petersilienkartoffeln;4,5;2,7;0
+2019-11-26;Tue;Angebote;Frisches Pfannengemüse mit Rösti-Ecke und Aioli;4,75;2,95;2
+2019-11-26;Tue;Angebote;Sächsische Kartoffelsuppe mit einem Paar Wiener Würstchen (vegetarische Variante mit einem Apfel), dazu eine Scheibe Brot oder ein Brötchen;;;0
+2019-11-27;Wed;Angebote;Paniertes Seelachsfilet an Kartoffel-Möhrenstampf und Gurkensalat;4,7;2,9;0
+2019-11-27;Wed;Angebote;Hausgemachte Couscous-Karottenfrikadelle, dazu Ratatouillegemüse und Bohnensalat;4,4;2,6;2
+2019-11-27;Wed;Angebote;Kartoffel-Kürbiskernpuffer mit Tomaten-Schnittlauchquark;4,05;2,25;0
+2019-11-28;Thu;Angebote;Hirschkeulenbraten mit Wachholder-Preiselbeersoße, dazu Rosenkohl und Kartoffelkroketten;5,65;3,85;0
+2019-11-28;Thu;Angebote;Cannelloni gefüllt mit Spinat-Ricotta, dazu Gemüsebolognese und geriebenen Käse;4,35;2,55;1
+2019-11-28;Thu;Angebote;Apfel-Milchreis mit Süßkirschen;4,05;2,25;1
+2019-11-29;Fri;Angebote;Bayrischer Fleischkäse mit süßem Senf, dazu Bratkartoffeln und bunter Krautsalat;4,5;2,7;0
+2019-11-29;Fri;Angebote;Auberginen im Haferflockenmantel, dazu Tsatsiki und orientalischer Gemüsereis;4,25;2,45;2
+2019-11-29;Fri;Angebote;Kartoffelrösti mit Gemüse und Creme fraiche gratiniert, dazu bunte Salatmischung;4,05;2,25;1
+2019-11-30;Sat;Angebote;Pastinaken-Steckrübenrösti mit scharfen Tomaten-Quark-Dip und Gemüsespätzle;4,7;2,9;1
+2019-11-30;Sat;Angebote;Provenzialisches Rinderragout, dazu Schwarzwurzelgemüse, Hefeknödel oder Petersilienkartoffeln;4,75;2,95;0
+2019-12-01;Sun;Angebote;Coq au vin von der Hähnchenbrust, dazu Rahmgemüse und Kartoffelkroketten;4,75;2,95;0
+2019-12-01;Sun;Angebote;Blumenkohl-Käsemedaillon mit Rahmgemüse und Kartoffelkroketten;4,35;2,55;1
+2019-12-02;Mon;Angebote;Reis-Knuspersticks Tropicana mit Mangochutney und Ingwer-Chili, dazu buntes Gemüse und Bombay Kartoffeln;4,85;3,05;1
+2019-12-02;Mon;Angebote;Gebackene Hähnchenbrust im Käsemantel, dazu Cremechampignons und Pommes frites;4,75;2,95;0
+2019-12-02;Mon;Angebote;Vollkornspirelli mit Tomatensoße und Salami oder Käserahmsoße mit Blattspinat, dazu geriebenen Käse;4,05;2,25;0
+2019-12-03;Tue;Angebote;Schweinerückenbraten, dazu Porree mit Apfel und kleinen Kartoffelklößen;4,7;2,9;0
+2019-12-03;Tue;Angebote;Duett aus Rote Bete-Gnocchi und Süßkartoffelgnocchi mit Ofengemüse und Avocado-Mayonnaise;4,9;3,1;2
+2019-12-03;Tue;Angebote;Weihnachtsschmarrn mit Mandeln, Nüssen und Rosinen, dazu Zimtpflaumen;4,05;2,25;1
+2019-12-04;Wed;Angebote;Gebackenes Alaska Seelachsfilet in Knusperpanade an Nudelsalat mit Rauke, getrockneten Tomaten, Hirtenkäse, dazu Salatmix;4,75;2,95;0
+2019-12-04;Wed;Angebote;Paprikaschote mit Soja-Gemüsefüllung auf Tomatensoße, dazu Bulgursalat mit Linsen und Pfirsich;4,65;2,85;2
+2019-12-04;Wed;Angebote;Lauch-Hackfleischtopf mit Champignons, dazu ein Brötchen oder eine Scheibe Brot;4,05;2,25;0
+2019-12-05;Thu;Angebote;Gebratene Entenkeule an Glühweinrotkohl mit Kartoffelklößen;6,3;4,5;0
+2019-12-05;Thu;Angebote;Gedrehte Makkaroni mit Zucchini-Basilikum-Pesto, dazu geriebenen Käse;4,2;2,4;1
+2019-12-05;Thu;Angebote;Steckrüben-Karottenragout mit Curry und Limette, dazu bunte Ebly-Reispfanne;4,05;2,25;2
+2019-12-06;Fri;Angebote;Quark-Frikadellen mit buntem Gemüse und Petersilienkartoffeln;4,05;2,25;0
+2019-12-06;Fri;Angebote;Broccoli-Nuggets an scharfer Tomatensalsa mit Zitronen-Linsen-Couscous;4,6;2,8;1
+2019-12-06;Fri;Angebote;Lammgeschnetzeltes mit Wurzelgemüse in Rosmarinsoße, dazu Prinzessbohnen und Röstitaler;5,15;3,35;0
+2019-12-07;Sat;Angebote;Gebratener Mandeltofu, dazu Grünkern-Reispfanne mit Rucola und Kürbiskernen und Chili-Dip;4,85;3,05;2
+2019-12-07;Sat;Angebote;Hähnchenbrust in Honig-Balsamicosoße, dazu Blumenkohl und Pastasotto;5,15;3,35;0
+2019-12-08;Sun;Angebote;Rote-Bete-Taler mit veganem Tsatsiki, dazu Schwenkkartoffeln und Blattsalate in Apfeldressing;5,05;3,25;2
+2019-12-08;Sun;Angebote;Lausitzer Kümmelbraten, dazu  Möhrengemüse und Schwenkkartoffeln;4,65;2,85;0
+2019-12-09;Mon;Angebote;Hähnchenbrust mit Tomate und Käse gratiniert, dazu Erbsengemüse und Amaizing fries;5,05;3,25;0
+2019-12-09;Mon;Angebote;Röstoppers mit Philadelphia, dazu Champignons in Rahmsoße und bunter Eisbergsalat;4,85;3,05;1
+2019-12-09;Mon;Angebote;Makkaroni Penne Rigate mit Mailänder Nudelsoße oder Bolognese von roten Linsen, dazu geriebenen Käse;4,05;2,25;0
+2019-12-10;Tue;Angebote;Schweizer Hackbraten mit buntem Gemüse und Petersilienkartoffeln;4,55;2,75;0
+2019-12-10;Tue;Angebote;Gnocchi mit Gemüse in Tomatensoße und Käse überbacken;4,15;2,35;1
+2019-12-10;Tue;Angebote;Linseneintopf mit Scheiben von Schweineknacker, dazu eine Scheibe Brot oder ein Brötchen;4,05;2,25;0
+2019-12-11;Wed;Angebote;Hausgemachte Tofufrikadelle mit Zwiebel und Paprika auf Ratatouillegemüse, dazu Gemüse-Bulgur;4,55;2,75;1
+2019-12-11;Wed;Angebote;Kräuterquark mit Leberwurst und Butter oder vegetarisch mit einem Apfel, dazu Petersilienkartoffeln;4,05;2,25;0
+2019-12-11;Wed;Angebote;Crispy Chicken Burger mit Pommes frites;5,15;3,35;0
+2019-12-12;Thu;Angebote;Geräuchertes  Lachsfilet auf Blattspinat mit Limettensoße und Rosmarinkartoffeln;5,85;4,05;0
+2019-12-12;Thu;Angebote;Spirelli mit gegrilltemTomatenratatouille, dazu geriebenen Käse;4,15;2,35;1
+2019-12-12;Thu;Angebote;Herzhafter Kaiserschmarren  mit Radieschen-Kressequark und Karottensalat;4,05;2,25;1
+2019-12-13;Fri;Angebote;Gebackenes Schweinerückenschnitzel, dazu Champignon-Lauchpfanne und Pommes frites;4,85;3,05;0
+2019-12-13;Fri;Angebote;Gebackene Broccoli Nuggets mit Preiselbeersahne, dazu Bratkartoffeln und Salat;4,55;2,75;1
+2019-12-13;Fri;Angebote;Kartoffel-Möhren-Bällchen, dazu Tsatsiki und mediterraner Gemüsecouscous;4,05;2,25;2
+2019-12-14;Sat;Angebote;Kohlrabi-Kräutermedaillons, dazu Rote-Bete-Quarkdip, Pastasotto und Möhrensalat mit Apfel;4,65;2,85;1
+2019-12-14;Sat;Angebote;Hähnchenbrust in Parmesanpanade mit Tomatenspaghetti und Broccoligemüse;4,85;3,05;0
+2019-12-15;Sun;Angebote;Gemüseragout Kokos-Curry, dazu Schwenkkartoffeln und bunte Blattsalate mit Joghurt;4,7;2,9;2
+2019-12-15;Sun;Angebote;Kasslerbraten  (A, A3, I)an Möhrengemüse, dazu Hefeknödel oder Kartoffeln;4,55;2,75;0
+2019-12-16;Mon;Angebote;Schweinefilet mit Lebkuchenjus, dazu Mandelbroccoli und Kartoffelkroketten;5,15;3,35;0
+2019-12-16;Mon;Angebote;Hausgemachte Quinoamedaillons mit Currygemüse und  Bombay-Kartoffeln;4,75;2,95;1
+2019-12-16;Mon;Angebote;Gabelspaghetti mit Pastasoße Carbonara oder Tomatensoße mit Hirtenkäse, dazu geriebenen Käse;4,05;2,25;0
+2019-12-17;Tue;Angebote;Seelachs in der Sesampanade mit Remouladensoße, dazu Kartoffelpüree und Bohnensalat;4,85;3,05;0
+2019-12-17;Tue;Angebote;Käsesoufflee an lauwarmen Linsen mit Apfel, Lauch und Sonnenblumenkernen, dazu bunte Blattsalate mit Joghurt;4,75;2,95;1
+2019-12-17;Tue;Angebote;Hausgemachte Zucchini-Kartoffelpuffer, dazu Kräuterquark-Dip und bunte Blattsalate mit Joghurt;;;1
