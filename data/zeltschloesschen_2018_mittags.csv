@@ -1,0 +1,2025 @@
+date;weekday;category;name;employees;students;type
+2018-01-02;Tue;Angebote;Putenschnitzel Cordon bleu mit Möhrengemüse und Schwenkkartoffeln;;;0
+2018-01-02;Tue;Angebote;Rindergeschnetzeltes mit Rote Bete, Gewürzgurken und Rotwein, dazu Erbsen und Kartoffelkroketten;4,39;2,64;0
+2018-01-02;Tue;Angebote;Tagliatelle mit Gemüsestreifen und Avocado-Kokos-Limettensoße, dazu geröstete Cashewkerne;3,85;2,1;2
+2018-01-02;Tue;Pasta;Fruchtige Tomatensoße mit Mozzarella;;;1
+2018-01-02;Tue;Pasta;Pastasoße all'amatriciana mit Tomaten und Bauchspeck;;;0
+2018-01-02;Tue;Pasta;Hausgemachte Pasta mit Rucolapesto;;;2
+2018-01-02;Tue;Ofenfrisch;Pizza mit Hähnchenfleisch, Blattspinat und Creme fraiche;3,76;2,66;0
+2018-01-02;Tue;Ofenfrisch;Pizza Hellas mit Tomaten, Oliven, roten Zwiebeln und Hirtenkäse;3,76;2,66;1
+2018-01-02;Tue;Tagessuppe;Tomatensuppe;;;2
+2018-01-03;Wed;Gebratene Schweinemedaillons auf buntem Wokgemüse, dazu Kokosreis (Auch fleischlos möglich;2,39 €/ 4,14 €);4,74;2,99;0
+2018-01-03;Wed;Angebote;Seelachsfilet mit Sesampanade, dazu Kartoffel-Linsenstampf und Salat;4,54;2,79;0
+2018-01-03;Wed;Angebote;Folienkartoffel mit Radieschen-Kressequark und Salat;3,94;2,19;1
+2018-01-03;Wed;Angebote;Mediterrane Tofu-Gemüsepfanne mit Couscous und Salat;4,26;2,51;2
+2018-01-03;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-01-03;Wed;Pasta;Tomatenratatouille;;;2
+2018-01-03;Wed;Pasta;Hausgemachte Pasta mit Rucolapesto;;;2
+2018-01-03;Wed;Ofenfrisch;Pizza mit Hähnchenfleisch, Blattspinat und Creme fraiche;3,76;2,66;0
+2018-01-03;Wed;Ofenfrisch;Pizza Hellas mit Tomaten, Oliven, roten Zwiebeln und Hirtenkäse;3,76;2,66;1
+2018-01-03;Wed;Tagessuppe;Erbsensuppe;;;2
+2018-01-03;Wed;Tagessuppe;Tomatensuppe mit Bauchspeck;;;0
+2018-01-04;Thu;Angebote;Schnitzel XXL in Cornflakespanade mit Zitronenecke und Pommes frites, dazu Salat;5,08;3,33;0
+2018-01-04;Thu;Angebote;Sojagyros, dazu Tomaten-Pastasotto und Salat;4,32;2,57;2
+2018-01-04;Thu;Pasta;Käsesoße Quattro formaggi;;;0
+2018-01-04;Thu;Pasta;Mailänder Nudelsoße;;;0
+2018-01-04;Thu;Pasta;Hausgemachte Pasta mit Rucolapesto;;;2
+2018-01-04;Thu;Tagessuppe;Linsen-Kokossuppe;;;1
+2018-01-04;Thu;Tagessuppe;Gulaschsuppe mit Roter Bete und Gewürzgurke;;;0
+2018-01-05;Fri;Angebote;Pulled Turkey Burger mit Guacamole, Mango-Kürbischutney und Pommes frites;5,08;3,33;0
+2018-01-05;Fri;Angebote;Lasagne Bolognese mit Salat;;;0
+2018-01-05;Fri;Angebote;Gebackene Briespitze mit Preiselbeer-Dip und Salat;;;1
+2018-01-05;Fri;Angebote;Langos mit Aioli und Antipasti;4,0;2,25;2
+2018-01-05;Fri;Pasta;Hausgemachte Pasta mit Rucolapesto;;;2
+2018-01-05;Fri;Pasta;Pastasoße mit Champignons und getrockneten Tomaten;;;1
+2018-01-05;Fri;Pasta;Ragù napoletano;;;0
+2018-01-05;Fri;Tagessuppe;Kartoffelsuppe mit Wiener;;;0
+2018-01-05;Fri;Tagessuppe;Mediterrane Tomatensuppe;;;2
+2018-01-08;Mon;Angebote;Schweineschnitzel mit Pommes frites;4,0;2,25;0
+2018-01-08;Mon;Angebote;Hackbraten mit Hirtenkäse, getrockneten Tomaten und Oliven an fruchtiger Tomatensoße, dazu Pastasotto und Salat;4,24;2,49;0
+2018-01-08;Mon;Angebote;Schwenkkartoffeln mit grüner Soße, dazu Rote-Bete-Birnensalat mit gerösteten Kürbiskernen;4,0;2,25;1
+2018-01-08;Mon;Pasta;Frischkäse-Weißweinsoße mit gebratenem Tofu;;;1
+2018-01-08;Mon;Pasta;Pastasoße mit Champignons und getrockneten Tomaten;;;1
+2018-01-08;Mon;Pasta;Hausgemachte Pasta mit Thaipesto;;;2
+2018-01-08;Mon;Tagessuppe;Fruchtige Möhrensuppe;;;2
+2018-01-08;Mon;Tagessuppe;Tomatensuppe mit Schinken und Champignons;;;0
+2018-01-09;Tue;Angebote;Schweinekrustenbraten mit Apfelrotkohl und Kartoffelklößen oder Schwenkkartoffeln;4,54;2,79;0
+2018-01-09;Tue;Angebote;Seitan Ragout fin mit veganer Hollandaise gratiniert, dazu Salat;3,9;2,15;2
+2018-01-09;Tue;Angebote;Hausgemachte Tofufrikadelle mit Zwiebel und Paprika an scharfer Letschosoße, dazu Stampfkartoffeln und Salat;4,54;2,79;2
+2018-01-09;Tue;Pasta;Carbonara;;;0
+2018-01-09;Tue;Pasta;Tomatensoße mit Antipasti;;;2
+2018-01-09;Tue;Pasta;Hausgemachte Pasta mit Thaipesto;;;2
+2018-01-09;Tue;Tagessuppe;Fruchtige Möhrensuppe;;;2
+2018-01-09;Tue;Tagessuppe;Erbsenpüreesuppe;;;1
+2018-01-10;Wed;Hähnchen im Backteig auf gebratenen Mie Nudeln (Auch fleischlos möglich;2,80 €/ 4,55 €);5,15;3,4;0
+2018-01-10;Wed;Angebote;Rinderragout mit Champignons und Mischpilzen an gebratenen Spätzle mit Gemüsestreifen, dazu Salat;4,4;2,65;0
+2018-01-10;Wed;Angebote;Quinoa - Erbsen - Medaillon  auf fruchtiger Tomatensoße mit Schwenkkartoffeln, dazu Salat;4,4;2,65;2
+2018-01-10;Wed;Pasta;Sojabolognese;;;2
+2018-01-10;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-01-10;Wed;Pasta;Hausgemachte Pasta mit Thaipesto;;;2
+2018-01-10;Wed;Ofenfrisch;Flammkuchen mit Schmand, Bauchspeck und Lauch;3,76;2,66;0
+2018-01-10;Wed;Tagessuppe;Gemüse-Käsesuppe mit Bauchspeck;;;0
+2018-01-10;Wed;Tagessuppe;Tomatensuppe;;;2
+2018-01-11;Thu;Angebote;Paniertes Schweinekotelett mit mediterranem Nudelsalat;4,74;2,99;0
+2018-01-11;Thu;Angebote;Champignon-Blätterteig-Strudel mit Salat;4,34;2,59;1
+2018-01-11;Thu;Angebote;Buntes Gemüsecurry mit Steckrüben, Erbsen und Karotten an Gnocchi, dazu Salat;4,61;2,86;2
+2018-01-11;Thu;Pasta;Gorgonzola-Spinatsoße;;;0
+2018-01-11;Thu;Pasta;Tomatensoße mit Chorizo;;;0
+2018-01-11;Thu;Pasta;Hausgemachte Pasta mit Thaipesto;;;2
+2018-01-11;Thu;Tagessuppe;Kartoffelsuppe mit Putenwiener;;;0
+2018-01-11;Thu;Tagessuppe;Käsesuppe;;;0
+2018-01-12;Fri;Angebote;Zelt Burger mit Pommes frites;5,08;3,33;0
+2018-01-12;Fri;Angebote;Eier in Senfsoße mit Petersilienkartoffeln und Salat;3,95;2,2;1
+2018-01-12;Fri;Angebote;Graupenrisotto mit Gemüse und kleinen Teigtaschen, dazu Salat;4,24;2,49;1
+2018-01-12;Fri;Angebote;Kokosmilchreis mit heißen Kirschen;4,14;2,39;2
+2018-01-12;Fri;Pasta;Hausgemachte Pasta mit Thaipesto;;;2
+2018-01-12;Fri;Pasta;Broccolirahmsoße mit Hirtenkäse;;;1
+2018-01-12;Fri;Pasta;Geschnetzeltes Jäger Art;;;0
+2018-01-12;Fri;Ofenfrisch;Flammkuchen mit Schmand, Bauchspeck und Lauch;;;0
+2018-01-12;Fri;Tagessuppe;Curry-Spinatsuppe;;;0
+2018-01-12;Fri;Tagessuppe;Asiatische Gemüsesuppe;;;2
+2018-01-15;Mon;Angebote;6-Korn-Putenschnitzel mit Gurken-Apfelquark und Kartoffel-Linsenstampf;4,95;3,2;0
+2018-01-15;Mon;Angebote;Quarkfrikadellen mit Schwarzwurzel-Rahmgemüse und Bratkartoffeln;4,42;2,67;0
+2018-01-15;Mon;Angebote;Erbsen-Quinoa-Medaillon mit Curry-Joghurt-Dip und Salat;4,2;2,45;2
+2018-01-15;Mon;Angebote;Vegetarische Maultaschen mit deftigem Paprikakraut und Salat;;;1
+2018-01-15;Mon;Pasta;Hackfleisch-Zucchinisoße;;;0
+2018-01-15;Mon;Pasta;Hausgemachte Pasta mit Zucchini-Basilikum-Pesto;;;2
+2018-01-15;Mon;Ofenfrisch;Pizza BBQ-Pulled Turkey mit Paprika und Mais;3,76;2,66;0
+2018-01-15;Mon;Ofenfrisch;Pizza Toskana mit Paprika, Champignons und Peperoni;3,76;2,66;1
+2018-01-15;Mon;Tagessuppe;Gemüsecurry;;;2
+2018-01-15;Mon;Tagessuppe;Karotten-Ingwersuppe;;;1
+2018-01-16;Tue;Angebote;Gebackenes Seelachsfilet mit Spinat-Käsefüllung, dazu Möhrenrisotto mit Kürbiskernen und Salat;4,85;3,1;0
+2018-01-16;Tue;Angebote;Kirsch-Quarkstrudel mit Vanillesoße;3,95;2,2;1
+2018-01-16;Tue;Angebote;Zucchini gefüllt mit Gemüse Kräuterpolenta, dazu fruchtige Tomatensoße und Couscous an Salat;4,42;2,67;2
+2018-01-16;Tue;Pasta;Tomatensoße mit deftigem Schmorkraut;;;2
+2018-01-16;Tue;Pasta;Pastasoße mit Bauchspeck und Spinat;;;0
+2018-01-16;Tue;Pasta;Hausgemachte Pasta mit Zucchini-Basilikum-Pesto;;;2
+2018-01-16;Tue;Ofenfrisch;Pizza BBQ-Pulled Turkey mit Paprika und Mais;3,76;2,66;0
+2018-01-16;Tue;Ofenfrisch;Pizza Toskana mit Paprika, Champignons und Peperoni;3,76;2,66;1
+2018-01-16;Tue;Tagessuppe;Kartoffel-Linsensuppe;;;1
+2018-01-17;Wed;Angebote;Rindercurry mit Ingwer, Erdnüssen und Mango, dazu gebratene Mie Nudeln;;;0
+2018-01-17;Wed;Angebote;Gebratene Hähnchenbrust mit Paprika, Tomaten, Champignons und Hirtenkäse, dazu Kartoffelwaffeln und Salat;4,85;3,1;0
+2018-01-17;Wed;Angebote;Illustrierter Kartoffelauflauf mit Salat;4,39;2,64;1
+2018-01-17;Wed;Angebote;Szegediner Sojagulasch mit Kartoffelklößen und Salat;4,0;2,25;2
+2018-01-17;Wed;Pasta;Gemüsebolognese;;;2
+2018-01-17;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-01-17;Wed;Pasta;Hausgemachte Pasta mit Zucchini-Basilikum-Pesto;;;2
+2018-01-17;Wed;Ofenfrisch;Pizza BBQ-Pulled Turkey mit Paprika und Mais;3,76;2,66;0
+2018-01-17;Wed;Ofenfrisch;Pizza Toskana mit Paprika, Champignons und Peperoni;3,76;2,66;1
+2018-01-17;Wed;Tagessuppe;Karotten-Kokossuppe;;;2
+2018-01-17;Wed;Tagessuppe;Steckrüben-Zucchinisuppe;;;1
+2018-01-18;Thu;Angebote;Chili con carne Schnitzel mit Pommes frites und Salat;4,74;2,99;0
+2018-01-18;Thu;Angebote;Schweineschnitzel Wiener Art mit Pommes frites;3,95;2,2;0
+2018-01-18;Thu;Angebote;Rotes Linsencurry mit Naan-Brot und Salat;4,16;2,41;2
+2018-01-18;Thu;Pasta;Feurige Käsesoße;;;0
+2018-01-18;Thu;Pasta;Wurstgulasch;;;0
+2018-01-18;Thu;Pasta;Hausgemachte Pasta mit Zucchini-Basilikum-Pesto;;;2
+2018-01-18;Thu;Ofenfrisch;Pizza BBQ-Pulled Turkey mit Paprika und Mais;3,76;2,66;0
+2018-01-18;Thu;Ofenfrisch;Pizza Toskana mit Paprika, Champignons und Peperoni;3,76;2,66;1
+2018-01-19;Fri;Angebote;Cheeseburger mit Pommes frites;5,08;3,33;0
+2018-01-19;Fri;Angebote;Krautnudeln mit Salami und Salat;4,0;2,25;0
+2018-01-19;Fri;Angebote;Krautnudeln mit Apfelstreifen, Walnüssen und getrockneten Tomaten;4,0;2,25;2
+2018-01-19;Fri;Angebote;Käsespätzle mit Gouda und Salat;4,04;2,29;1
+2018-01-19;Fri;Pasta;Pute in fruchtiger Currysoße;;;0
+2018-01-19;Fri;Pasta;Hausgemachte Pasta mit Zucchini-Basilikum-Pesto;;;2
+2018-01-19;Fri;Pasta;Bohnensugo;;;2
+2018-01-19;Fri;Ofenfrisch;Pizza BBQ-Pulled Turkey mit Paprika und Mais;3,76;2,66;0
+2018-01-19;Fri;Ofenfrisch;Pizza Toskana mit Paprika, Champignons und Peperoni;3,76;2,66;1
+2018-01-22;Mon;Angebote;6-Korn-Putenschnitzel mit Tomatenspaghetti;4,66;2,91;0
+2018-01-22;Mon;Angebote;Türkisches Hacksteak mit Hirtenkäse-Raukecreme und Kartoffelkroketten, dazu Salat;4,64;2,89;0
+2018-01-22;Mon;Angebote;Linsen-Hirse-Köfte mit Orangen-Sesam-Dip und Salat;3,98;2,23;2
+2018-01-22;Mon;Angebote;Falafel mit Couscous, Tortilla-Chips, Joghurt-Dip und Salat;4,0;2,25;1
+2018-01-22;Mon;Pasta;Pilz-Auberginensugo;;;2
+2018-01-22;Mon;Pasta;Knoblauchsoße mit Hackfleisch und Tomaten;;;0
+2018-01-22;Mon;Pasta;Hausgemachte Pasta mit frischem Tomatenpesto;;;2
+2018-01-22;Mon;Ofenfrisch;Pizza Bruscetta mit Rucola, marinierten Tomaten, Serranoschinken und gehobeltem Parmesan;;;0
+2018-01-22;Mon;Ofenfrisch;Pizza Bel Paese mit Tomaten und Hirtenkäse;;;1
+2018-01-22;Mon;Tagessuppe;Kürbissuppe;;;1
+2018-01-22;Mon;Tagessuppe;Currysuppe mit Pute;;;0
+2018-01-23;Tue;Angebote;Currywurst, dazu Pommes frites;4,3;2,55;0
+2018-01-23;Tue;Angebote;Seelachsfilet in Kartoffelpanade an Remouladensoße, dazu Pommes frites und Salat;4,52;2,77;0
+2018-01-23;Tue;Angebote;Rucola-Süßkartoffelschnitte auf Kürbis-Tomaten-Lauchgemüse an Möhrensalat mit Apfel;;;2
+2018-01-23;Tue;Angebote;Rucola-Süßkartoffelschnitte auf mediterranem Pfannengemüse an Möhrensalat mit Apfel;4,0;2,25;2
+2018-01-23;Tue;Angebote;Kartoffeln in Käsesoße mit mediterranem Pfannengemüse und Salat;4,4;2,65;0
+2018-01-23;Tue;Pasta;Tomatensoße mit Weißkraut;;;2
+2018-01-23;Tue;Pasta;Pastasoße mit Salami und Champignons;;;0
+2018-01-23;Tue;Pasta;Hausgemachte Pasta mit frischem Tomatenpesto;;;2
+2018-01-23;Tue;Ofenfrisch;Pizza Bruscetta mit Rucola, marinierten Tomaten, Serranoschinken und gehobeltem Parmesan;;;0
+2018-01-23;Tue;Ofenfrisch;Pizza Bel Paese mit Tomaten und Hirtenkäse;;;1
+2018-01-23;Tue;Tagessuppe;Blumenkohlcremesuppe;;;1
+2018-01-23;Tue;Tagessuppe;Mediterrane Tomatensuppe;;;2
+2018-01-24;Wed;Angebote;Schweinekrustenbraten mit Kirschrotkohl und Knödel;4,42;2,67;0
+2018-01-24;Wed;Angebote;Eibauer Biergulasch mit Silberzwiebeln, Speckrosenkohl und Hefeknödeln;4,42;2,67;0
+2018-01-24;Wed;Angebote;Shogok-Tibet. Kartoffelcurry mit Basmati Reis und Salat;4,0;2,25;2
+2018-01-24;Wed;Pasta;Quorn-Gulaschsoße;;;1
+2018-01-24;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-01-24;Wed;Pasta;Hausgemachte Pasta mit frischem Tomatenpesto;;;2
+2018-01-24;Wed;Ofenfrisch;Pizza Bruscetta mit Rucola, marinierten Tomaten, Serranoschinken und gehobeltem Parmesan;;;0
+2018-01-24;Wed;Ofenfrisch;Pizza Bel Paese mit Tomaten und Hirtenkäse;;;1
+2018-01-24;Wed;Tagessuppe;Kartoffelsuppe mit Wiener;;;0
+2018-01-24;Wed;Tagessuppe;Broccolisuppe;;;2
+2018-01-25;Thu;Angebote;Schweineschnitzel mit Zitrone und Pommes frites;4,0;2,25;0
+2018-01-25;Thu;Angebote;Schnitzel in Tortilla-Chipspanade mit Tomatensalsa und Pommes frites;4,74;2,99;0
+2018-01-25;Thu;Angebote;Champignonpfanne mit Miniklößen, roten Zwiebeln und Creme fraiche, dazu Salat;4,24;2,49;2
+2018-01-25;Thu;Pasta;Frischkäsesoße mit Austernpilzen;;;0
+2018-01-25;Thu;Pasta;Tomatensoße mit Schinken, Salami, Champignons und Paprika;;;0
+2018-01-25;Thu;Pasta;Hausgemachte Pasta mit frischem Tomatenpesto;;;2
+2018-01-25;Thu;Ofenfrisch;Pizza Bruscetta mit Rucola, marinierten Tomaten, Serranoschinken und gehobeltem Parmesan;3,76;2,66;0
+2018-01-25;Thu;Ofenfrisch;Pizza Bel Paese mit Tomaten und Hirtenkäse;3,76;2,66;1
+2018-01-25;Thu;Tagessuppe;Kirschrotkohlsuppe;;;0
+2018-01-26;Fri;Angebote;Chicken Burger mit Tomate-Mozzarella, Rucola und Basilikummayonnaise, dazu Pommes frites;5,08;3,33;0
+2018-01-26;Fri;Angebote;Lammcurry mit Bohnen-Paprikagemüse und Zitronen-Linsencouscous;4,64;2,89;0
+2018-01-26;Fri;Angebote;Kaiserschmarrn mit Apfelmus;4,0;2,25;1
+2018-01-26;Fri;Pasta;Hausgemachte Pasta mit frischem Tomatenpesto;;;2
+2018-01-26;Fri;Pasta;Soße alla sicilliana;;;1
+2018-01-26;Fri;Pasta;Gulaschsoße;;;0
+2018-01-26;Fri;Ofenfrisch;Pizza Bel Paese mit Tomaten und Hirtenkäse;3,76;2,66;1
+2018-01-26;Fri;Ofenfrisch;Pizza Bruscetta mit Rucola, marinierten Tomaten, Chorizo und gehobeltem Parmesan;3,76;2,66;0
+2018-01-26;Fri;Tagessuppe;Kartoffelcurry;;;2
+2018-01-26;Fri;Tagessuppe;Käsesuppe mit Broccoli und Blumenkohl;;;0
+2018-01-29;Mon;Angebote;Paella mit Lachs und Hähnchenfleisch, dazu Salat;;;0
+2018-01-29;Mon;Angebote;Arabische Paprikaschote mit Rind und Lammhackfleisch (scharf), dazu Couscous und Joghurtsoße mit Minze;4,74;2,99;0
+2018-01-29;Mon;Angebote;Kartoffelpuffer Gärtnerin Art mit Apfelmus oder Kräuterquark, dazu Salat;;;1
+2018-01-29;Mon;Angebote;Sojagulasch ungarischer Art mit Kräuterkartoffeln und Salat;4,0;2,25;2
+2018-01-29;Mon;Pasta;Pastasoße mit Steckrüben und Salbei;;;0
+2018-01-29;Mon;Pasta;Tomatensoße mit Schinken und Hackfleisch;;;0
+2018-01-29;Mon;Pasta;Hausgemachte Pasta mit Petersilienpesto;;;2
+2018-01-29;Mon;Ofenfrisch;Pizza mit Spargel, getrockneten Tomaten und Schmand;3,76;2,66;1
+2018-01-29;Mon;Tagessuppe;Champignoncremesuppe;;;1
+2018-01-30;Tue;Angebote;Hackfleischfrikadelle mit buntem Gemüse und Pommes frites;4,21;2,46;0
+2018-01-30;Tue;Angebote;Seelachsfilet in Eihülle auf Kartoffelpüree, dazu Salat;;;0
+2018-01-30;Tue;Angebote;Gemüsecurry mit Basmati Reis und Salat;4,0;2,25;1
+2018-01-30;Tue;Pasta;Tomatensoße mit Austernpilzen;;;2
+2018-01-30;Tue;Pasta;Carbonara Frankfurter Art;;;0
+2018-01-30;Tue;Pasta;Hausgemachte Pasta mit Petersilienpesto;;;2
+2018-01-30;Tue;Ofenfrisch;Türkische Pizza mit Rind, Lamm, Tomaten und Zwiebeln;3,76;2,66;0
+2018-01-30;Tue;Ofenfrisch;Pizza mit Spargel, getrockneten Tomaten und Schmand;3,76;2,66;1
+2018-01-30;Tue;Tagessuppe;Tomatensuppe mit Schinken;;;0
+2018-01-30;Tue;Tagessuppe;Erbsencremesuppe;;;1
+2018-01-31;Wed;Hähnchenschnitzel auf Wokgemüse mit Mango-Currysoße und Basmati Reis (Auch fleischlos möglich;2,34 €/ 4,09 €);4,69;2,94;0
+2018-01-31;Wed;Angebote;Sächsischer Sauerbraten mit Apfelrotkohl und Kartoffelklößen;4,74;2,99;0
+2018-01-31;Wed;Angebote;Pastasotto mit Tomaten und Kürbiskernen, dazu Chinaschnitte Hong Kong und Salat;4,0;2,25;2
+2018-01-31;Wed;Angebote;Valess Schnitzel mit Kräuterquark, dazu Couscous und Salat;4,85;3,1;1
+2018-01-31;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-01-31;Wed;Pasta;Tomatenratatouille;;;2
+2018-01-31;Wed;Pasta;Hausgemachte Pasta mit Petersilienpesto;;;2
+2018-01-31;Wed;Ofenfrisch;Pizza mit Spargel, getrockneten Tomaten und Schmand;3,76;2,66;1
+2018-01-31;Wed;Tagessuppe;Linseneintopf;;;0
+2018-01-31;Wed;Tagessuppe;Asiatische Kokos-Gemüsesuppe;;;1
+2018-02-01;Thu;Angebote;Schnitzel in Tortilla-Chipspanade, dazu Erbsen und Pommes frites;4,75;3,0;0
+2018-02-01;Thu;Angebote;Schweineschnitzel Wiener Art mit Pommes frites;4,0;2,25;0
+2018-02-01;Thu;Angebote;Karotten- Sesam Knusperschnitzel mit Hirtenkäse-Raukecreme (vegetarisch) oder Veta-Raukecreme, (vegan) dazu Kartoffelpüree und Salat;4,17;2,42;1
+2018-02-01;Thu;Pasta;Zucchinirahmsoße mit Parmesan;;;1
+2018-02-01;Thu;Pasta;Tomatensoße mit Jagdwurst und Schmorkraut;;;0
+2018-02-01;Thu;Pasta;Hausgemachte Pasta mit Petersilienpesto;;;2
+2018-02-01;Thu;Ofenfrisch;Türkische Pizza mit Rind, Lamm, Tomaten und Zwiebeln;3,76;2,66;0
+2018-02-01;Thu;Ofenfrisch;Pizza mit Spargel, getrockneten Tomaten und Schmand;3,76;2,66;1
+2018-02-01;Thu;Tagessuppe;Gemüse-Currysuppe;;;1
+2018-02-01;Thu;Tagessuppe;Käsesuppe mit Speck;;;0
+2018-02-02;Fri;Angebote;Italian Style Burger mit Rindfleisch, Chorizo-Salami, Rucola, Tomaten, roten Zwiebeln und Hirtenkäse-Paprikacreme, dazu Pommes frites;5,08;3,33;0
+2018-02-02;Fri;Angebote;Tiegelwurst mit Sauerkraut und Schwenkkartoffeln;4,0;2,25;0
+2018-02-02;Fri;Angebote;Süßkartoffel-Kokoscurry mit Gemüsebulgur und Salat;4,26;2,51;2
+2018-02-02;Fri;Pasta;Ricotta Spinatsoße;;;1
+2018-02-02;Fri;Pasta;Hausgemachte Pasta mit Petersilienpesto;;;2
+2018-02-02;Fri;Ofenfrisch;Pizza mit Spargel, getrockneten Tomaten und Schmand;3,76;2,66;1
+2018-02-02;Fri;Ofenfrisch;Pizza mit Serranoschinken, Rucola und Tomate;3,76;2,66;0
+2018-02-02;Fri;Tagessuppe;Tomatensuppe mit Jagdwurst und Schmorkraut;;;0
+2018-02-02;Fri;Tagessuppe;Gemüsecremesuppe;;;0
+2018-02-05;Mon;Angebote;Panierte Hähnchenbrust mit buntem Gemüse, dazu Käsesoße und Kartoffelspalten;4,71;2,96;0
+2018-02-05;Mon;Angebote;Gebratene Spätzle mit Gemüsestreifen und feuriger Käsesoße, dazu Salat;4,0;2,25;1
+2018-02-05;Mon;Angebote;Sojafrikassee wie von Oma mit Kräuterreis und Salat;4,1;2,35;2
+2018-02-05;Mon;Pasta;Basilikumsoße mit getrockneten Tomaten;;;1
+2018-02-05;Mon;Pasta;Hausgemachte Pasta mit Bärlauchpesto und Rucola;;;2
+2018-02-05;Mon;Tagessuppe;Scharfe Maiscremesuppe;;;1
+2018-02-06;Tue;Angebote;Gebratenes Hokifilet in Ei-Dillhülle mit Balsamicolinsen und Meerrettich-Kartoffelstampf;4,74;2,99;0
+2018-02-06;Tue;Angebote;"Veganer eingelegter ""Hering"" (Aubergine) Hausfrauen Art mit Bratkartoffeln und Salat";4,3;2,55;2
+2018-02-06;Tue;Pasta;Pastasoße mit Bauchspeck und Kirschtomaten;;;0
+2018-02-06;Tue;Pasta;Hausgemachte Pasta mit Bärlauchpesto und Rucola;;;2
+2018-02-06;Tue;Tagessuppe;Gemüsecremesuppe;;;1
+2018-02-07;Wed;Putenbruststreifen mit asiatischem Gemüse und gebratene Mie Nudeln (Auch fleischlos möglich;2,55 €/ 4,30 €);4,9;3,15;0
+2018-02-07;Wed;Angebote;Thüringer Rostbrätl mit Bratkartoffeln und Salat;;;0
+2018-02-07;Wed;Angebote;Vegane Königsberger Klopse mit Petersilienkartoffeln und Salat;4,41;2,66;2
+2018-02-07;Wed;Pasta;Linsencurry;;;1
+2018-02-07;Wed;Pasta;Hausgemachte Pasta mit Bärlauchpesto und Rucola;;;2
+2018-02-07;Wed;Ofenfrisch;Pizza Kapstadt mit Wiener, Gewürzgurke und Röstzwiebeln;3,76;2,66;0
+2018-02-07;Wed;Ofenfrisch;Pizza Bruscetta mit Rucola, marinierten Tomaten und gehobelten Parmesan;3,76;2,66;1
+2018-02-07;Wed;Tagessuppe;Kesselgulasch;;;0
+2018-02-08;Thu;Angebote;Schweineschnitzel Wiener Art mit Pommes frites;4,0;2,25;0
+2018-02-08;Thu;Angebote;Schnitzel mit Kräuter-Parmesanpanade, dazu scharfe Tomatensalsa, Pommes frites und Salat;4,74;2,99;0
+2018-02-08;Thu;Angebote;Oma kocht vegan! - Seitangulasch nach Oma's Art mit Apfelrotkohl und Kartoffeln;4,31;2,56;2
+2018-02-08;Thu;Pasta;Pastasoße mit Champignons und Wirsing;;;2
+2018-02-08;Thu;Pasta;Pusztasoße;;;0
+2018-02-08;Thu;Pasta;Hausgemachte Pasta mit Bärlauchpesto und Rucola;;;2
+2018-02-08;Thu;Ofenfrisch;Pizza Kapstadt mit Wiener, Gewürzgurke und Röstzwiebeln;3,76;2,66;0
+2018-02-08;Thu;Ofenfrisch;Pizza Bruscetta mit Rucola, marinierten Tomaten und gehobelten Parmesan;3,76;2,66;1
+2018-02-08;Thu;Tagessuppe;Spargelcremesuppe;;;1
+2018-02-09;Fri;Angebote;Burger mit Angus-Patty, roter Zwiebel, Tomate, Gurke, Salat und würziger Burgersoße, dazu Pommes frites;6,19;4,44;0
+2018-02-09;Fri;Angebote;Tafelspitz in einer Meerrettichsoße, dazu Fingermöhren und Schwenkkartoffeln;4,74;2,99;0
+2018-02-09;Fri;Angebote;Oma kocht vegan! - Kartoffeln mit Soja-Kräuterquark und veganer Leberwurst;3,9;2,15;2
+2018-02-09;Fri;Pasta;Hausgemachte Pasta mit Bärlauchpesto und Rucola;;;2
+2018-02-09;Fri;Pasta;Grüne Paprikasoße;;;1
+2018-02-09;Fri;Tagessuppe;Linseneintopf mit Wiener;;;0
+2018-02-12;Mon;Angebote;Putenschnitzel Piccata Milanese mit pikanter Tomatensalsa und Kartoffelkroketten, dazu Salat;4,85;3,1;0
+2018-02-12;Mon;Angebote;Griechische Hackfleischpfanne mit Fladenbrot und Salat;4,54;2,79;0
+2018-02-12;Mon;Angebote;Zucchini im Cornflakesmantel auf fruchtiger Tomatensoße, dazu Currykartoffeln und Salat;4,31;2,56;2
+2018-02-12;Mon;Pasta;Pilzsoße;;;1
+2018-02-12;Mon;Pasta;Hackfleischsugo;;;0
+2018-02-12;Mon;Pasta;Hausgemachte Pasta mit Bärlauchpesto und Rucola;;;2
+2018-02-12;Mon;Ofenfrisch;Gefülltes Handbrot mit Champignons, Paprika und Käse, dazu Frischkäse-Kräuter-Dip;3,76;2,66;1
+2018-02-12;Mon;Tagessuppe;Erbsencremesuppe;;;1
+2018-02-13;Tue;Angebote;Seelachsfilet in Knusperpanade mit Petersilien-Zitronenstampf und Salat;4,74;2,99;0
+2018-02-13;Tue;Angebote;Feuerfleisch vom Rind mit Erbsen und Semmelknödel;4,63;2,88;0
+2018-02-13;Tue;Angebote;Austernpilzschnitzelchen an Kräuter-Dip, dazu Schwenkkartoffeln und Salat;4,63;2,88;1
+2018-02-13;Tue;Angebote;Chili sin carne mit Kräuterreis und Salat;3,95;2,2;2
+2018-02-13;Tue;Pasta;Tomatensoße mit Hirtenkäse;;;1
+2018-02-13;Tue;Pasta;Pastasoße Arrabiata;;;0
+2018-02-13;Tue;Pasta;Hausgemachte Pasta mit Kressepesto;;;2
+2018-02-13;Tue;Ofenfrisch;Gefülltes Handbrot mit Champignons, Paprika und Käse, dazu Frischkäse-Kräuter-Dip;3,76;2,66;1
+2018-02-13;Tue;Tagessuppe;Chili con carne;;;0
+2018-02-14;Wed;Angebote;Hausgemachte Rindsroulade mit Speck-, Gurken- und Zwiebelfüllung, dazu Apfelrotkohl und Klöße;5,74;3,99;0
+2018-02-14;Wed;Angebote;Gyros in Metaxasoße mit Hirtenkäse, dazu Basmati Reis und Salat;4,64;2,89;0
+2018-02-14;Wed;Angebote;Italienisches Risotto an kleinen frittierten Teigtaschen mit einer Curry-Gemüsefüllung, dazu Salat;4,0;2,25;2
+2018-02-14;Wed;Angebote;Couscous-Karottenfrikadelle mit Meerrettich-Kresse-Dip und Ofengemüse;4,51;2,76;1
+2018-02-14;Wed;Pasta;Fruchtiges Sojacurry;;;2
+2018-02-14;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-02-14;Wed;Pasta;Hausgemachte Pasta mit Kressepesto;;;2
+2018-02-14;Wed;Ofenfrisch;Gefülltes Handbrot mit Champignons, Paprika und Käse, dazu Frischkäse-Kräuter-Dip;3,76;2,66;1
+2018-02-14;Wed;Tagessuppe;Pilzsuppe;;;1
+2018-02-15;Thu;Angebote;Schweineschnitzel Wiener Art mit Pommes frites;4,0;2,25;0
+2018-02-15;Thu;Angebote;Mediterranes Pfannengemüse mit Aioli, dazu Gnocchi und Salat;4,64;2,89;2
+2018-02-15;Thu;Pasta;Linsencurry;;;2
+2018-02-15;Thu;Pasta;Schinken-Sahnesoße;;;0
+2018-02-15;Thu;Pasta;Hausgemachte Pasta mit Kressepesto;;;2
+2018-02-15;Thu;Tagessuppe;Kesselgulasch;;;0
+2018-02-16;Fri;Angebote;Schweineschnitzel Wiener Art mit Pommes frites und Salat;3,75;2,0;0
+2018-02-16;Fri;Angebote;Milchgrieß mit Zucker und Zimt, dazu Butter und Waldbeeren;3,75;2,0;1
+2018-02-16;Fri;Pasta;Hausgemachte Pasta mit Kressepesto;;;2
+2018-02-16;Fri;Pasta;Pastasoße Nizza;;;0
+2018-02-16;Fri;Pasta;Tomatensoße Bolognese;;;0
+2018-02-16;Fri;Tagessuppe;Kesselgulasch;;;0
+2018-02-19;Mon;Angebote;Putenschnitzel, dazu Pommes frites und  Erbsengemüse;4,23;2,48;0
+2018-02-19;Mon;Angebote;Königsberger Klopse mit Möhrengemüse und Schwenkkartoffeln;4,23;2,48;0
+2018-02-19;Mon;Angebote;Couscous- Karottenfrikadelle mit Falafel Bällchen und buntem Gemüse, dazu Kräuterdip;4,0;2,25;1
+2018-02-19;Mon;Pasta;Fruchtige Tomatensoße;;;2
+2018-02-19;Mon;Pasta;Lauch-Hackfleisch-Käsesoße;;;0
+2018-02-19;Mon;Pasta;Hausgemachte Pasta mit Rucolapesto;;;2
+2018-02-19;Mon;Tagessuppe;Zucchinicremesuppe;;;1
+2018-02-20;Tue;Angebote;Hirschgulasch mit Champignons und Lauch, dazu Prinzessbohnen und Semmelknödel;5,08;3,33;0
+2018-02-20;Tue;Angebote;Seelachsfilet mit Sesampanade, dazu Kartoffelsalat und Salat;4,64;2,89;0
+2018-02-20;Tue;Angebote;Folienkartoffeln mit Radieschenquark und Gurkensalat;4,0;2,25;1
+2018-02-20;Tue;Pasta;Fruchtige Tomatensoße mit Mozzarella;;;1
+2018-02-20;Tue;Pasta;Pastasoße all' amatriciana mit Tomaten und Bauchspeck;;;0
+2018-02-20;Tue;Pasta;Hausgemachte Pasta mit Rucolapesto;;;2
+2018-02-20;Tue;Ofenfrisch;Nudelauflauf mit Schinken-Sahnesoße;3,17;2,07;0
+2018-02-20;Tue;Tagessuppe;Chili con carne;;;0
+2018-02-21;Wed;Angebote;Geschmorte Rinderbäckchen mit Bohnen in Sahnesoße und Petersilienkartoffeln;4,74;2,99;0
+2018-02-21;Wed;Angebote;Bratwurst mit Sauerkraut und Kartoffelpüree;4,0;2,25;0
+2018-02-21;Wed;Angebote;Sojagyros mit Paprika und Oliven, dazu Radieschenquark, bunter Weißkrautsalat und Djuvec-Reis;4,38;2,63;1
+2018-02-21;Wed;Pasta;Tomatenratatouille;;;2
+2018-02-21;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-02-21;Wed;Pasta;Hausgemachte Pasta mit Rucolapesto;;;2
+2018-02-21;Wed;Ofenfrisch;Brezenauflauf mit gebratenem Spinat;3,17;2,07;1
+2018-02-21;Wed;Ofenfrisch;Nudelauflauf mit Schinken-Sahnesoße;;;0
+2018-02-21;Wed;Tagessuppe;Fruchtige Tomatensuppe mit Mozzarella;;;1
+2018-02-22;Thu;Angebote;Schweineschnitzel Wiener Art mit Pommes frites;4,0;2,25;0
+2018-02-22;Thu;Angebote;Falafelbällchen mit scharfer Letschosoße, Erbsen und Kartoffelpüree;4,54;2,79;2
+2018-02-22;Thu;Pasta;Mailänder Nudelsoße;;;0
+2018-02-22;Thu;Pasta;Käsesoße Quattro formaggi;;;1
+2018-02-22;Thu;Pasta;Hausgemachte Pasta mit Rucolapesto;;;2
+2018-02-22;Thu;Ofenfrisch;Brezenauflauf mit gebratenem Spinat;3,17;2,07;1
+2018-02-22;Thu;Tagessuppe;Mediterrane Tomatensuppe;;;2
+2018-02-23;Fri;Angebote;Pulled Pork Burger, Cole Slaw und Pommes frites;5,08;3,33;0
+2018-02-23;Fri;Angebote;Lasagne Bolognese mit Salat;4,74;2,99;0
+2018-02-23;Fri;Angebote;Langos mit Knoblauchcreme, Aioli und Antipasti;4,0;2,25;2
+2018-02-23;Fri;Pasta;Hausgemachte Pasta mit Rucolapesto;;;2
+2018-02-23;Fri;Pasta;Pastasoße mit Cremechampignons und getrockneten Tomaten;;;1
+2018-02-23;Fri;Pasta;Ragù napoletano;;;0
+2018-02-23;Fri;Ofenfrisch;Brezenauflauf mit gebratenem Spinat;3,17;2,07;1
+2018-02-23;Fri;Tagessuppe;Kartoffelsuppe mit Wiener;;;0
+2018-02-26;Mon;Angebote;Schweizer Hackbraten mit buntem Gemüse und Schwenkkartoffeln;4,0;2,25;0
+2018-02-26;Mon;Angebote;Zucchini-Pakoras mit Paprika-Joghurtsoße ODER Aioli-Dip, (F) Couscous und Salat;4,42;2,67;2
+2018-02-26;Mon;Pasta;Chili con carne;;;0
+2018-02-26;Mon;Pasta;Ricotta-Weißweinsoße mit gebratenen Tofu;;;1
+2018-02-26;Mon;Pasta;Hausgemachte Pasta mit Rucolapesto;;;2
+2018-02-26;Mon;Tagessuppe;Gulaschsuppe;;;0
+2018-02-27;Tue;Angebote;Kasslerrücken mit Sauerkraut, Kartoffelklößen oder Knödel;4,24;2,49;0
+2018-02-27;Tue;Angebote;Seelachs im Backteig mit Rahmporree und Thymiankartoffeln;4,54;2,79;0
+2018-02-27;Tue;Angebote;Seitan Ragout fin mit veganer Hollandaise gratiniert, dazu Salat;3,9;2,15;2
+2018-02-27;Tue;Angebote;Mariniertes Tofu Steak auf buntem Sesam-Glasnudelsalat;4,46;2,71;2
+2018-02-27;Tue;Pasta;Tomatensoße mit Antipasti;;;2
+2018-02-27;Tue;Pasta;Carbonara;;;0
+2018-02-27;Tue;Pasta;Hausgemachte Pasta mit Thaipesto;;;2
+2018-02-27;Tue;Ofenfrisch;Pizza Quattro formaggi mit Cheddar, Gouda, Hirtenkäse und Mozzarella;3,76;2,66;1
+2018-02-27;Tue;Tagessuppe;Champignoncremesuppe mit getrockneten Tomaten;;;1
+2018-02-28;Wed;Putenstreifen mit Ananas, Pfirsich und knackigem Gemüse in Curry, dazu gebratene Nudeln (Auch fleischlos möglich;2,44 €/ 4,19 €);4,79;3,04;0
+2018-02-28;Wed;Angebote;Feuerfleisch vom Rind mit Spätzle und Salat;4,54;2,79;0
+2018-02-28;Wed;Angebote;Kartoffelauflauf mit Blattspinat, dazu Salat;3,17;2,07;1
+2018-02-28;Wed;Angebote;Paprikaschote mit Hirtenkäse, Kräutern und Reis gefüllt, dazu fruchtige Tomatensoße und Schwenkkartoffeln (Paprikaschote mit veganer Füllung möglich);4,44;2,69;1
+2018-02-28;Wed;Pasta;Sojabolognese;;;2
+2018-02-28;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-02-28;Wed;Pasta;Hausgemachte Pasta mit Thaipesto;;;2
+2018-02-28;Wed;Tagessuppe;Spargelcremesuppe;;;1
+2018-03-01;Thu;Angebote;Schweineschnitzel mit Zitronenecke und Pommes frites;3,95;2,2;0
+2018-03-01;Thu;Angebote;Gebratene Salbei-Gnocchis auf Tomaten-Zucchiniragout;4,48;2,73;2
+2018-03-01;Thu;Pasta;Gorgonzola-Spinatsoße mit Paprikastreifen;;;0
+2018-03-01;Thu;Pasta;Tomatensoße mit Chorizo;;;0
+2018-03-01;Thu;Pasta;Hausgemachte Pasta mit Thaipesto;;;2
+2018-03-01;Thu;Ofenfrisch;Flammkuchen mit Schmand, Bauchspeck und Lauch;3,76;2,66;0
+2018-03-01;Thu;Tagessuppe;Asiatische Gemüsesuppe;;;2
+2018-03-02;Fri;Angebote;Zelt Burger, (Frikadelle, krosser Bacon, Röstzwiebeln, Tomate, Käse und Salat) dazu Pommes frites;5,08;3,33;0
+2018-03-02;Fri;Angebote;Vegane Plinsen mit Apfelmus;3,74;1,99;2
+2018-03-02;Fri;Angebote;Süßkartoffel-Kokos-Sojacurry mit Kurkuma Reis;4,24;2,49;2
+2018-03-02;Fri;Pasta;Mediterrane Gemüsesoße;;;2
+2018-03-02;Fri;Pasta;Hausgemachte Pasta mit Thaipesto;;;2
+2018-03-02;Fri;Pasta;Mediterrane Gemüsesoße mit Hähnchen;;;0
+2018-03-02;Fri;Ofenfrisch;Flammkuchen mit Schmand, Bauchspeck und Lauch;3,76;2,66;0
+2018-03-02;Fri;Ofenfrisch;Pizza Quattro formaggi mit Cheddar, Gouda, Hirtenkäse und Mozzarella;3,76;2,66;1
+2018-03-02;Fri;Tagessuppe;Gulaschsuppe;;;0
+2018-03-05;Mon;Angebote;Hackfleischfrikadelle in deftiger Bratensoße mit Schmorkraut und Petersilienkartoffeln;3,95;2,2;0
+2018-03-05;Mon;Angebote;Kartoffel-Möhren-Muffins mit Curry-Joghurt-Dip und Salat;3,95;2,2;2
+2018-03-05;Mon;Angebote;Käsespätzle mit Gouda und Salat;4,21;2,46;1
+2018-03-05;Mon;Pasta;Hackfleisch-Zucchinisoße;;;0
+2018-03-05;Mon;Pasta;Hausgemachte Pasta mit Thaipesto;;;2
+2018-03-05;Mon;Ofenfrisch;Pizza BBQ mit Hühnchen, Paprika und Mais;3,76;2,66;0
+2018-03-05;Mon;Ofenfrisch;Pizza mit Blattspinat, Hirtenkäse und roten Zwiebeln;3,76;2,66;1
+2018-03-05;Mon;Tagessuppe;Süßkartoffel-Kokossuppe;;;2
+2018-03-06;Tue;Angebote;Hähnchen Forstmeister Art mit Spätzle und Salat;4,22;2,47;0
+2018-03-06;Tue;Angebote;Kräuterquark mit Butter, dazu Petersilienkartoffeln (Auch mit Kalbsleberwurst möglich);3,95;2,2;0
+2018-03-06;Tue;Angebote;Zucchini im Cornflakesmantel mit feurig-fruchtiger Tomatensoße und gebratenen Curry-Kartoffeln;4,32;2,57;2
+2018-03-06;Tue;Pasta;Tomatensoße;;;2
+2018-03-06;Tue;Pasta;Pastasoße mit Bauchspeck und Spinat;;;0
+2018-03-06;Tue;Pasta;Hausgemachte Pasta mit Thaipesto;;;2
+2018-03-06;Tue;Ofenfrisch;Pizza BBQ mit Hühnchen, Paprika und Mais;3,76;2,66;0
+2018-03-06;Tue;Ofenfrisch;Pizza mit Blattspinat, Hirtenkäse und roten Zwiebeln;3,76;2,66;1
+2018-03-06;Tue;Tagessuppe;Kartoffelsuppe mit Wiener;;;0
+2018-03-07;Wed;Angebote;Panierte Scholle Finkenwerder Art mit Prinzessbohnen und Bratkartoffeln;4,74;2,99;0
+2018-03-07;Wed;Angebote;Calzone gefüllt mit mediterranem Gemüse und Hirtenkäse;3,76;2,66;1
+2018-03-07;Wed;Angebote;Szegediner Sojagulasch mit Kartoffelklößen und Salat;4,0;2,25;2
+2018-03-07;Wed;Pasta;Gemüsebolognese;;;2
+2018-03-07;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-03-07;Wed;Ofenfrisch;Pizza BBQ mit Hühnchen, Paprika und Mais;3,76;2,66;0
+2018-03-07;Wed;Ofenfrisch;Pizza mit Blattspinat, Hirtenkäse und roten Zwiebeln;3,76;2,66;1
+2018-03-08;Thu;Angebote;Grillteller mit Schweinesteak, Kasslersteak, Grillwürstchen und Cevapcici, dazu Pommes frites;5,3;3,55;0
+2018-03-08;Thu;Angebote;Schweineschnitzel mit Zitronenecke und Pommes frites;3,95;2,2;0
+2018-03-08;Thu;Angebote;Mediterranes Pfannengemüse mit Mango-Linsen-Couscous;4,61;2,86;2
+2018-03-08;Thu;Pasta;Feurige Käsesoße;;;1
+2018-03-08;Thu;Pasta;Wurstgulasch;;;0
+2018-03-08;Thu;Ofenfrisch;Pizza BBQ mit Hühnchen, Paprika und Mais;3,76;2,66;0
+2018-03-08;Thu;Ofenfrisch;Pizza mit Blattspinat, Hirtenkäse und roten Zwiebeln;3,76;2,66;1
+2018-03-09;Fri;Angebote;XXL-Hamburger mit Pommes frites;5,3;3,55;0
+2018-03-09;Fri;Angebote;Mit Heidelbeere gefüllter Germknödel, dazu Blaumohn-Vanillesoße;3,74;1,99;1
+2018-03-09;Fri;Angebote;Rotes Linsencurry mit Naan Brot und Salat;4,16;2,41;2
+2018-03-09;Fri;Angebote;Seitan-Gyros mit Tsatsiki und Krautsalat im Fladenbrot;4,5;2,75;2
+2018-03-09;Fri;Pasta;Bohnensugo;;;2
+2018-03-09;Fri;Pasta;Pute in fruchtiger Currysoße;;;0
+2018-03-09;Fri;Ofenfrisch;Pizza BBQ mit Hühnchen, Paprika und Mais;3,76;2,66;0
+2018-03-09;Fri;Ofenfrisch;Pizza mit Blattspinat, Hirtenkäse und roten Zwiebeln;3,76;2,66;1
+2018-03-12;Mon;Angebote;Currywurst Hawaii Style ODER Currywurst India Style, dazu Pommes frites;4,3;2,55;0
+2018-03-12;Mon;Angebote;Shogok-Tibet. Kartoffelcurry mit Basmati Reis und Salat;3,95;2,2;2
+2018-03-12;Mon;Angebote;Falafel mit Couscous, Tortilla-Chips, Joghurt-Dip und Salat;4,36;2,61;1
+2018-03-12;Mon;Pasta;Pilz-Auberginen-Sugo;;;2
+2018-03-12;Mon;Pasta;Knoblauchsoße mit Hackfleisch und Tomaten;;;0
+2018-03-12;Mon;Pasta;Hausgemachte Pasta mit Tomatenpesto;;;2
+2018-03-12;Mon;Ofenfrisch;Pizza Bel Paese mit Tomaten und Hirtenkäse;3,76;2,66;1
+2018-03-12;Mon;Ofenfrisch;Pizza Bruscetta mit Rucola, marinierten Tomaten, Serranoschinken und gehobeltem Parmesan;3,76;2,66;0
+2018-03-13;Tue;Angebote;RESERVIERT FÜR BRÜCKENBAUSYMPOSIUM;;;0
+2018-03-14;Wed;Angebote;Seelachsfilet in Kartoffelpanade mit Kartoffelpüree und Salat;4,44;2,69;0
+2018-03-14;Wed;Angebote;Broccoli-Käse-Quiches mit Salat;3,76;2,66;0
+2018-03-14;Wed;Angebote;Auberginen im Haferflockenmantel mit fruchtiger Tomatensoße, Gemüsebulgur oder Petersilienkartoffeln und Salat;4,44;2,69;2
+2018-03-14;Wed;Pasta;Quorn-Gulaschsoße;;;1
+2018-03-14;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-03-14;Wed;Pasta;Hausgemachte Pasta mit Tomatenpesto;;;2
+2018-03-14;Wed;Ofenfrisch;Pizza Bruscetta mit Rucola, marinierten Tomaten, Serranoschinken und gehobeltem Parmesan;3,76;2,66;0
+2018-03-15;Thu;Angebote;Schnitzel XXL in Cornflakespanade mit Zitronenecke und Pommes frites, dazu Salat;5,08;3,33;0
+2018-03-15;Thu;Angebote;Schweineschnitzel mit Zitronenecke und Pommes frites;3,95;2,2;0
+2018-03-15;Thu;Angebote;Champignonpfanne mit roten Zwiebeln und Creme fraiche, dazu kleine Kartoffelklöße und Salat;4,0;2,25;2
+2018-03-15;Thu;Pasta;Frischkäsesoße mit Austernpilzen;;;1
+2018-03-15;Thu;Pasta;Tomatensoße mit Schinken, Salami, Champignons und Paprika;;;0
+2018-03-15;Thu;Pasta;Hausgemachte Pasta mit Tomatenpesto;;;2
+2018-03-15;Thu;Ofenfrisch;Pizza Bruscetta mit Rucola, marinierten Tomaten, Serranoschinken und gehobeltem Parmesan;3,76;2,66;0
+2018-03-15;Thu;Ofenfrisch;Pizza Bel Paese mit Tomaten und Hirtenkäse;3,76;2,66;1
+2018-03-16;Fri;Angebote;Chicken Burger mit Tomate-Mozzarella, Rucola und Basilikummayonnaise, dazu Pommes frites;5,74;3,99;0
+2018-03-16;Fri;Angebote;Kaiserschmarrn mit Apfelmus;4,0;2,25;1
+2018-03-16;Fri;Angebote;Veggi Burger mit Räuchertofu, Tomate, Gurke und veganer Tomatenmayonnaise, dazu Sweet Potato Fries;5,74;3,99;2
+2018-03-16;Fri;Pasta;Soße alla sicilliana;;;1
+2018-03-16;Fri;Pasta;Gulaschsoße;;;0
+2018-03-16;Fri;Pasta;Hausgemachte Pasta mit Tomatenpesto;;;2
+2018-03-16;Fri;Ofenfrisch;Pizza Bruscetta mit Rucola, marinierten Tomaten, Serranoschinken und gehobeltem Parmesan;3,76;2,66;0
+2018-03-16;Fri;Ofenfrisch;Pizza Bel Paese mit Tomaten und Hirtenkäse;3,76;2,66;1
+2018-03-19;Mon;Angebote;Paella mit Lachs und Hähnchenfleisch, dazu Salat;4,6;2,85;0
+2018-03-19;Mon;Angebote;Sojagulasch Ungarischer Art mit Kartoffelkroketten und Salat;4,0;2,25;2
+2018-03-19;Mon;Pasta;Tomatensoße mit Schinken und Hackfleisch;;;0
+2018-03-19;Mon;Pasta;Pastasoße mit Steckrüben und Salbei;;;0
+2018-03-19;Mon;Pasta;Hausgemachte Pasta mit Petersilienpesto;;;2
+2018-03-19;Mon;Ofenfrisch;Pizza Tonno mit Thunfisch, Zwiebeln und Mais;3,76;2,66;0
+2018-03-19;Mon;Ofenfrisch;Pizza Caprese mit Tomaten, Basilikum und Mozzarella;3,76;2,66;1
+2018-03-20;Tue;Angebote;Arabische Paprikaschote mit Rind- und Lammhackfleisch, dazu Couscous und Joghurtsoße mit Minze;4,74;2,99;0
+2018-03-20;Tue;Angebote;Mediterranes Pfannengemüse mit Aioli-Dip und Folienkartoffeln, dazu Salat;4,0;2,25;2
+2018-03-20;Tue;Pasta;Tomatensoße mit Austernpilzen;;;2
+2018-03-20;Tue;Pasta;Carbonara Frankfurter Art;;;0
+2018-03-20;Tue;Pasta;Hausgemachte Pasta mit Petersilienpesto;;;2
+2018-03-20;Tue;Ofenfrisch;Pizza Tonno mit Thunfisch, Zwiebeln und Mais;3,76;2,66;0
+2018-03-20;Tue;Ofenfrisch;Pizza Caprese mit Tomaten, Basilikum und Mozzarella;3,76;2,66;1
+2018-03-21;Wed;Angebote;Gebratenes Pangasiusfilet auf Kartoffel-Steckrübenpüree, dazu Salat;4,5;2,75;0
+2018-03-21;Wed;Angebote;Süßkartoffel-Kokoscurry mit Gemüsebulgur und Salat;4,0;2,25;2
+2018-03-21;Wed;Pasta;Tomatenratatouille;;;2
+2018-03-21;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-03-21;Wed;Pasta;Hausgemachte Pasta mit Petersilienpesto;;;2
+2018-03-21;Wed;Ofenfrisch;Pizza Tonno mit Thunfisch, Zwiebeln und Mais;3,76;2,66;0
+2018-03-21;Wed;Ofenfrisch;Pizza Caprese mit Tomaten, Basilikum und Mozzarella;3,76;2,66;1
+2018-03-22;Thu;Angebote;Schweinesteak mit Würzfleisch gratiniert, dazu Erbsen und Pommes frites;4,85;3,1;0
+2018-03-22;Thu;Angebote;Schweineschnitzel mit Zitronenecke und Pommes frites;4,0;2,25;0
+2018-03-22;Thu;Angebote;Türkische Linsenlaibchen mit Hirtenkäse-Raukecreme (vegetarisch) ODER Veta-Raukecreme (vegan), dazu gebackene Kartoffelecken und Salat;4,0;2,25;1
+2018-03-22;Thu;Pasta;Zucchinirahmsoße mit gemischten Pilzen und Parmesan;;;1
+2018-03-22;Thu;Pasta;Tomatensoße mit Jagdwurst und Schmorkraut;;;0
+2018-03-22;Thu;Pasta;Hausgemachte Pasta mit Petersilienpesto;;;2
+2018-03-22;Thu;Ofenfrisch;Pizza Tonno mit Thunfisch, Zwiebeln und Mais;3,76;2,66;0
+2018-03-22;Thu;Ofenfrisch;Pizza Caprese mit Tomaten, Basilikum und Mozzarella;3,76;2,66;1
+2018-03-23;Fri;Angebote;Zelt Döner (Mit Schwein/ Hähnchen);4,74;2,99;0
+2018-03-23;Fri;Angebote;Chili Burger mit Tomaten, roten Zwiebeln, Peperoni und Currymayonnaise, dazu Pommes frites;4,74;2,99;1
+2018-03-23;Fri;Angebote;Marokkanische Kichererbsen-Pfanne mit Rosmarinkartoffeln;4,0;2,25;2
+2018-03-23;Fri;Pasta;Hausgemachte Pasta mit Petersilienpesto;;;2
+2018-03-23;Fri;Pasta;Ricotta-Spinatsoße;;;1
+2018-03-23;Fri;Pasta;Ungarischer Schweinegulasch;;;0
+2018-03-23;Fri;Ofenfrisch;Pizza Tonno mit Thunfisch, Zwiebeln und Mais;3,76;2,66;0
+2018-03-23;Fri;Ofenfrisch;Pizza Caprese mit Tomaten, Basilikum und Mozzarella;3,76;2,66;1
+2018-04-23;Mon;Putenbrust im Backteig auf buntem Gemüse aus dem Wok, dazu gebratene Nudeln oder Basmati Reis (Auch fleischlos möglich;2,50 €/ 4,25 €);5,2;3,45;0
+2018-04-23;Mon;Angebote;Kohlroulade in deftiger Bratensoße mit Schmorkraut und Petersilienkartoffeln;4,0;2,25;0
+2018-04-23;Mon;Angebote;Gemüseschnitzel mit Kräuterrahmsoße, Maisgemüse und Petersilienkartoffeln;4,18;2,43;2
+2018-04-23;Mon;Pasta;Hackfleisch-Zucchinisoße;;;0
+2018-04-23;Mon;Pasta;Hausgemachte Pasta mit Thaipesto;;;2
+2018-04-23;Mon;Ofenfrisch;Pizza mit BBQ-Hühnchen, Paprika und Mais;3,76;2,66;0
+2018-04-23;Mon;Ofenfrisch;Pizza mit Blattspinat, Hirtenkäse und roten Zwiebeln;3,76;2,66;1
+2018-04-23;Mon;Ofenfrisch;Pizza Bacon BBQ mit Paprika und Mais;3,76;2,66;0
+2018-04-23;Mon;Tagessuppe;Jägertopf;;;0
+2018-04-23;Mon;Tagessuppe;Asiatische Gemüsesuppe;;;2
+2018-04-24;Tue;Angebote;Alaska Seelachs Schlemmerfilet mit Kartoffelpüree und buntem Salat;4,22;2,47;0
+2018-04-24;Tue;Angebote;Schweinerückenschnitzel mit Pommes und buntem Salat;4,0;2,25;0
+2018-04-24;Tue;Angebote;Szegediner Sojagulasch mit Langkornreis und Salat;4,0;2,25;2
+2018-04-24;Tue;Pasta;Tomatensoße mit Oliven;;;2
+2018-04-24;Tue;Pasta;Pastasoße mit Bauchspeck und Spinat;;;0
+2018-04-24;Tue;Pasta;Hausgemachte Pasta mit Zucchini-Basilikum-Pesto;;;2
+2018-04-24;Tue;Ofenfrisch;Pizza mit BBQ-Hühnchen, Paprika und Mais;3,76;2,66;0
+2018-04-24;Tue;Tagessuppe;Erbsencremesuppe;;;1
+2018-04-24;Tue;Tagessuppe;Romanesco-Maiscremesuppe;;;1
+2018-04-25;Wed;Angebote;Gebratenes Forellenfilet mit Mandelbutter, Püree und Salat;5,74;3,99;0
+2018-04-25;Wed;Angebote;Kräuterquark mit Butter und Kalbsleberwurst, dazu Petersilienkartoffeln;4,0;2,25;0
+2018-04-25;Wed;Pasta;Gemüsebolognese;;;2
+2018-04-25;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-04-25;Wed;Pasta;Hausgemachte Pasta mit Zucchini-Basilikum-Pesto;;;2
+2018-04-25;Wed;Ofenfrisch;Pizza mit BBQ-Hühnchen, Paprika und Mais;3,76;2,66;0
+2018-04-25;Wed;Ofenfrisch;Pizza mit Blattspinat, Hirtenkäse und roten Zwiebeln;3,76;2,66;1
+2018-04-25;Wed;Tagessuppe;Kartoffelsuppe mit Bacon;;;0
+2018-04-25;Wed;Tagessuppe;Maiscreme-Tomatensuppe;;;1
+2018-04-26;Thu;Angebote;Schweineschnitzel mit deftiger Paprika-Wurstpfanne, Buttererbsen, Pommes frites oder Petersilienkartoffeln;4,85;3,1;0
+2018-04-26;Thu;Angebote;Schweineschnitzel mit Zitronenecke und Pommes frites;4,0;2,25;0
+2018-04-26;Thu;Angebote;Szegediner Sojagulasch mit Tomatenreis und Salat;4,0;2,25;2
+2018-04-26;Thu;Pasta;Feurige Käsesoße;;;1
+2018-04-26;Thu;Pasta;Wurstgulasch;;;0
+2018-04-26;Thu;Pasta;Hausgemachte Pasta mit Zucchini-Basilikum-Pesto;;;2
+2018-04-26;Thu;Ofenfrisch;Pizza mit BBQ-Hühnchen, Paprika und Mais;3,76;2,66;0
+2018-04-26;Thu;Ofenfrisch;Pizza mit Blattspinat, Hirtenkäse und roten Zwiebeln;3,76;2,66;1
+2018-04-26;Thu;Tagessuppe;Maiscreme-Tomatensuppe;;;1
+2018-04-26;Thu;Tagessuppe;Chili con Carne;;;0
+2018-04-27;Fri;Angebote;"Pulled Turkey Burger mit ""Magic Dust Rub"", Guacamole, Mango-Kürbischutney und Pommes frites";5,08;3,33;0
+2018-04-27;Fri;Angebote;Veggi Burger Ratatouille Style mit Pommes frites;4,74;2,99;2
+2018-04-27;Fri;Pasta;Bohnensugo;;;2
+2018-04-27;Fri;Pasta;Hausgemachte Pasta mit Zucchini-Basilikum-Pesto;;;2
+2018-04-27;Fri;Pasta;Pute in fruchtiger Currysoße;;;0
+2018-04-27;Fri;Ofenfrisch;Pizza mit BBQ-Hühnchen, Paprika und Mais;3,76;2,66;0
+2018-04-27;Fri;Ofenfrisch;Pizza mit Blattspinat und Hirtenkäse;3,76;2,66;1
+2018-04-27;Fri;Tagessuppe;Soljanka;;;0
+2018-04-27;Fri;Tagessuppe;Erbsen-Käsesuppe;;;1
+2018-04-30;Mon;Angebote;Seelachsfilet in Kartoffelpanade mit Kartoffelstampf und Salat;4,34;2,59;0
+2018-04-30;Mon;Angebote;Eibauer Schwarzbierfleisch, dazu Rosenkohl mit Speck und Couscous;4,38;2,63;0
+2018-04-30;Mon;Angebote;Blätterteigtasche mit Champignons gefüllt, dazu Rahmporree und Möhrensalat mit Apfel;4,24;2,49;1
+2018-04-30;Mon;Angebote;Kichererbsenbällchen mit scharfer Tomatensalsa und Couscous;4,0;2,25;2
+2018-04-30;Mon;Pasta;Pilz-Auberginensugo;;;2
+2018-04-30;Mon;Pasta;Knoblauchsoße mit Hackfleisch und Tomaten;;;0
+2018-04-30;Mon;Pasta;Hausgemachte Pasta mit frischem Tomatenpesto;;;2
+2018-04-30;Mon;Tagessuppe;Tomatensuppe mit Croutons;;;2
+2018-04-30;Mon;Tagessuppe;Avocado-Paprikasuppe;;;1
+2018-05-02;Wed;Angebote;Hähnchenbrustfilet Napoli mit Tomatenspaghetti;4,53;2,78;0
+2018-05-02;Wed;Angebote;Pfefferfleisch vom Schwein mit Bratkartoffeln und buntem Weißkrautsalat;4,42;2,67;0
+2018-05-02;Wed;Angebote;Shogok-Tibet. Kartoffelcurry mit Reis und Salat;3,95;2,2;2
+2018-05-02;Wed;Angebote;Gemüseschnitzel mit fruchtiger Tomatensoße, Gemüsebulgur oder Petersilienkartoffeln und Salat;4,0;2,25;2
+2018-05-02;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-05-02;Wed;Pasta;Quorn-Gulaschsoße;;;1
+2018-05-02;Wed;Pasta;Hausgemachte Pasta mit frischem Tomatenpesto;;;2
+2018-05-02;Wed;Tagessuppe;Hackfleisch-Lauchsuppe;;;0
+2018-05-03;Thu;Angebote;Schnitzel in Tortilla-Chipspanade mit Tomatensalsa und Pommes frites;4,9;3,15;0
+2018-05-03;Thu;Angebote;Schweineschnitzel mit Zitronenecke und Pommes frites;4,0;2,25;0
+2018-05-03;Thu;Angebote;Kartoffeln in Käsesoße mit mediterranem Pfannengemüse und Salat;4,44;2,69;1
+2018-05-03;Thu;Pasta;Frischkäsesoße mit Austernpilzen;;;1
+2018-05-03;Thu;Pasta;Fruchtige Tomatensoße mit Schinken, Salami, Champignons und Paprika;;;0
+2018-05-03;Thu;Pasta;Hausgemachte Pasta mit frischem Tomatenpesto;;;2
+2018-05-03;Thu;Tagessuppe;Blumenkohlcremesuppe;;;1
+2018-05-04;Fri;Angebote;Chicken Burger mit Tomate-Mozzarella, Rucola und Basilikummayonaise, dazu Pommes frites;5,74;3,99;0
+2018-05-04;Fri;Angebote;Pilzpfanne aus Champignons, Butterpilzen, Austernpilzen, Egerlingen und Stockschwämmchen, dazu gebratene Spätzle mit Gemüsestreifen und Salat;4,12;2,37;1
+2018-05-04;Fri;Angebote;Veggi-Burger mit Räuchertofu, Tomate, Gurke, veganer Tomaten-Mayonnaise, dazu Pommes frites;5,74;3,99;2
+2018-05-04;Fri;Pasta;Soße alla sicilliana;;;1
+2018-05-04;Fri;Pasta;Fruchtige Tomatensoße mit Schinken, Salami und Paprika;;;0
+2018-05-04;Fri;Pasta;Hausgemachte Pasta mit frischem Tomatenpesto;;;2
+2018-05-04;Fri;Ofenfrisch;Griechischer Hackfleischauflauf mit Hirtenkäse und Rucola;3,17;2,07;0
+2018-05-04;Fri;Tagessuppe;Kartoffelsuppe mit Speck - Wahlweise Wiener zum Zukauf (Stück: 0,74 €/ Paar 1,42 €);;;0
+2018-05-04;Fri;Tagessuppe;Käsesuppe;;;1
+2018-05-07;Mon;Thai-Geflügelhackbällchen auf Wokgemüse mit Mango-Currysoße und Basmati Reis (Auch vegetarisch möglich;2,55 €/ 4,30 €);5,14;3,39;0
+2018-05-07;Mon;Angebote;Karlsbader Sahnegulasch mit kleinen Möhren, dazu Kartoffelklöße;4,74;2,99;0
+2018-05-07;Mon;Angebote;Griechische Bratkartoffeln mit Tsatsiki und Salat;4,0;2,25;1
+2018-05-07;Mon;Angebote;Buntes Pfannengemüse mit Aioli-Dip und Petersiliengnocchi;4,74;2,99;2
+2018-05-07;Mon;Pasta;Pastasoße mit Steckrüben und Salbei;;;0
+2018-05-07;Mon;Pasta;Hausgemachte Pasta mit frischem Tomatenpesto;;;2
+2018-05-07;Mon;Pasta;Tomatensoße mit Schinken und Hackfleisch;;;0
+2018-05-07;Mon;Ofenfrisch;Pizza Tonno mit Thunfisch, Zwiebeln und Mais;3,76;2,66;0
+2018-05-07;Mon;Ofenfrisch;Pizza Caprese mit Tomaten, Basilikum und Mozzarella;3,76;2,66;1
+2018-05-07;Mon;Tagessuppe;Mediterrane Tomaten-Gemüsesuppe;;;2
+2018-05-07;Mon;Tagessuppe;Broccoli-Cremesuppe;;;1
+2018-05-08;Tue;Angebote;Hähnchenschnitzel an Pfeffer-Hollandaise mit Zitronen- Nudeln;4,38;2,63;0
+2018-05-08;Tue;Angebote;Marokkanischer Linsentopf mit Tomaten-Minze-Dip und Salat;4,0;2,25;2
+2018-05-08;Tue;Angebote;Quinoamedaillons mit fruchtiger Currysoße und lila Reis;4,54;2,79;1
+2018-05-08;Tue;Pasta;Tomatensoße mit Austernpilzen;;;2
+2018-05-08;Tue;Pasta;Carbonara Frankfurter Art;;;0
+2018-05-08;Tue;Pasta;Hausgemachte Pasta mit Petersilienpesto;;;2
+2018-05-08;Tue;Ofenfrisch;Pizza Tonno mit Thunfisch, Zwiebeln und Mais;3,76;2,66;0
+2018-05-08;Tue;Ofenfrisch;Pizza Caprese mit Tomaten, Basilikum und Mozzarella;3,76;2,66;1
+2018-05-08;Tue;Tagessuppe;Asiatische Gemüsesuppe;;;1
+2018-05-08;Tue;Tagessuppe;Chili con Carne;;;0
+2018-05-09;Wed;Angebote;Italian Style Burger mit Rindfleisch, Serranoschinken, Rucola, Tomaten, roten Zwiebeln und Hirtenkäse, dazu Pommes frites;5,3;3,55;0
+2018-05-09;Wed;Angebote;Schweineschnitzel mit Zitronenecke und Pommes frites;4,0;2,25;0
+2018-05-09;Wed;Angebote;Hausgemachte Seitan-Bratwurst mit Sauerkraut und Kartoffelpüree;4,24;2,49;2
+2018-05-09;Wed;Pasta;Tomatenratatouille;;;2
+2018-05-09;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-05-09;Wed;Pasta;Pasta mit Petersilienpesto;;;2
+2018-05-09;Wed;Ofenfrisch;Pizza Tonno mit Thunfisch, Zwiebeln und Mais;3,76;2,66;0
+2018-05-09;Wed;Ofenfrisch;Pizza Caprese mit Tomaten, Basilikum und Mozzarella;3,76;2,66;1
+2018-05-09;Wed;Tagessuppe;Käsesuppe mit Bacon;;;0
+2018-05-09;Wed;Tagessuppe;Asiatische Curry-Gemüsesuppe;;;1
+2018-05-11;Fri;Angebote;Ungarischer Schweinegulasch mit buntem Gemüse und lila Reis;4,0;2,25;0
+2018-05-11;Fri;Angebote;Rucola-Süßkartoffelschnitte mit Kürbis-Tomaten-Lauchgemüse und Möhrensalat mit Apfel;4,42;2,67;2
+2018-05-11;Fri;Pasta;Ricotta-Spinatsoße;;;1
+2018-05-11;Fri;Pasta;Hausgemachte Pasta mit Petersilienpesto;;;2
+2018-05-11;Fri;Pasta;Ungarischer Schweinegulasch;;;0
+2018-05-11;Fri;Ofenfrisch;Pizza Bolognese;3,76;2,66;0
+2018-05-11;Fri;Ofenfrisch;Pizza Caprese mit Tomaten, Basilikum und Mozzarella;3,76;2,66;1
+2018-05-11;Fri;Tagessuppe;Chili con Carne;;;0
+2018-05-14;Mon;Angebote;Rindergulasch mit Sauerkraut, Kartoffelklößen;4,64;2,89;0
+2018-05-14;Mon;Angebote;Gebratene Spätzle mit Gemüsestreifen, feuriger Käsesoße und Salat;4,0;2,25;1
+2018-05-14;Mon;Pasta;Griechische Hackfleischsoße;;;0
+2018-05-14;Mon;Pasta;Basilikumsoße mit getrockneten Tomaten;;;1
+2018-05-14;Mon;Pasta;Pasta mit Petersilienpesto;;;2
+2018-05-14;Mon;Ofenfrisch;Pizza Bruscetta mit Rucola, marinierten Tomaten und gehobeltem Parmesan;3,76;2,66;1
+2018-05-14;Mon;Ofenfrisch;Pizza Pulled Pork mit Gewürzgurke und Röstzwiebeln;3,76;2,66;0
+2018-05-14;Mon;Tagessuppe;Gulaschsuppe;;;0
+2018-05-14;Mon;Tagessuppe;Kartoffelsuppe mit Speck - Wahlweise Wiener zum Zukauf (Stück: 0,74 €/ Paar 1,42 €);;;0
+2018-05-15;Tue;Angebote;Seelachs in Sesampanade mit Kartoffelpüree;4,46;2,71;0
+2018-05-15;Tue;Angebote;Langos mit Knoblauchcreme, geriebenem Gouda und Schinken;4,24;2,49;0
+2018-05-15;Tue;Angebote;"Gemüse-Gouda-Knusperstäbchen auf  ""rahmigen""  Blattspinat, dazu Spätzle";4,04;2,29;1
+2018-05-15;Tue;Angebote;Risotto mit Gemüse und Champignontasche (Vegetarisch) ODER Risotto mit Gemüse und Falafelbrätling (Vegan);3,95;2,2;1
+2018-05-15;Tue;Pasta;Pastasoße Napoli;;;2
+2018-05-15;Tue;Pasta;Pastasoße mit Bauchspeck und Kirschtomaten;;;0
+2018-05-15;Tue;Pasta;Hausgemachte Pasta mit Petersilienpesto;;;2
+2018-05-15;Tue;Tagessuppe;Kartoffelsuppe mit Speck - Wahlweise Wiener zum Zukauf (Stück: 0,74 €/ Paar 1,42 €);;;0
+2018-05-15;Tue;Tagessuppe;Käsesuppe;;;1
+2018-05-16;Wed;Putenstreifen mit Ananas, Pfirsich und knackigem Gemüse in Curry, dazu gebratene Nudeln (Auch fleischlos möglich;2,55 €/ 4,30 €);4,78;3,03;0
+2018-05-16;Wed;Angebote;Thüringer Rostbrätl mit Bratkartoffeln und Salat;4,44;2,69;0
+2018-05-16;Wed;Angebote;Gouda mit getrockneten Tomaten im Weizenfladen gebacken;4,66;2,91;1
+2018-05-16;Wed;Angebote;Seitan-Gulasch mit Apfelrotkohl und Kartoffelklößen;4,0;2,25;2
+2018-05-16;Wed;Pasta;Chili sin carne;;;2
+2018-05-16;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-05-16;Wed;Pasta;Hausgemachte Pasta mit Bärlauchpesto und Rucola;;;2
+2018-05-16;Wed;Ofenfrisch;Pizza mit Chorizo, Gewürzgurke und Röstzwiebeln;3,76;2,66;0
+2018-05-16;Wed;Ofenfrisch;Pizza Bruscetta mit Rucola, marinierten Tomaten und gehobeltem Parmesan;3,76;2,66;1
+2018-05-16;Wed;Tagessuppe;Kartoffelsuppe mit Speck - Wahlweise Wiener zum Zukauf (Stück: 0,74 €/ Paar 1,42 €);;;0
+2018-05-16;Wed;Tagessuppe;Tomaten-Gemüsesuppe;;;2
+2018-05-17;Thu;Angebote;Schweineschnitzel mit Kräuter-Parmesan-Panade, dazu scharfe Tomatensalsa, Pommes frites und Salat;4,85;3,1;0
+2018-05-17;Thu;Angebote;Sojasteak mit Seitan-Würzfleisch überbacken, dazu buntes Gemüse und  Pommes frites;4,23;2,48;2
+2018-05-17;Thu;Angebote;Chili sin carne mit Curryreis und Salat;4,0;2,25;2
+2018-05-17;Thu;Pasta;Pusztasoße;;;0
+2018-05-17;Thu;Pasta;Pastasoße mit Champignons und Wirsing;;;2
+2018-05-17;Thu;Pasta;Spätzle mit Bärlauchpesto und Rucola;;;1
+2018-05-17;Thu;Ofenfrisch;Pizza mit Chorizo, Gewürzgurke und Röstzwiebeln;;;0
+2018-05-17;Thu;Tagessuppe;Kartoffelsuppe mit Speck - Wahlweise Wiener zum Zukauf (Stück: 0,74 €/ Paar 1,42 €);;;0
+2018-05-17;Thu;Tagessuppe;Chili sin carne;;;2
+2018-05-18;Fri;Angebote;Burger mit Angus-Patty, roter Zwiebel, Tomate, Gurke, Salat und würziger Burgersoße, dazu Pommes frites;6,19;4,44;0
+2018-05-18;Fri;Angebote;Valess Burger mit Preiselbeer-Topping und Pommes frites;5,08;3,33;1
+2018-05-18;Fri;Aprikosen-Quarkauflauf mit Kirschen, dazu Porree-Apfelsalat mit gerösteten Sonnenblumenkernen (Auflauf klein;1,36 €/ 2,46 €);3,17;2,07;1
+2018-05-18;Fri;Pasta;Hausgemachte Pasta mit Bärlauchpesto und Rucola;;;2
+2018-05-18;Fri;Pasta;Grüne Paprikasoße;;;2
+2018-05-18;Fri;Pasta;Hähnchengeschnetzeltes mit Tomaten und Frischkäse;;;0
+2018-05-18;Fri;Ofenfrisch;Pizza mit Chorizo, Gewürzgurke und Röstzwiebeln;3,76;2,66;0
+2018-05-18;Fri;Tagessuppe;Asiatische Gemüsesuppe mit Pute;;;0
+2018-05-22;Tue;Angebote;Seelachsfilet mit einer Auflage von feinen Kräutern, dazu Kartoffelpüree und Salat;4,3;2,55;0
+2018-05-22;Tue;Angebote;Gebackenes Gemüse an Kräuter-Dip mit Schwenkkartoffeln und Salat;4,3;2,55;2
+2018-05-22;Tue;Pasta;Tomatensoße mit Hirtenkäse;;;1
+2018-05-22;Tue;Pasta;Pastasoße Arrabiata;;;2
+2018-05-22;Tue;Pasta;Pasta mit Bärlauchpesto;;;2
+2018-05-22;Tue;Ofenfrisch;Pizza Kreta mit Lauch und Hirtenkäse;3,76;2,66;1
+2018-05-22;Tue;Ofenfrisch;Pizza Bombay mit Hähnchenfleisch, Ananas und Currycreme;3,76;2,66;0
+2018-05-22;Tue;Tagessuppe;Chili sin carne;;;2
+2018-05-23;Wed;Angebote;Frikadelle auf einer kreolischen Soße, dazu Spätzle und Salat;4,0;2,25;0
+2018-05-23;Wed;Angebote;Gebratener Mandeltofu mit pikantem Chili-Dip, dazu Kokosreis;4,63;2,88;2
+2018-05-23;Wed;Pasta;Fruchtiges Sojacurry;;;2
+2018-05-23;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-05-23;Wed;Pasta;Pasta mit Bärlauchpesto;;;2
+2018-05-23;Wed;Ofenfrisch;Pizza Kreta mit Lauch und Hirtenkäse;3,76;2,66;1
+2018-05-23;Wed;Ofenfrisch;Pizza Bombay mit Hähnchenfleisch, Ananas und Currycreme;3,76;2,66;0
+2018-05-23;Wed;Tagessuppe;Chili sin carne;;;2
+2018-05-24;Thu;Angebote;Schweineschnitzel mit Zitronenecke und Pommes frites;4,0;2,25;0
+2018-05-24;Thu;Angebote;Vegetarische Frühlingsrolle oder vegane Frühlingsröllchen auf asiatischem Gemüse mit Mie Nudeln;4,54;2,7;2
+2018-05-24;Thu;Pasta;Linsencurry;;;2
+2018-05-24;Thu;Pasta;Schinken-Sahnesoße;;;0
+2018-05-24;Thu;Pasta;Pasta mit Bärlauchpesto;;;2
+2018-05-24;Thu;Ofenfrisch;Pizza Kreta mit Lauch und Hirtenkäse;3,76;2,66;1
+2018-05-24;Thu;Ofenfrisch;Pizza Bombay mit Hähnchenfleisch, Ananas und Currycreme;3,76;2,66;0
+2018-05-24;Thu;Tagessuppe;Karotten-Kokos-Ingwersuppe;;;1
+2018-05-24;Thu;Tagessuppe;Soljanka;;;0
+2018-05-25;Fri;Angebote;Rinderhacksteak gefüllt mit Frischkäse an Kräuterhollandaise, dazu Tomaten-Maisgemüse und Pommes;4,54;2,79;0
+2018-05-25;Fri;Angebote;Vegane Plinsen mit Apfelmus;3,65;1,9;2
+2018-05-25;Fri;Pasta;Pastasoße Nizza;;;0
+2018-05-25;Fri;Pasta;Pasta mit Bärlauchpesto;;;2
+2018-05-25;Fri;Ofenfrisch;Pizza Kreta mit Lauch und Hirtenkäse;3,76;2,66;1
+2018-05-25;Fri;Ofenfrisch;Pizza Bombay mit Hähnchenfleisch, Ananas und Currycreme;3,76;2,66;0
+2018-05-25;Fri;Tagessuppe;Karotten-Kokos-Ingwersuppe;;;1
+2018-05-25;Fri;Tagessuppe;Soljanka;;;0
+2018-05-28;Mon;Campus Cooking;Gebratene Süßkartoffeln mit marinierten Kichererbsen, Staudensellerie, Curry, Ananas und Kräutern, dazu Koriander-Falafel mit Datteln;5,25;3,5;2
+2018-05-28;Mon;Angebote;Putensteak mit Pfirsich und Käse gratiniert, dazu Kräuterhollandaise, Kroketten oder Petersilienkartoffeln und Salat;5,4;3,65;0
+2018-05-28;Mon;Angebote;Königsberger Klopse mit Möhrengemüse, Petersilienkartoffeln oder Petersilienreis;4,0;2,25;0
+2018-05-28;Mon;Angebote;Vegetarischer Gemüsestrudel auf deftigem Paprikakraut und Salat;4,34;2,59;1
+2018-05-28;Mon;Pasta;Fruchtige Tomatensoße;;;2
+2018-05-28;Mon;Pasta;Lauch-Hackfleisch-Käsesoße;;;0
+2018-05-28;Mon;Pasta;Hausgemachte Pasta mit Kressepesto;;;2
+2018-05-28;Mon;Ofenfrisch;Pizza mit Hähnchenfleisch, Blattspinat und Creme fraiche;3,76;2,66;0
+2018-05-28;Mon;Ofenfrisch;Pizza Bel Paese mit Tomaten und Hirtenkäse;3,76;2,66;1
+2018-05-28;Mon;Tagessuppe;Soljanka;;;0
+2018-05-28;Mon;Tagessuppe;Gurken-Kaltschale;;;1
+2018-05-28;Mon;Tagessuppe;Asiatische Gemüsesuppe;;;2
+2018-05-29;Tue;Campus Cooking;Gedämpfter Reis mit Kardamom, Erbsen, Mais, Zitronengras, Ingwer und Limettensaft, dazu gezupften Sesamlachs mit gerösteten Mandeln;5,25;3,5;0
+2018-05-29;Tue;Angebote;Currywurst mit Pommes frites und Salat;4,3;2,55;0
+2018-05-29;Tue;Angebote;Burritos gefüllt mit marinierten Tofu und Mango-Chutny;5,34;3,59;2
+2018-05-29;Tue;Pasta;Tomatensoße mit Mozzarella;;;1
+2018-05-29;Tue;Pasta;Pastasoße all'amatriciana mit Tomaten und Bauchspeck;;;0
+2018-05-29;Tue;Pasta;Hausgemachte Pasta mit Rucolapesto;;;2
+2018-05-29;Tue;Ofenfrisch;Pizza mit Hähnchenfleisch, Blattspinat und Creme fraiche;3,76;2,66;0
+2018-05-29;Tue;Ofenfrisch;Pizza Bel Paese mit Tomaten und Hirtenkäse;3,76;2,66;1
+2018-05-29;Tue;Tagessuppe;Soljanka;;;0
+2018-05-29;Tue;Tagessuppe;Gurken-Kaltschale;;;1
+2018-05-29;Tue;Tagessuppe;Hackfleisch-Lauchsuppe;;;0
+2018-05-30;Wed;Campus Cooking;Kross gegrillter frischer Paprika mit Chili, Tomaten, Avocado, Mais und Kräutern, dazu gebratene Hähnchenstreifen und Granatapfel;;;0
+2018-05-30;Wed;Angebote;Jägerschnitzel (panierte Jagdwurst) mit Möhrengemüse und Kartoffelpüree;4,0;2,25;0
+2018-05-30;Wed;Angebote;Champignonpfanne mit roten Zwiebeln und Creme fraiche, dazu Kräuterreis und Salat;4,44;2,69;2
+2018-05-30;Wed;Angebote;Mac & Cheese mit scharfer Tomatensalsa und Salat;4,74;2,99;1
+2018-05-30;Wed;Pasta;Tomatenratatouille;;;2
+2018-05-30;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-05-30;Wed;Pasta;Hausgemachte Pasta mit Rucolapesto;;;2
+2018-05-30;Wed;Ofenfrisch;Pizza mit Hähnchenfleisch, Blattspinat und Creme fraiche;3,76;2,66;0
+2018-05-30;Wed;Ofenfrisch;Pizza Bel Paese mit Tomaten und Hirtenkäse;3,76;2,66;1
+2018-05-30;Wed;Tagessuppe;Soljanka;;;0
+2018-05-30;Wed;Tagessuppe;Gurken-Kaltschale;;;1
+2018-05-30;Wed;Tagessuppe;Erbsenpüreesuppe;;;1
+2018-05-31;Thu;Campus Cooking;Asianudeln mit gebratener Ananas, Lauch, Sprossen und Ingwer, dazu Ingwer-Honig-Tofu und Heidelbeeren;5,25;3,5;1
+2018-05-31;Thu;Angebote;Schnitzel XXL in Cornflakespanade mit Zitronenecke und Pommes frites;5,08;3,33;0
+2018-05-31;Thu;Angebote;Schweineschnitzel mit Zitronenecke und Pommes frites;4,0;2,25;0
+2018-05-31;Thu;Angebote;Rotes Linsencurry mit Naan-Brot und Salat;4,0;2,25;2
+2018-05-31;Thu;Pasta;Käsesoße Quattro formaggi;;;1
+2018-05-31;Thu;Pasta;Mediterrane Hackfleischsoße;;;0
+2018-05-31;Thu;Pasta;Hausgemachte Pasta mit Rucolapesto;;;2
+2018-05-31;Thu;Ofenfrisch;Pizza mit Hähnchenfleisch, Blattspinat und Creme fraiche;3,76;2,66;0
+2018-05-31;Thu;Ofenfrisch;Pizza Bel Paese mit Tomaten und Hirtenkäse;3,76;2,66;1
+2018-05-31;Thu;Tagessuppe;Soljanka;;;0
+2018-05-31;Thu;Tagessuppe;Gurken-Kaltschale;;;1
+2018-05-31;Thu;Tagessuppe;Erbsenpüreesuppe;;;1
+2018-06-01;Fri;Angebote;Chicken Burger mit saftiger Hähnchenbrust, Camembert und Preiselbeeren, dazu Pommes frites;5,3;3,55;0
+2018-06-01;Fri;Angebote;Süßkartoffel-Curry mit Lammfleisch, dazu Basmati Reis und Salat;5,74;3,99;0
+2018-06-01;Fri;Angebote;Langos mit Knoblauchcreme,  Aioli und Antipasti;4,0;2,25;2
+2018-06-01;Fri;Pasta;Pastasoße mit Champignons und getrockneten Tomaten;;;1
+2018-06-01;Fri;Pasta;Ragù napoletano;;;0
+2018-06-01;Fri;Pasta;Hausgemachte Pasta mit Rucolapesto;;;2
+2018-06-01;Fri;Ofenfrisch;Pizza mit Hähnchenfleisch, Blattspinat und Creme fraiche;3,76;2,66;0
+2018-06-01;Fri;Ofenfrisch;Pizza Bel Paese mit Tomaten und Hirtenkäse;3,76;2,66;1
+2018-06-01;Fri;Tagessuppe;Gurken-Kaltschale;;;1
+2018-06-01;Fri;Tagessuppe;Möhrencremesuppe;;;1
+2018-06-01;Fri;Tagessuppe;Linseneintopf mit Kassler;;;0
+2018-06-04;Mon;Angebote;Bratwurst mit Sauerkraut und Kartoffelpüree;4,0;2,25;0
+2018-06-04;Mon;Angebote;Falafelbällchen mit Paprika-Joghurtsoße, Couscous und Salat;4,32;2,57;2
+2018-06-04;Mon;Angebote;Calzone gefüllt mit mediterranem Gemüse und Hirtenkäse;3,76;2,66;1
+2018-06-04;Mon;Pasta;Hausgemachte Pasta mit Rucolapesto;;;2
+2018-06-04;Mon;Pasta;Ricotta-Weißweinsoße mit gebratenem Tofu;;;1
+2018-06-04;Mon;Pasta;Chili con Carne;;;0
+2018-06-04;Mon;Ofenfrisch;Flammkuchen mit Schmand, Bauchspeck und Lauch;3,76;2,66;0
+2018-06-04;Mon;Ofenfrisch;Pizza Quattro formaggi mit Cheddar, Gouda, Hirtenkäse und Mozzarella;3,76;2,66;1
+2018-06-04;Mon;Tagessuppe;Linseneintopf mit Kassler;;;0
+2018-06-04;Mon;Tagessuppe;Champignoncremesuppe;;;1
+2018-06-04;Mon;Tagessuppe;Bananen-Kiwi-Kaltschale (Buchtel: 0,23 €);;;2
+2018-06-05;Tue;Angebote;Fish & Chips mit Aioli-Dip;5,08;3,33;0
+2018-06-05;Tue;Angebote;Fleischkäse mit Oliven, Hirtenkäse und Kräuter mit Tsatsiki, Bratkartoffeln und scharfen Weißkrautsalat;4,51;2,76;0
+2018-06-05;Tue;Angebote;Gebratener Romanesco mit Chili-Apfel-Hollandaise, dazu Schnittlauchkartoffeln und Salat;4,0;2,25;1
+2018-06-05;Tue;Angebote;Mariniertes Tofu Steak auf buntem Sesam-Glasnudelsalat;4,3;2,55;2
+2018-06-05;Tue;Pasta;Hausgemachte Pasta mit Rucolapesto;;;2
+2018-06-05;Tue;Pasta;Tomatenratatouille;;;2
+2018-06-05;Tue;Pasta;Pastasoße Carbonara;;;0
+2018-06-05;Tue;Ofenfrisch;Flammkuchen mit Schmand, Bauchspeck und Lauch;3,76;2,66;0
+2018-06-05;Tue;Ofenfrisch;Pizza Quattro formaggi mit Cheddar, Gouda, Hirtenkäse und Mozzarella;3,76;2,66;1
+2018-06-05;Tue;Tagessuppe;Kartoffelsuppe mit Speck (Wiener: 0,74 €/ Paar Wiener: 1,42 €);;;0
+2018-06-05;Tue;Tagessuppe;Bananen-Kiwi-Kaltschale (Buchtel: 0,23 €);;;2
+2018-06-06;Wed;Angebote;Geschnetzeltes Burgunder Art mit Spätzle und Salat;4,74;2,99;0
+2018-06-06;Wed;Angebote;Süßkartoffel-Kokos-Sojacurry dazu Kurkuma Reis und Salat;4,41;2,66;2
+2018-06-06;Wed;Pasta;Hausgemachte Pasta mit Rucolapesto;;;2
+2018-06-06;Wed;Pasta;Sojabolognese;;;2
+2018-06-06;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-06-06;Wed;Tagessuppe;Sellerie-Apfelsuppe;;;1
+2018-06-06;Wed;Tagessuppe;Kartoffelsuppe mit Speck (Wiener: 0,74 €/ Paar Wiener: 1,42 €);;;0
+2018-06-06;Wed;Tagessuppe;Bananen-Kiwi-Kaltschale (Buchtel: 0,23 €);;;2
+2018-06-07;Thu;Angebote;Mariniertes Schweineschnitzel, paniert mit Grissinis und Parmesan auf mediterranem Nudelsalat ODER mit Bratkartoffeln;5,3;3,55;0
+2018-06-07;Thu;Angebote;Schweineschnitzel mit Zitronenecke Nudelsalat;4,0;2,25;0
+2018-06-07;Thu;Angebote;Bunte Gnocchipfanne mit Gemüse und Pilzen, dazu Salat;4,74;2,99;2
+2018-06-07;Thu;Angebote;Vegane Plinsen mit zweierlei Hummus, dazu Curry Dip und Salat;4,12;2,37;2
+2018-06-07;Thu;Pasta;Fruchtige Tomatensoße mit Chorizo;;;0
+2018-06-07;Thu;Pasta;Gorgonzola-Spinatsoße;;;0
+2018-06-07;Thu;Pasta;Hausgemachte Pasta mit Thaipesto;;;2
+2018-06-07;Thu;Ofenfrisch;Flammkuchen mit Schmand, Bauchspeck und Lauch;3,76;2,66;0
+2018-06-07;Thu;Ofenfrisch;Pizza Quattro formaggi mit Cheddar, Gouda, Hirtenkäse und Mozzarella;3,76;2,66;1
+2018-06-07;Thu;Tagessuppe;Sellerie-Apfelsuppe;;;1
+2018-06-07;Thu;Tagessuppe;Süßkartoffel-Kokossuppe;;;2
+2018-06-07;Thu;Tagessuppe;Bananen-Kiwi-Kaltschale (Buchtel: 0,23 €);;;2
+2018-06-08;Fri;Angebote;Pulled Pork im Fladenbrot und Pommes frites (Ohne Pommes 2,99 €/ 4,74 €);5,08;3,33;0
+2018-06-08;Fri;Angebote;Apfelmilchreis mit Zucker/Zimt und Erdbeeren;3,74;1,99;1
+2018-06-08;Fri;Angebote;Kürbisrisotto mit Frühlingszwiebeln, Samosateigtaschen und Sweet-Chili-Dip;4,49;2,74;1
+2018-06-08;Fri;Pasta;Broccoli-Käsesoße;;;0
+2018-06-08;Fri;Pasta;Geschnetzeltes Jäger Art;;;0
+2018-06-08;Fri;Pasta;Hausgemachte Pasta mit Thaipesto;;;2
+2018-06-08;Fri;Ofenfrisch;Flammkuchen mit Schmand, Bauchspeck und Lauch;3,76;2,66;0
+2018-06-08;Fri;Ofenfrisch;Pizza Quattro formaggi mit Cheddar, Gouda, Hirtenkäse und Mozzarella;3,76;2,66;1
+2018-06-08;Fri;Tagessuppe;Bananen-Kiwi-Kaltschale (Buchtel: 0,23 €);;;2
+2018-06-08;Fri;Tagessuppe;Chili sin Carne;;;2
+2018-06-08;Fri;Tagessuppe;Soljanka;;;0
+2018-06-11;Mon;Angebote;Grillwürstchen mit Letscho, Pommes Twister und Salat;4,42;2,67;0
+2018-06-11;Mon;Angebote;Paprikaschote gefüllt mit Schweinefleisch und Hirtenkäse, dazu fruchtige Tomatensoße und Kurkuma Reis;4,68;2,93;0
+2018-06-11;Mon;Angebote;Champignon- Blätterteigtasche mit fruchtiger Tomatensoße und buntem Salat;4,0;2,25;1
+2018-06-11;Mon;Pasta;Linsenbolognese;;;2
+2018-06-11;Mon;Pasta;Hackfleisch-Zucchinisoße;;;0
+2018-06-11;Mon;Pasta;Hausgemachte Pasta mit Thaipesto;;;2
+2018-06-11;Mon;Ofenfrisch;Pizza mit Spargel, Hähnchenstreifen und Broccoli;3,76;2,66;0
+2018-06-11;Mon;Tagessuppe;Linsensuppe mit Kassler;;;0
+2018-06-11;Mon;Tagessuppe;Erdbeer-Kaltschale;;;1
+2018-06-11;Mon;Tagessuppe;Jägertopf;;;0
+2018-06-12;Tue;Aktion zur Spargelwoche;Putenroulade mit grünem Spargel und Hirtenkäse gefüllt, an Zitronen-Buttersoße mit Tagliatelle und Salat;5,3;3,55;0
+2018-06-12;Tue;Aktion zur Spargelwoche;Gnocchi mit Spargel, Rucola und Parmesan auf fruchtigem Tomatenragout;5,08;3,33;1
+2018-06-12;Tue;Angebote;Wiener Backhähnchenkeule mit Kartoffelsalat und buntem Salat;;;0
+2018-06-12;Tue;Angebote;Zucchini im Cornflakesmantel mit feurig-fruchtiger Tomatensoße und gebratenen Curry-Kartoffeln;4,0;2,25;2
+2018-06-12;Tue;Pasta;Tomatensoße mit Oliven;;;2
+2018-06-12;Tue;Pasta;Pastasoße mit Bauchspeck und Spinat;;;0
+2018-06-12;Tue;Pasta;Pasta mit Thaipesto;;;2
+2018-06-12;Tue;Tagessuppe;Linsensuppe mit Kassler;;;0
+2018-06-12;Tue;Tagessuppe;Erdbeer-Kaltschale;;;1
+2018-06-12;Tue;Tagessuppe;Käsesuppe;;;1
+2018-06-13;Wed;Aktion zur Spargelwoche;Hausgemachte Frühlingsrolle mit Lachsfarce und Spargel auf buntem Wokgemüse, dazu Basmati Reis;5,2;3,45;0
+2018-06-13;Wed;Aktion zur Spargelwoche;Kartoffelpuffer mit Spargel, dazu Chili-Apfel-Hollandaise an Feldsalat und Himbeerdressing;5,2;3,45;1
+2018-06-13;Wed;Angebote;Feuerfleisch vom Rind mit Spirelli;4,53;2,78;0
+2018-06-13;Wed;Angebote;Mediterranes Pfannengemüse auf Zartweizen-Risotto;4,74;2,99;2
+2018-06-13;Wed;Pasta;Gemüsebolognese;;;2
+2018-06-13;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-06-13;Wed;Pasta;Pasta mit Thaipesto;;;2
+2018-06-13;Wed;Tagessuppe;Linsensuppe mit Kassler;;;0
+2018-06-13;Wed;Tagessuppe;Erdbeer-Kaltschale;;;1
+2018-06-13;Wed;Tagessuppe;Käsesuppe;;;1
+2018-06-14;Thu;Aktion zur Spargelwoche;Paniertes Schnitzel mit frischem Spargel und Soße Hollandaise, dazu Schwenkkartoffeln;6,38;4,63;0
+2018-06-14;Thu;Aktion zur Spargelwoche;Burrito gefüllt mit Spargel, Falafel, Rucola, Radieschen und Walnüssen, dazu bunter Salat mit Erdbeerdressing;5,12;3,37;2
+2018-06-14;Thu;Angebote;Schweineschnitzel mit Zitronenecke und Pommes frites;4,0;2,25;0
+2018-06-14;Thu;Pasta;Feurige Käsesoße;;;1
+2018-06-14;Thu;Pasta;Mediterrane Gemüsesoße;;;2
+2018-06-14;Thu;Pasta;Pasta mit Thaipesto;;;2
+2018-06-14;Thu;Tagessuppe;Erdbeer-Kaltschale (Buchtel: 0,23 €);;;1
+2018-06-14;Thu;Tagessuppe;Spargelsuppe;;;1
+2018-06-14;Thu;Tagessuppe;Asiatische Gemüsesuppe;;;0
+2018-06-15;Fri;Angebote;"Pulled Turkey Burger mit ""Magic Dust Rub"", Guacamole, Mango-Kürbischutney und Pommes frites";5,08;3,33;0
+2018-06-15;Fri;Angebote;Gebratenes Seelachsfilet mit Kartoffelpüree ODER Rosmarinkartoffeln und Salat;4,73;2,98;0
+2018-06-15;Fri;Angebote;Erdbeer-Vanillestrudel mit Mango-Joghurtsorbet;4,0;2,25;1
+2018-06-15;Fri;Angebote;Seitan-Gyros mit Tsatsiki und Krautsalat im Fladenbrot;4,46;2,71;2
+2018-06-15;Fri;Pasta;Bohnensugo;;;2
+2018-06-15;Fri;Pasta;Currygeschnetzeltes;;;0
+2018-06-15;Fri;Pasta;Pasta mit Thaipesto;;;2
+2018-06-15;Fri;Tagessuppe;Erdbeer-Kaltschale (Buchtel: 0,23 €);;;1
+2018-06-15;Fri;Tagessuppe;Spargelsuppe;;;1
+2018-06-15;Fri;Tagessuppe;Asiatische Gemüsesuppe;;;0
+2018-06-18;Mon;Angebote;Fleischbällchen in cremiger Nusssoße mit Kurkuma Reis und Salat;5,08;3,33;0
+2018-06-18;Mon;Angebote;Hähnchenbrustfilet Napoli mit Tomatenspaghetti;4,6;2,85;0
+2018-06-18;Mon;Angebote;Pilzpfanne aus Champignons, Butterpilzen, Austernpilzen, Egerlingen und Stockschwämmchen, dazu gebratene Spätzle mit Gemüsestreifen ODER Petersilienkartoffeln, dazu Salat;4,48;2,73;1
+2018-06-18;Mon;Angebote;Shogok - Tibet. Kartoffelcurry mit Basmati Reis und Salat;3,95;2,2;2
+2018-06-18;Mon;Pasta;Knoblauchsoße mit Hackfleisch und Tomaten;;;0
+2018-06-18;Mon;Pasta;Pilz-Auberginen-Sugo;;;2
+2018-06-18;Mon;Pasta;Pasta mit Zucchini-Basilikum-Pesto;;;2
+2018-06-18;Mon;Ofenfrisch;Pizza Pulled Turkey;3,76;2,66;0
+2018-06-18;Mon;Ofenfrisch;Pizza Bel Paese mit Tomaten und Hirtenkäse;3,76;2,66;1
+2018-06-18;Mon;Tagessuppe;Gulaschsuppe;;;0
+2018-06-18;Mon;Tagessuppe;Spargelcremesuppe;;;1
+2018-06-18;Mon;Tagessuppe;Aprikosenkaltschale mit Minze;;;2
+2018-06-19;Tue;Angebote;Griechischer Grillteller mit Gyros, Lammkotelett und Cevapcici, dazu Tsatsiki und Pommes frites;6,19;4,44;0
+2018-06-19;Tue;Angebote;Seitan-Currywurst mit Pommes frites;4,0;2,25;2
+2018-06-19;Tue;Angebote;Rucola-Süßkartoffelschnitte auf Kürbis-Tomaten-Lauchgemüse an Möhrensalat mit Apfel;4,3;2,55;2
+2018-06-19;Tue;Pasta;Tomatensoße mit Ricotta;;;1
+2018-06-19;Tue;Pasta;Putenragout;;;0
+2018-06-19;Tue;Pasta;Pasta mit Avocado-Tomatenpesto;;;2
+2018-06-19;Tue;Ofenfrisch;Pizza Pulled Turkey;3,76;2,66;0
+2018-06-19;Tue;Ofenfrisch;Pizza Bel Paese mit Tomaten und Hirtenkäse;3,76;2,66;1
+2018-06-19;Tue;Tagessuppe;Kesselgulasch;;;0
+2018-06-19;Tue;Tagessuppe;Spargelcremesuppe;;;1
+2018-06-19;Tue;Tagessuppe;Aprikosenkaltschale mit Minze (Buchtel: 0,23 €);;;2
+2018-06-20;Wed;Angebote;Eibauer Schwarzbierfleisch mit Butterbohnen, Petersilienkartoffeln ODER Hefeknödeln;4,0;2,25;0
+2018-06-20;Wed;Angebote;Auberginen im Haferflockenmantel mit fruchtiger Tomatensoße, Gemüsebulgur ODER Petersilienkartoffeln, dazu Salat;4,34;2,59;2
+2018-06-20;Wed;Angebote;Broccoli-Käse-Quiche, dazu Salat;4,41;2,66;1
+2018-06-20;Wed;Pasta;Quorn-Gulaschsoße;;;1
+2018-06-20;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-06-20;Wed;Pasta;Pasta mit Zucchini-Basilikum-Pesto;;;2
+2018-06-20;Wed;Ofenfrisch;Pizza Pulled Pork (scharf);3,76;2,66;0
+2018-06-20;Wed;Ofenfrisch;Pizza Bel Paese mit Tomaten und Hirtenkäse;3,76;2,66;1
+2018-06-20;Wed;Tagessuppe;Kesselgulasch;;;0
+2018-06-20;Wed;Tagessuppe;Aprikosenkaltschale mit Minze (Buchtel: 0,23 €);;;2
+2018-06-21;Thu;Angebote;Schweineschnitzel mit Zitronenecke und Pommes frites;4,0;2,25;0
+2018-06-21;Thu;Angebote;Kichererbsenbällchen mit scharfer Tomatensalsa und Couscous;4,22;2,47;2
+2018-06-21;Thu;Angebote;Tofupfanne mit Ananas, Pfirsich und Chili, dazu Quinoamedaillons und Salat;4,79;3,04;1
+2018-06-21;Thu;Pasta;Frischkäsesoße mit Austernpilzen;;;1
+2018-06-21;Thu;Pasta;Fruchtige Tomatensoße mit Schinken und Salami;;;0
+2018-06-21;Thu;Pasta;Pasta mit Zucchini-Basilikum-Pesto;;;2
+2018-06-21;Thu;Ofenfrisch;Pizza Bel Paese mit Tomaten und Hirtenkäse;3,76;2,66;1
+2018-06-21;Thu;Ofenfrisch;Pizza Pulled Pork (scharf);3,76;2,66;0
+2018-06-21;Thu;Tagessuppe;Kesselgulasch;;;0
+2018-06-21;Thu;Tagessuppe;Aprikosenkaltschale mit Minze (Buchtel: 0,23 €);;;2
+2018-06-21;Thu;Tagessuppe;Broccoli-Käsesuppe;;;1
+2018-06-22;Fri;Angebote;Chicken Burger mit Tomate-Mozzarella, Rucola und Basilikummayonnaise, dazu Pommes frites;;;0
+2018-06-22;Fri;Angebote;Burger mit gefülltem Hähnchenschnitzel, dazu Tomate-Mozzarella, Rucola und Basilikummayonnaise und Pommes frites;;;0
+2018-06-22;Fri;Angebote;Burger mit Schweineschnitzel, dazu Tomate, Rucola ,Basilikummayonnaise und Pommes frites;5,74;3,99;0
+2018-06-22;Fri;Angebote;Krautnudeln mit Salami und Salat;4,0;2,25;0
+2018-06-22;Fri;Angebote;Veggi-Burger mit Räuchertofu, Röstzwiebeln und Kräuter-Remoulade, dazu Rosmarin Fries;5,08;3,33;2
+2018-06-22;Fri;Angebote;Buttermilchplinsen mit Apfelmus;3,74;1,99;1
+2018-06-22;Fri;Pasta;Soße alla sicilliana;;;1
+2018-06-22;Fri;Pasta;Pasta mit Tomatenpesto;;;2
+2018-06-22;Fri;Pasta;Chili con Carne;;;0
+2018-06-22;Fri;Ofenfrisch;Pizza Bel Paese mit Tomaten und Hirtenkäse;3,76;2,66;1
+2018-06-22;Fri;Ofenfrisch;Pizza mit Toastschinken, Zwiebeln und Paprika;3,76;2,66;1
+2018-06-22;Fri;Tagessuppe;Aprikosenkaltschale mit Minze (Buchtel: 0,23 €);;;2
+2018-06-22;Fri;Tagessuppe;Pilzsuppe;;;1
+2018-06-25;Mon;Angebote;Cordon Bleu mit Sweet-Chili-Dip, dazu hausgemachter Kartoffelsalat;4,51;2,76;0
+2018-06-25;Mon;Angebote;Deftige Bauernpfanne mit Schinken, Ei, Paprika und Mais, dazu Salat;4,34;2,59;0
+2018-06-25;Mon;Angebote;Gebratene Maultaschen auf Tomatenragout mit Käse gratiniert;;;1
+2018-06-25;Mon;Angebote;Mediterranes Pfannengemüse mit Folienkartoffel, Aioli-Dip und Salat;4,34;2,59;2
+2018-06-25;Mon;Pasta;Pasta mit Tomatenpesto;;;2
+2018-06-25;Mon;Pasta;Pastasoße Vesuvianna mit Tomaten, Oliven und Kapern;;;2
+2018-06-25;Mon;Ofenfrisch;Pizza Tonno mit Thunfisch, Zwiebeln und Mais;3,76;2,66;0
+2018-06-25;Mon;Ofenfrisch;Pizza Caprese mit Tomaten, Basilikum und Mozzarella;3,76;2,66;1
+2018-06-25;Mon;Tagessuppe;Tomatensuppe;;;2
+2018-06-26;Tue;Angebote;Arabische Paprikaschote mit Rind- und Lammhackfleisch, dazu Couscous und Joghurtsoße mit Minze;4,74;2,99;0
+2018-06-26;Tue;Angebote;Pastasotto mit Auberginen im Haferflockenmantel und mediterrane Tomatensoße, dazu Salat;4,0;2,25;2
+2018-06-26;Tue;Pasta;Tomatensoße mit Austernpilzen;;;2
+2018-06-26;Tue;Pasta;Carbonara Frankfurter Art;;;0
+2018-06-26;Tue;Pasta;Pasta mit Tomatenpesto;;;2
+2018-06-26;Tue;Ofenfrisch;Deftige Bauernpfanne;3,17;2,07;0
+2018-06-26;Tue;Ofenfrisch;Pizza Tonno mit Thunfisch, Zwiebeln und Mais;3,76;2,66;0
+2018-06-26;Tue;Ofenfrisch;Pizza Caprese mit Tomaten, Basilikum und Mozzarella;3,76;2,66;1
+2018-06-26;Tue;Tagessuppe;Kalte Gurken-Joghurtsuppe;;;1
+2018-06-26;Tue;Tagessuppe;Blumenkohlcremesuppe;;;1
+2018-06-27;Wed;Angebote;Gebackenes Schollenfilet mit Dillsoße, Schwenkkartoffeln und Salat;4,74;2,99;0
+2018-06-27;Wed;Angebote;Frühlingsrolle gefüllt mit Gemüse und Hähnchenfleisch auf asiatischem Gemüse, dazu Basmati Reis;4,0;2,25;0
+2018-06-27;Wed;Angebote;Marokkanische Kichererbsenpfanne mit Rosmarinkartoffeln;4,56;2,81;2
+2018-06-27;Wed;Pasta;Tomatenratatouille;;;2
+2018-06-27;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-06-27;Wed;Pasta;Pasta mit Tomatenpesto;;;2
+2018-06-27;Wed;Ofenfrisch;Pizza Tonno mit Thunfisch, Zwiebeln und Mais;3,76;2,66;0
+2018-06-27;Wed;Ofenfrisch;Pizza Caprese mit Tomaten, Basilikum und Mozzarella;3,76;2,66;1
+2018-06-27;Wed;Tagessuppe;Kartoffelsuppe mit Wiener Würstchen;;;0
+2018-06-27;Wed;Tagessuppe;Blumenkohlcremesuppe;;;1
+2018-06-27;Wed;Tagessuppe;Kalte Gurken-Joghurtsuppe;;;1
+2018-06-28;Thu;Angebote;Barbecueschnitzel (überbacken mit buntem Paprika und Käse) mit Pommes frites und Salat;4,85;3,1;0
+2018-06-28;Thu;Angebote;Schweineschnitzel mit Zitronenecke und Pommes frites;4,0;2,25;0
+2018-06-28;Thu;Angebote;Kartoffelpuffer Gärtnerin mit Apfelmus oder Kräuterquark, dazu Salat;4,34;2,59;1
+2018-06-28;Thu;Angebote;Hausgemachte Quarkklöße mit Blattspinat, Schmandhaube und Räuchertofu;4,0;2,25;1
+2018-06-28;Thu;Pasta;Ricotta-Spinatsoße;;;1
+2018-06-28;Thu;Pasta;Ungarischer Schweinegulasch;;;0
+2018-06-28;Thu;Pasta;Pasta mit Tomatenpesto;;;2
+2018-06-28;Thu;Ofenfrisch;Pizza Tonno mit Thunfisch, Zwiebeln und Mais;3,76;2,66;0
+2018-06-28;Thu;Ofenfrisch;Pizza Caprese mit Tomaten, Basilikum und Mozzarella;3,76;2,66;1
+2018-06-28;Thu;Tagessuppe;Kichererbsen-Currysuppe;;;2
+2018-06-28;Thu;Tagessuppe;Rote Linsen-Kokossuppe;;;2
+2018-06-28;Thu;Tagessuppe;Kalte Gurken-Joghurtsuppe;;;1
+2018-06-29;Fri;Angebote;Italian Style Burger mit Rindfleisch, Serranoschinken, Rucola, Tomaten, roten Zwiebeln und Hirtenkäse, dazu Pommes frites;5,74;3,99;0
+2018-06-29;Fri;Angebote;Bratwurst mit Sauerkraut und Kartoffelpüree;4,0;2,25;0
+2018-06-29;Fri;Angebote;Sojagyros mit Paprika und Oliven , dazu Couscous und Tsatsiki-Dip;4,42;2,67;2
+2018-06-29;Fri;Angebote;Hausgemachte Sächsische Quarkkäulchen mit Apfelmus;3,64;1,89;1
+2018-06-29;Fri;Pasta;Pasta mit Tomatenpesto;;;2
+2018-06-29;Fri;Pasta;Pfefferrahmsoße mit Putenstreifen;;;0
+2018-06-29;Fri;Pasta;Zucchinirahmsoße mit gemischten Pilzen und italienischen Hartkäse;;;1
+2018-06-29;Fri;Ofenfrisch;Pizza Tonno mit Thunfisch, Zwiebeln und Mais;3,76;2,66;0
+2018-06-29;Fri;Ofenfrisch;Pizza Caprese mit Tomaten, Basilikum und Mozzarella;3,76;2,66;1
+2018-06-29;Fri;Tagessuppe;Kalte Gurken-Joghurtsuppe;;;1
+2018-06-29;Fri;Tagessuppe;Chili con carne;;;0
+2018-06-29;Fri;Tagessuppe;Mediterrane Tomatensuppe;;;2
+2018-07-02;Mon;Angebote;Szegediner Gulasch mit Semmelknödel und Salat;4,34;2,59;0
+2018-07-02;Mon;Angebote;"Gemüse-Gouda-Knusperstäbchen auf  ""rahmigen""  Blattspinat, dazu Bratkartoffeln";;;1
+2018-07-02;Mon;Angebote;Paniertes Sojaschnitzel mit Rahmchampignons, gebratenen Kräuterkartoffeln oder Pommes frites;4,62;2,87;2
+2018-07-02;Mon;Pasta;Basilikumsoße mit getrockneten Tomaten;;;1
+2018-07-02;Mon;Pasta;Griechische Hackfleischsoße;;;0
+2018-07-02;Mon;Pasta;Pasta mit Tomatenpesto;;;2
+2018-07-02;Mon;Ofenfrisch;Pizza Kapstadt mit Wiener, Gewürzgurke und Röstzwiebeln;3,76;2,66;0
+2018-07-02;Mon;Ofenfrisch;Pizza Bruscetta mit Rucola, marinierten Tomaten und gehobelten Italienischen Hartkäse;3,76;2,66;1
+2018-07-02;Mon;Tagessuppe;Erbsencremesuppe;;;0
+2018-07-02;Mon;Tagessuppe;Gulaschsuppe;;;0
+2018-07-02;Mon;Tagessuppe;Erdbeer-Kaltschale;;;2
+2018-07-03;Tue;Angebote;Schollenfilet mit gebackenen Kartoffeln, dazu Salat und Kräuter-Dip;4,64;2,89;0
+2018-07-03;Tue;Angebote;Chili sin carne mit Curryreis und Salat;3,95;2,2;2
+2018-07-03;Tue;Pasta;Pastasoße Napoli;;;2
+2018-07-03;Tue;Pasta;Pastasoße mit Bauchspeck und Kirschtomaten;;;0
+2018-07-03;Tue;Pasta;Pasta mit Tomatenpesto;;;2
+2018-07-03;Tue;Ofenfrisch;Pizza Kapstadt mit Wiener, Gewürzgurke und Röstzwiebeln;;;0
+2018-07-03;Tue;Ofenfrisch;Pizza Bruscetta mit Rucola, marinierten Tomaten und gehobelten Italienischen Hartkäse;;;1
+2018-07-03;Tue;Tagessuppe;Gulaschsuppe;;;0
+2018-07-03;Tue;Tagessuppe;Griechische Hackfleischsuppe;;;0
+2018-07-03;Tue;Tagessuppe;Erdbeer-Kaltschale;;;2
+2018-07-04;Wed;Hühnchen mit Ananas, Pfirsich und knackigem Gemüse in Curry, dazu gebratene Nudeln (Auch fleischlos möglich;2,43 €/ 4,18 €);4,82;3,07;0
+2018-07-04;Wed;Angebote;Champignonpfanne mit Kartoffelrösti und Bauernsalat;3,95;2,2;0
+2018-07-04;Wed;Angebote;Seitangulasch mit Apfelrotkohl und Kartoffelklößen;4,0;2,25;2
+2018-07-04;Wed;Angebote;Älpler Makkaroni mit Feldsalat;4,08;2,33;1
+2018-07-04;Wed;Pasta;Chili sin carne;;;2
+2018-07-04;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-07-04;Wed;Pasta;Pasta mit Tomatenpesto;;;2
+2018-07-04;Wed;Ofenfrisch;Brezenauflauf mit gebratenen Spinat und Gewürzschmand;3,17;2,07;1
+2018-07-04;Wed;Ofenfrisch;Pizza Kapstadt mit Wiener, Gewürzgurke und Röstzwiebeln;;;0
+2018-07-04;Wed;Ofenfrisch;Pizza Bruscetta mit Rucola, marinierten Tomaten und gehobelten Italienischen Hartkäse;3,76;2,66;1
+2018-07-04;Wed;Tagessuppe;Paprikacremesuppe;;;1
+2018-07-04;Wed;Tagessuppe;Sahnesüppchen mit Bauchspeck und Kirschtomaten;;;0
+2018-07-05;Thu;Angebote;Schweineschnitzel mit Kräuter-Käsepanade, dazu scharfe Tomatensalsa und Pommes frites;4,54;2,79;0
+2018-07-05;Thu;Angebote;Schweineschnitzel mit Zitronenecke mit Pommes frites;4,0;2,25;0
+2018-07-05;Thu;Angebote;Lasagne mit Soja-Bolognese, dazu fruchtige Tomatensoße und Salat;4,16;2,41;2
+2018-07-05;Thu;Angebote;"Kichererbsen-Gemüse Pfanne, 
+mit Couscous und Salat";4,19;2,44;2
+2018-07-05;Thu;Pasta;Pastasoße mit Champignons und Wirsing;;;2
+2018-07-05;Thu;Pasta;Pusztasoße;;;0
+2018-07-05;Thu;Pasta;Pasta mit Tomatenpesto;;;2
+2018-07-05;Thu;Ofenfrisch;Brezenauflauf mit gebratenen Spinat und Gewürzschmand;3,17;2,07;1
+2018-07-05;Thu;Ofenfrisch;Pizza Kapstadt mit Wiener, Gewürzgurke und Röstzwiebeln;;;0
+2018-07-05;Thu;Ofenfrisch;Pizza Bruscetta mit Rucola, marinierten Tomaten und gehobelten Italienischen Hartkäse;;;1
+2018-07-05;Thu;Tagessuppe;Chili con carne;;;0
+2018-07-05;Thu;Tagessuppe;Paprikacremesuppe;;;1
+2018-07-05;Thu;Tagessuppe;Erdbeer-Kaltschale;;;2
+2018-07-06;Fri;Angebote;Rindergulasch mit Makkaroni und Salat;4,37;2,62;0
+2018-07-06;Fri;Angebote;Sanny Veggie Burger mit veganer Ananasmayonnaise, dazu Pommes frites;;;2
+2018-07-06;Fri;Angebote;Gebratene Spätzle mit Gemüsestreifen, feuriger Käsesoße und Salat;3,74;1,99;1
+2018-07-06;Fri;Pasta;Grüne Paprikasoße;;;1
+2018-07-06;Fri;Pasta;Hähnchengeschnetzeltes mit Tomaten und Frischkäse;;;0
+2018-07-06;Fri;Pasta;Pasta mit Tomatenpesto;;;2
+2018-07-06;Fri;Ofenfrisch;Pizza Kapstadt mit Wiener, Gewürzgurke und Röstzwiebeln;;;0
+2018-07-06;Fri;Ofenfrisch;Pizza Bruscetta mit Rucola, marinierten Tomaten und gehobelten Italienischen Hartkäse;;;1
+2018-07-06;Fri;Ofenfrisch;Brezenauflauf mit gebratenen Spinat und Gewürzschmand;;;1
+2018-07-06;Fri;Tagessuppe;Paprikacremesuppe;;;1
+2018-07-06;Fri;Tagessuppe;Soljanka;;;0
+2018-07-06;Fri;Tagessuppe;Erdbeer-Kaltschale;;;2
+2018-07-09;Mon;Angebote;Züricher Putengeschnetzeltes mit Risi Pisi und Salat;4,0;2,25;0
+2018-07-09;Mon;Angebote;Kartoffelgnocchi mit Rucola und fruchtigem Tomatenragout;4,54;2,79;2
+2018-07-09;Mon;Angebote;Vegetarische oder vegane Frühlingsrolle auf asiatischem Gemüse mit Sesamkartoffeln;4,34;2,59;2
+2018-07-09;Mon;Pasta;Pilzrahmsoße;;;1
+2018-07-09;Mon;Pasta;Hackfleischsugo;;;0
+2018-07-09;Mon;Pasta;Hausgemachte Pasta mit Petersilienpesto;;;2
+2018-07-09;Mon;Ofenfrisch;Blätterteigtasche gefüllt mit Spinat, Hirtenkäse,getr. Tomaten, dazu Kräuter-Dip;;;1
+2018-07-09;Mon;Tagessuppe;Käsesuppe;;;1
+2018-07-09;Mon;Tagessuppe;Möhren-Kokossuppe;;;2
+2018-07-09;Mon;Tagessuppe;Kresse-Joghurtsüppchen;;;1
+2018-07-10;Tue;Angebote;Sommer-Grillteller mit mariniertem Schweinesteak, zweierlei Bratwürstchen, Leberkäse und kleiner Frikadelle, dazu Pommes frites;5,8;4,05;0
+2018-07-10;Tue;Angebote;Kasslerrücken mit Sauerkraut und Kartoffelklößen oder Petersilienkartoffeln;4,34;2,59;0
+2018-07-10;Tue;Angebote;Türkische Linsenlaibchen mit Minzsoße, Erdnussreis und Salat;;;2
+2018-07-10;Tue;Angebote;Ratatouille aus frischem Gemüse mit Kartoffel-Bärlauchgratin;4,34;2,59;1
+2018-07-10;Tue;Pasta;Andalusische Tomatensoße mit Hackfleisch und Hirtenkäse;;;0
+2018-07-10;Tue;Pasta;Pastasoße Arrabiata;;;2
+2018-07-10;Tue;Pasta;Hausgemachte Pasta mit Petersilienpesto;;;2
+2018-07-10;Tue;Ofenfrisch;Pizza Bombay mit Hähnchenfleisch, Ananas und Currycreme;3,76;2,66;0
+2018-07-10;Tue;Ofenfrisch;Blätterteigtasche gefüllt mit Spinat, Hirtenkäse,getr. Tomaten, dazu Kräuter-Dip;;;1
+2018-07-10;Tue;Tagessuppe;Jägersuppe;;;0
+2018-07-10;Tue;Tagessuppe;Möhren-Kokossuppe;;;2
+2018-07-10;Tue;Tagessuppe;Kresse-Joghurtsüppchen;;;1
+2018-07-11;Wed;Angebote;Gebratenes Seelachsfilet auf Italienischem Gemüserisotto mit Salat;5,08;3,33;0
+2018-07-11;Wed;Angebote;Gegrillte Hähnchenkeule auf Oliven, Mais und Tomaten, dazu Spätzle und Salat;;;0
+2018-07-11;Wed;Angebote;Austernpilzschnitzelchen an Kräuter-Dip mit Schwenkkartoffeln und Salat;;;2
+2018-07-11;Wed;Angebote;Bratkartoffeln mit Tomate, Mozzarella und Gouda, dazu Salat;3,95;2,2;1
+2018-07-11;Wed;Pasta;Fruchtiges Sojacurry;;;2
+2018-07-11;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-07-11;Wed;Pasta;Hausgemachte Pasta mit Petersilienpesto;;;2
+2018-07-11;Wed;Ofenfrisch;Kartoffel-Bärlauchgratin;;;1
+2018-07-11;Wed;Ofenfrisch;Pizza Bombay mit Hähnchenfleisch, Ananas und Currycreme;3,76;2,66;0
+2018-07-11;Wed;Ofenfrisch;Blätterteigtasche gefüllt mit Spinat, Hirtenkäse,getr. Tomaten, dazu Kräuter-Dip;;;1
+2018-07-11;Wed;Tagessuppe;Jägersuppe;;;0
+2018-07-11;Wed;Tagessuppe;Kresse-Joghurtsüppchen;;;1
+2018-07-11;Wed;Tagessuppe;Mediterrane Gemüsecremesuppe;;;1
+2018-07-12;Thu;Angebote;Schweinesteak mit Würzfleisch und Käse überbacken, dazu Buttererbsen und Pommes frites;4,74;2,99;0
+2018-07-12;Thu;Angebote;Schweineschnitzel mit Zitronenecke und Pommes frites;4,0;2,25;0
+2018-07-12;Thu;Angebote;Gebratener Mandeltofu mit pikantem Chili-Dip, dazu Kokosreis;4,44;2,69;2
+2018-07-12;Thu;Pasta;Linsencurry;;;2
+2018-07-12;Thu;Pasta;Schinken-Sahnesoße;;;0
+2018-07-12;Thu;Pasta;Hausgemachte Pasta mit Petersilienpesto;;;2
+2018-07-12;Thu;Ofenfrisch;Arancini (vegetarische Risottobällchen );;;1
+2018-07-12;Thu;Ofenfrisch;Blätterteigtasche gefüllt mit Spinat, Hirtenkäse,getr. Tomaten, dazu Kräuter-Dip;;;1
+2018-07-12;Thu;Ofenfrisch;Pizza Pulled Pork (scharf);3,76;2,66;0
+2018-07-12;Thu;Tagessuppe;Fruchtige Soja-Currysuppe;;;2
+2018-07-12;Thu;Tagessuppe;Asiatische Gemüsesuppe;;;2
+2018-07-12;Thu;Tagessuppe;Kresse-Joghurtsüppchen;;;1
+2018-07-13;Fri;Angebote;Hamburger mit Big-Mac-Soße und Pommes frites;5,08;3,33;0
+2018-07-13;Fri;Angebote;Gyros in Metaxasoße mit Hirtenkäse, dazu Basmati Reis und Salat;4,74;2,99;0
+2018-07-13;Fri;Angebote;Burritos gefüllt mit Soja-Chili und Tomatensalsa, dazu Salat;4,0;2,25;2
+2018-07-13;Fri;Angebote;Mit Heidelbeere gefüllter Germknödel, dazu Blaumohn-Vanillesoße;4,06;2,31;1
+2018-07-13;Fri;Pasta;Pasta mit Petersilienpesto;;;2
+2018-07-13;Fri;Pasta;Quorn-Feuerpfanne;;;1
+2018-07-13;Fri;Pasta;Pastasoße Nizza;;;0
+2018-07-13;Fri;Ofenfrisch;Pizza Barbecue mit Hähnchenfleisch;3,76;2,66;0
+2018-07-13;Fri;Ofenfrisch;Broccoli-Käse-Quiche;3,76;2,66;1
+2018-07-13;Fri;Tagessuppe;Erbsencremesuppe;;;1
+2018-07-13;Fri;Tagessuppe;Kresse-Joghurtsüppchen;;;1
+2018-07-13;Fri;Tagessuppe;Linsen-Kokos-Currysuppe;;;2
+2018-07-16;Mon;Angebote;Frikadelle mit Tsatsiki, gebackenen Kartoffeln und Paprikakraut;4,09;2,43;0
+2018-07-16;Mon;Angebote;Champignonpfanne mit roten Zwiebeln und Creme fraiche, dazu kleine Kartoffelklöße und Salat;4,0;2,25;2
+2018-07-16;Mon;Pasta;Fruchtige Tomatensoße;;;2
+2018-07-16;Mon;Pasta;Lauch-Hackfleisch-Käsesoße;;;0
+2018-07-16;Mon;Pasta;Pasta mit Rucolapesto;;;2
+2018-07-16;Mon;Tagessuppe;Kirschkaltschale;;;2
+2018-07-16;Mon;Tagessuppe;Provenzalische Tomatensuppe;;;0
+2018-07-17;Tue;Angebote;Gebratenes Polenta-Hokifilet auf Spinat-Paprikagemüse mit rotem Curryreis;4,74;2,99;0
+2018-07-17;Tue;Angebote;Broccoli Nuggets, dazu Glasnudelsalat mit Paprika, Ingwer, Mu Err Pilzen und Sesamöl;4,31;2,56;1
+2018-07-17;Tue;Angebote;Tofuschnitzel mit Panko-Honig-Erdnusspanade, dazu Glasnudelsalat mit Paprika, Ingwer, Mu Err Pilzen und Sesamöl;5,74;3,99;1
+2018-07-17;Tue;Pasta;Fruchtige Tomatensoße mit Mozzarella;;;1
+2018-07-17;Tue;Pasta;Pastasoße all' amatriciana mit Tomaten und Bauchspeck;;;0
+2018-07-17;Tue;Pasta;Pasta mit Rucolapesto;;;2
+2018-07-17;Tue;Ofenfrisch;Pizza Hawaii mit Kochschinken und Ananas;3,76;2,66;0
+2018-07-17;Tue;Ofenfrisch;Pizza Hellas mit Tomaten, Oliven, roten Zwiebeln und Hirtenkäse;3,76;2,66;1
+2018-07-17;Tue;Tagessuppe;Hackfleisch-Lauchsuppe;;;0
+2018-07-17;Tue;Tagessuppe;Champignoncremesuppe;;;1
+2018-07-17;Tue;Tagessuppe;Kirschkaltschale;;;2
+2018-07-18;Wed;Angebote;Rindersteak mit Pilz-Pfefferrahmsoße, dazu Steakhouse Fritten oder Petersilienkartoffeln;7,3;5,55;0
+2018-07-18;Wed;Angebote;Kasslerrücken mit Sauerkraut, Pfefferrahmsoße und Püree;4,12;2,27;0
+2018-07-18;Wed;Angebote;Mac & Cheese mit scharfer Tomatensalsa und Salat;4,74;2,99;1
+2018-07-18;Wed;Pasta;Tomatenratatouille;;;2
+2018-07-18;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-07-18;Wed;Pasta;Pasta mit Rucolapesto;;;2
+2018-07-18;Wed;Ofenfrisch;Pizza Hawaii mit Kochschinken und Ananas;3,76;2,66;0
+2018-07-18;Wed;Ofenfrisch;Pizza Hellas mit Tomaten, Oliven, roten Zwiebeln und Hirtenkäse;3,76;2,66;1
+2018-07-18;Wed;Tagessuppe;Hackfleisch-Lauchsuppe;;;0
+2018-07-18;Wed;Tagessuppe;Asiatische Gemüsesuppe;;;2
+2018-07-18;Wed;Tagessuppe;Kirschkaltschale;;;2
+2018-07-19;Thu;Angebote;Schnitzel XXL in Cornflakespanade mit Zitronenecke und Pommes frites;5,08;3,33;0
+2018-07-19;Thu;Angebote;Möhrenköfte mit Aprikosen, fruchtigem Tomatenreis und Hummus;4,14;2,39;2
+2018-07-19;Thu;Pasta;Käsesoße Quattro formaggi;;;1
+2018-07-19;Thu;Pasta;Mailänder Nudelsoße;;;0
+2018-07-19;Thu;Pasta;Pasta mit Rucolapesto;;;2
+2018-07-19;Thu;Ofenfrisch;Pizza Hawaii mit Kochschinken und Ananas;3,76;2,66;0
+2018-07-19;Thu;Ofenfrisch;Pizza Hellas mit Tomaten, Oliven, roten Zwiebeln und Hirtenkäse;3,76;2,66;1
+2018-07-19;Thu;Tagessuppe;Hackfleisch-Lauchsuppe;;;0
+2018-07-19;Thu;Tagessuppe;Tomaten-Gemüsesuppe;;;2
+2018-07-19;Thu;Tagessuppe;Kirschkaltschale;;;2
+2018-07-20;Fri;Angebote;Zelt Burger, (Frikadelle, krosser Bacon, roten Zwiebeln, Tomate, Käse und Salat) dazu Pommes frites;4,74;2,99;0
+2018-07-20;Fri;Angebote;Burritos-Mexikanische Tortilla mit Chilli con Carne gefüllt;4,14;2,39;0
+2018-07-20;Fri;Angebote;Vegane Plinsen mit Apfelmus;3,75;2,0;2
+2018-07-20;Fri;Angebote;Panierter Edamer Käse mit Tatarensoße, Petersilienkartoffeln und Salat;4,46;2,71;1
+2018-07-20;Fri;Pasta;Pasta mit Rucolapesto;;;2
+2018-07-20;Fri;Pasta;Ragù napoletano;;;0
+2018-07-20;Fri;Pasta;Pastasoße mit Champignons und getrockneten Tomaten;;;1
+2018-07-20;Fri;Ofenfrisch;Pizza Hawaii mit Kochschinken und Ananas;3,76;2,66;0
+2018-07-20;Fri;Ofenfrisch;Pizza Hellas mit Tomaten, Oliven, roten Zwiebeln und Hirtenkäse;3,76;2,66;1
+2018-07-20;Fri;Tagessuppe;Kirschkaltschale;;;2
+2018-07-20;Fri;Tagessuppe;Hackfleisch-Lauchsuppe;;;0
+2018-07-20;Fri;Tagessuppe;Käsesuppe;;;1
+2018-07-23;Mon;Angebote;Schweinerückenschnitzel mit Zwiebelpanade, dazu Romanesco und Schwenkkartoffeln;4,81;3,06;0
+2018-07-23;Mon;Angebote;Schweizer Hackbraten mit buntem Gemüse und Petersilienkartoffeln;4,22;2,47;0
+2018-07-23;Mon;Angebote;Blumenkohl und Wurzelgemüse in Kräuterrahm mit gerösteten Sonnenblumenkernen, dazu Petersilienkartoffeln;4,0;2,25;2
+2018-07-23;Mon;Angebote;Japchae-Gebratene Reisnudeln mit Gemüse und Tofu, dazu Salat;4,74;2,99;2
+2018-07-23;Mon;Pasta;Ricotta-Weißweinsoße mit gebratenen Tofu;;;1
+2018-07-23;Mon;Pasta;Chili con carne;;;0
+2018-07-23;Mon;Pasta;Pasta mit Thaipesto;;;2
+2018-07-23;Mon;Tagessuppe;Karotten-Ingwersuppe;;;2
+2018-07-23;Mon;Tagessuppe;Erbsencremesuppe;;;1
+2018-07-23;Mon;Tagessuppe;Okroshka-Kalte russische Suppe;;;1
+2018-07-24;Tue;Angebote;Seelachs Knusperpanade mit Rahmspinat und Thymiankartoffeln;4,74;2,99;0
+2018-07-24;Tue;Angebote;Gebratene Salbei-Gnocchis auf Tomaten-Zucchiniragout und Salat;4,44;2,69;2
+2018-07-24;Tue;Angebote;Kürbisrisotto mit Frühlingszwiebeln, Samosateigtaschen und Sweet-Chili-Dip;4,44;2,69;1
+2018-07-24;Tue;Pasta;Tomatensoße mit Antipasti;;;2
+2018-07-24;Tue;Pasta;Carbonara;;;0
+2018-07-24;Tue;Pasta;Pasta mit Thaipesto;;;2
+2018-07-24;Tue;Ofenfrisch;Pizza Quattro formaggi mit Cheddar, Gouda, Hirtenkäse und Mozzarella;3,76;2,66;1
+2018-07-24;Tue;Tagessuppe;Karotten-Ingwersuppe;;;2
+2018-07-24;Tue;Tagessuppe;Erbsencremesuppe;;;1
+2018-07-24;Tue;Tagessuppe;Okroshka-Kalte russische Suppe;;;1
+2018-07-25;Wed;Angebote;Schweineschnitzel mit Tomatensoße, Erbsen und Spätzle;4,52;2,77;0
+2018-07-25;Wed;Angebote;Jägerschnitzel (panierte Jagdwurst) mit Tomatensoße und Spirelli;;;0
+2018-07-25;Wed;Angebote;Kaiserschmarrn mit Apfelmus;4,1;2,35;1
+2018-07-25;Wed;Pasta;Sojabolognese;;;2
+2018-07-25;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-07-25;Wed;Pasta;Pasta mit Thaipesto;;;2
+2018-07-25;Wed;Ofenfrisch;Flammkuchen mit Schmand, Bauchspeck und Lauch;3,76;2,66;0
+2018-07-25;Wed;Ofenfrisch;Pizza Quattro formaggi mit Cheddar, Gouda, Hirtenkäse und Mozzarella;3,76;2,66;1
+2018-07-25;Wed;Tagessuppe;Blumenkohl-Romanesco-Käsesuppe;;;1
+2018-07-25;Wed;Tagessuppe;Kartoffelsuppe mit Speck (Wiener: 0,74 € / Paar Wiener: 1,42 €);;;0
+2018-07-25;Wed;Tagessuppe;Okroshka-Kalte russische Suppe;;;1
+2018-07-26;Thu;Angebote;Mariniertes Schweineschnitzel, paniert mit Grissinis und italienischem Hartkäse auf mediterranem Nudelsalat;5,08;3,33;0
+2018-07-26;Thu;Angebote;Schweineschnitzel mit Zitronenecke  auf mediterranem Nudelsalat;4,0;2,25;0
+2018-07-26;Thu;Angebote;Zucchini-Pakoras mit Paprika-Joghurtsoße, Couscous und Salat;4,24;2,49;2
+2018-07-26;Thu;Angebote;Tofuschnitzel mit Erdnusspanade, dazu hausgemachter Buchweizenbrätling und Mediterranem Gemüse Tomatenragout;4,18;2,43;1
+2018-07-26;Thu;Pasta;Fruchtige Tomatensoße mit Chorizo;;;0
+2018-07-26;Thu;Pasta;Gorgonzola-Spinatsoße;;;0
+2018-07-26;Thu;Pasta;Pasta mit Thaipesto;;;2
+2018-07-26;Thu;Ofenfrisch;Flammkuchen mit Schmand, Bauchspeck und Lauch;3,76;2,66;0
+2018-07-26;Thu;Ofenfrisch;Pizza Quattro formaggi mit Cheddar, Gouda, Hirtenkäse und Mozzarella;3,76;2,66;1
+2018-07-26;Thu;Tagessuppe;Kartoffelsuppe mit Speck (Wiener: 0,74 € / Paar Wiener: 1,42 €);;;0
+2018-07-26;Thu;Tagessuppe;Asiatische Kokossuppe;;;2
+2018-07-26;Thu;Tagessuppe;Okroshka-Kalte russische Suppe;;;1
+2018-07-27;Fri;Angebote;Pulled Beef Burger mit Cole Slaw (Amerikanischer Weißkohlsalat) und Pommes frites;6,19;4,44;0
+2018-07-27;Fri;Angebote;Rahmspinat mit Rührei, dazu Petersilienkartoffeln;4,0;2,25;0
+2018-07-27;Fri;Angebote;Veganer Falafelburger (Tomate, rote Zwiebel, Salat und Chilicreme) ODER Vegetarischer Burger mit Käse-Reisbrätling, dazu Pommes frites;;;1
+2018-07-27;Fri;Angebote;Süßkartoffel-Kokos-Sojacurry mit Kurkuma Reis und Salat;4,38;2,63;2
+2018-07-27;Fri;Pasta;Broccolirahmsoße mit Hirtenkäse;;;1
+2018-07-27;Fri;Pasta;Geschnetzeltes Jäger Art;;;0
+2018-07-27;Fri;Pasta;Pasta mit Thaipesto;;;2
+2018-07-27;Fri;Ofenfrisch;Flammkuchen mit Schmand, Bauchspeck und Lauch;3,76;2,66;0
+2018-07-27;Fri;Ofenfrisch;Pizza Quattro formaggi mit Cheddar, Gouda, Hirtenkäse und Mozzarella;3,76;2,66;1
+2018-07-27;Fri;Tagessuppe;Okroshka-Kalte russische Suppe;;;1
+2018-07-27;Fri;Tagessuppe;Chili con Carne;;;0
+2018-07-30;Mon;Angebote;Frikadelle in deftiger Bratensoße mit Schmorkraut und Rösti;4,0;2,25;0
+2018-07-30;Mon;Angebote;Szegediner Sojagulasch mit Kartoffelklößen und Salat;4,18;2,43;2
+2018-07-30;Mon;Angebote;Käsespätzle mit buntem Salat;4,06;2,31;1
+2018-07-30;Mon;Pasta;Linsenbolognese;;;2
+2018-07-30;Mon;Pasta;Hackfleisch-Zucchinisoße;;;0
+2018-07-30;Mon;Pasta;Pasta mit Thaipesto;;;2
+2018-07-30;Mon;Ofenfrisch;"Pizza ""Pulled Beef"" mit Zwiebeln und Paprika";3,76;2,66;0
+2018-07-30;Mon;Ofenfrisch;Pizza mit Hirtenkäse und Blattspinat;3,76;2,66;1
+2018-07-30;Mon;Tagessuppe;Süßkartoffel-Kokossuppe;;;2
+2018-07-30;Mon;Tagessuppe;Soljanka;;;0
+2018-07-30;Mon;Tagessuppe;Himbeer-Johannisbeerkaltschale;;;2
+2018-07-31;Tue;Angebote;Grillteller mit gegrilltem Schweinsfilet, ungarischer Bratwurst und Chicken Wings, dazu BBQ-Dip und Steak fries;5,74;3,99;0
+2018-07-31;Tue;Angebote;Hähnchen Forstmeister Art mit Spätzle und Salat;4,18;2,43;0
+2018-07-31;Tue;Angebote;Imam Bayildi vegan mit Pizzaschmelz, dazu fruchtige Tomatensoße;4,74;2,99;1
+2018-07-31;Tue;Angebote;Buntes Paprikaragout mit Linsenreis oder Schwenkkartoffeln, dazu Salat;4,0;2,25;2
+2018-07-31;Tue;Pasta;Tomatensoße mit Oliven;;;2
+2018-07-31;Tue;Pasta;Pastasoße mit Bauchspeck und Spinat;;;0
+2018-07-31;Tue;Pasta;Pasta mit Thaipesto;;;2
+2018-07-31;Tue;Tagessuppe;Süßkartoffel-Kokossuppe;;;2
+2018-07-31;Tue;Tagessuppe;Soljanka;;;0
+2018-07-31;Tue;Tagessuppe;Himbeer-Johannisbeerkaltschale;;;2
+2018-08-01;Wed;Angebote;Mariniertes Seelachsfilet mit Kartoffel-Gurkensalat;4,67;2,92;0
+2018-08-01;Wed;Angebote;Karotten-Sesamschnitzel mit Petersiliensoße und Gemüsekartoffeln;4,0;2,25;1
+2018-08-01;Wed;Angebote;Burrito gefüllt mit grünem Spargel, Falafel, Rucola, Radieschen und Walnüssen, dazu bunter Salat mit Erdbeer-Dressing;5,4;3,65;2
+2018-08-01;Wed;Pasta;Gemüsebolognese;;;2
+2018-08-01;Wed;Pasta;Pasta mit Thaipesto;;;2
+2018-08-01;Wed;Tagessuppe;Hackfleisch-Lauchsuppe;;;0
+2018-08-01;Wed;Tagessuppe;Broccolisuppe;;;1
+2018-08-01;Wed;Tagessuppe;Himbeer-Johannisbeerkaltschale;;;2
+2018-08-02;Thu;Angebote;Paniertes Schweineschnitzel mit Cremechampignons, Pommes frites oder Petersilienkartoffeln;4,74;2,99;0
+2018-08-02;Thu;Angebote;Zucchini im Cornflakesmantel mit feurig-fruchtiger Tomatensoße und gebratenen Currykartoffeln;4,2;2,45;2
+2018-08-02;Thu;Pasta;Feurige Käsesoße;;;1
+2018-08-02;Thu;Pasta;Pasta mit Thaipesto;;;2
+2018-08-02;Thu;Ofenfrisch;"Pizza ""Kentucky"" mit Broccoli, Zwiebeln und Hähnchenfleisch";3,76;2,66;0
+2018-08-02;Thu;Tagessuppe;Broccolisuppe;;;1
+2018-08-02;Thu;Tagessuppe;Rote Linsensuppe;;;1
+2018-08-02;Thu;Tagessuppe;Himbeer-Johannisbeerkaltschale;;;2
+2018-08-03;Fri;Angebote;"Pulled Turkey Burger mit ""Magic Dust Rub"", Guacamole, Mango-Kürbischutney und Pommes frites";4,74;2,99;0
+2018-08-03;Fri;Angebote;Apfel-Milchreis mit Zucker/Zimt und Erdbeeren;3,74;1,99;1
+2018-08-03;Fri;Angebote;Veggi Burger Ratatouille Style mit Pommes frites;4,74;2,99;2
+2018-08-03;Fri;Angebote;Vegane Maultaschen mit Rahmspinat und kleinen Möhren;4,74;2,99;2
+2018-08-03;Fri;Pasta;Pasta mit Zucchini-Basilikum-Pesto;;;2
+2018-08-03;Fri;Pasta;Bohnensugo;;;2
+2018-08-03;Fri;Pasta;Currygeschnetzeltes;;;0
+2018-08-03;Fri;Ofenfrisch;Pizza mit Hirtenkäse und Blattspinat;3,76;2,66;1
+2018-08-03;Fri;Ofenfrisch;"Pizza ""Kentucky"" mit Broccoli, Zwiebeln und Hähnchenfleisch";3,76;2,66;0
+2018-08-03;Fri;Tagessuppe;Himbeer-Johannisbeerkaltschale;;;2
+2018-08-03;Fri;Tagessuppe;Rote Linsensuppe;;;1
+2018-08-03;Fri;Tagessuppe;Paprikasuppe;;;1
+2018-08-06;Mon;Angebote;Rindfleischpfanne mit Champignons und Mischpilzen an gebratenen Spätzle mit Gemüsestreifen oder Petersilienkartoffeln, dazu Salat;4,61;2,86;0
+2018-08-06;Mon;Angebote;Krautnudeln mit Salami und Salat;4,0;2,25;0
+2018-08-06;Mon;Angebote;Kichererbsenbällchen mit scharfer Tomatensalsa und Couscous;4,0;2,25;2
+2018-08-06;Mon;Angebote;Polenta-Pancake mit scharfen Grillgemüse und Salat;4,24;2,49;1
+2018-08-06;Mon;Pasta;Pilz-Auberginen-Sugo;;;2
+2018-08-06;Mon;Pasta;Knoblauchsoße mit Hackfleisch und Tomaten;;;0
+2018-08-06;Mon;Pasta;Pasta mit Zucchini-Basilikum-Pesto;;;2
+2018-08-06;Mon;Tagessuppe;Paprikasuppe;;;1
+2018-08-06;Mon;Tagessuppe;Zucchinicremesuppe;;;2
+2018-08-06;Mon;Tagessuppe;Tomaten-Pfirsichkaltschale (Wahlweise vegetarisch mit Hirtenkäse);;;2
+2018-08-07;Tue;Angebote;Fish & Chips mit Aioli-Dip;5,08;3,33;0
+2018-08-07;Tue;Angebote;Schweinesteak mit Sauerkraut, Kartoffelklößen oder Hefeknödel;4,22;2,47;0
+2018-08-07;Tue;Angebote;Auberginen im Haferflockenmantel mit fruchtiger Tomatensoße, Gemüsebulgur oder Petersilienkartoffeln und Salat;4,0;2,25;2
+2018-08-07;Tue;Angebote;Austernpilze und Champignons in Rahmsoße mit Kartoffelrösti und Salat;4,39;2,64;2
+2018-08-07;Tue;Pasta;Tomatensoße mit Ricotta;;;1
+2018-08-07;Tue;Pasta;Pasta mit Zucchini-Basilikum-Pesto;;;2
+2018-08-07;Tue;Pasta;Putenragout mit Champignons;;;0
+2018-08-07;Tue;Ofenfrisch;Pizza Buscetta mit Rucola, marinierten Tomaten und gehobelten Ital. Hartkäse;;;0
+2018-08-07;Tue;Ofenfrisch;Pizza Bel Paese mit Tomaten und Hirtenkäse;3,76;2,66;1
+2018-08-07;Tue;Tagessuppe;Hackfleisch-Tomatensuppe;;;0
+2018-08-07;Tue;Tagessuppe;Geflügelcurry;;;0
+2018-08-07;Tue;Tagessuppe;Tomaten-Pfirsichkaltschale (Wahlweise vegetarisch mit Hirtenkäse);;;2
+2018-08-08;Wed;Entenbruststreifen auf Wokgemüse, dazu gebratene Mie Nudeln (Auch fleischlos möglich;2,50 €/ 4,25 €);6,11;4,36;0
+2018-08-08;Wed;Angebote;Wiener Backhähnchenkeule mit Mediterranem Kartoffelsalat;;;0
+2018-08-08;Wed;Angebote;Seitan-Currywurst mit Pommes frites und Salat;4,22;2,47;2
+2018-08-08;Wed;Angebote;Spanische Kartoffeln mit grüner Mayonnaise (vegan) und Salat;3,95;2,2;2
+2018-08-08;Wed;Pasta;Quorn-Gulaschsoße;;;1
+2018-08-08;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-08-08;Wed;Pasta;Pasta mit Zucchini-Basilikum-Pesto;;;2
+2018-08-08;Wed;Tagessuppe;Fruchtige Karotten-Kokossuppe;;;2
+2018-08-08;Wed;Tagessuppe;Tomaten-Pfirsichkaltschale (Wahlweise vegetarisch mit Hirtenkäse);;;2
+2018-08-09;Thu;Angebote;Schweineschnitzel mit Remouladensoße, Bratkartoffeln und Griechischem Bohnensalat;4,74;2,99;0
+2018-08-09;Thu;Angebote;Schweineschnitzel mit Zitronenecke und Pommes frites;4,0;2,25;0
+2018-08-09;Thu;Angebote;Chili sin carne mit Kräuterreis und Salat;4,0;2,25;2
+2018-08-09;Thu;Pasta;Frischkäsesoße mit Austernpilzen;;;1
+2018-08-09;Thu;Pasta;Fruchtige Tomatensoße mit Schinken, Salami und Paprika;;;0
+2018-08-09;Thu;Pasta;Pasta mit Zucchini-Basilikum-Pesto;;;2
+2018-08-09;Thu;Ofenfrisch;Pizza Buscetta mit Chorizo, Rucola, marinierten Tomaten und gehobelten Ital. Hartkäse;3,76;2,66;0
+2018-08-09;Thu;Ofenfrisch;Pizza Bel Paese mit Tomaten und Hirtenkäse;3,76;2,66;1
+2018-08-09;Thu;Tagessuppe;Fruchtige Karotten-Kokossuppe;;;2
+2018-08-09;Thu;Tagessuppe;Quorn-Feuertopf;;;1
+2018-08-09;Thu;Tagessuppe;Tomaten-Pfirsichkaltschale (Wahlweise vegetarisch mit Hirtenkäse);;;2
+2018-08-10;Fri;Angebote;Schnitzelburger mit Curry Dip und Preiselbeeren , dazu Pommes frites;5,08;3,33;0
+2018-08-10;Fri;Angebote;Veggi-Burger, dazu Rosmarin Fries;4,74;2,99;2
+2018-08-10;Fri;Angebote;Kressepfannkuchen mit lauwarmer Antipasti und Kräuterquark-Dip;4,46;2,71;1
+2018-08-10;Fri;Pasta;Soße alla sicilliana;;;1
+2018-08-10;Fri;Pasta;Pasta mit Zucchini-Basilikum-Pesto;;;2
+2018-08-10;Fri;Ofenfrisch;Pizza Bel Paese mit Tomaten und Hirtenkäse;3,76;2,66;1
+2018-08-10;Fri;Tagessuppe;Tomaten-Pfirsichkaltschale (Wahlweise vegetarisch mit Hirtenkäse);;;2
+2018-08-10;Fri;Tagessuppe;Fruchtige Karotten-Kokossuppe;;;2
+2018-08-13;Mon;Angebote;Paprikaschote nach Griechischer Art mit fruchtiger Tomatensoße und Kurkumareis;;;0
+2018-08-13;Mon;Angebote;Panierte Hähnchenbrust auf Chili sin Carne, dazu Reis;4,14;2,39;0
+2018-08-13;Mon;Angebote;Pastasotto mit frittierten Teigtaschen und Curry-Gemüsefüllung, dazu Salat;4,0;2,25;2
+2018-08-13;Mon;Angebote;Kartoffelpuffer Gärtnerin Art mit Apfelmus oder Kräuterquark und Salat;;;1
+2018-08-13;Mon;Pasta;Pastasoße Vesuvianna mit Tomaten, Oliven und Kapern;;;2
+2018-08-13;Mon;Pasta;Tomatensoße mit Schinken und Hackfleisch;;;0
+2018-08-13;Mon;Pasta;Pasta mit Petersilienpesto;;;2
+2018-08-13;Mon;Ofenfrisch;Pizza Tonno mit Thunfisch, Zwiebeln und Mais;3,76;2,66;0
+2018-08-13;Mon;Ofenfrisch;Pizza Caprese mit Tomaten, Basilikum und Mozzarella;;;1
+2018-08-13;Mon;Tagessuppe;Blaubeer-Buttermilchkaltschale;;;1
+2018-08-14;Tue;Angebote;Gebackenes Seelachsfilet mit Dillsoße, Schwenkkartoffeln und Salat;4,79;3,04;0
+2018-08-14;Tue;Angebote;Hähnchenschnitzel an Pfefferhollandaise mit Limonentagliatelle;;;0
+2018-08-14;Tue;Angebote;Burritos gefüllt mit fruchtigem Mango-Chutney, Cheddar und Gouda, dazu bunter Salat;4,74;2,99;1
+2018-08-14;Tue;Angebote;Marokkanische Kichererbsenpfanne mit Rosmarinkartoffeln;4,52;2,77;2
+2018-08-14;Tue;Pasta;Tomatensoße mit Austernpilzen;;;2
+2018-08-14;Tue;Pasta;Carbonara Frankfurter Art;;;0
+2018-08-14;Tue;Pasta;Hausgemachte Pasta mit Petersilienpesto;;;2
+2018-08-14;Tue;Ofenfrisch;Pizza Tonno mit Thunfisch, Zwiebeln und Mais;3,76;2,66;0
+2018-08-14;Tue;Ofenfrisch;Pizza Caprese mit Tomaten, Basilikum und Mozzarella;;;1
+2018-08-14;Tue;Tagessuppe;Chili sin carne;;;2
+2018-08-14;Tue;Tagessuppe;Blaubeer-Buttermilchkaltschale;;;1
+2018-08-15;Wed;Angebote;Bratwurst mit bunten Gemüse und Kartoffelpüree;4,0;2,25;0
+2018-08-15;Wed;Angebote;Gebratene Teigtaschen auf Tomatenragout mit Käse gratiniert;4,0;2,25;1
+2018-08-15;Wed;Angebote;Langos mit Knoblauchcreme Aioli und Antipasti;4,0;2,25;2
+2018-08-15;Wed;Pasta;Tomatenratatouille;;;2
+2018-08-15;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-08-15;Wed;Pasta;Hausgemachte Pasta mit Petersilienpesto;;;2
+2018-08-15;Wed;Ofenfrisch;Pizza Tonno mit Thunfisch, Zwiebeln und Mais;3,76;2,66;0
+2018-08-15;Wed;Ofenfrisch;Pizza Caprese mit Tomaten, Basilikum und Mozzarella;3,76;2,66;1
+2018-08-15;Wed;Tagessuppe;Kichererbsen-Kokossuppe;;;2
+2018-08-15;Wed;Tagessuppe;Blaubeer-Buttermilchkaltschale;;;1
+2018-08-16;Thu;Angebote;Barbecueschnitzel (überbacken mit buntem Paprika und Käse), dazu Pommes frites und Salat;4,74;2,99;0
+2018-08-16;Thu;Angebote;Schweineschnitzel mit Zitronenecke und Pommes frites;4,0;2,25;0
+2018-08-16;Thu;Angebote;Süßkartoffel-Kokoscurry mit Gemüsebulgur und Salat;4,61;2,86;2
+2018-08-16;Thu;Pasta;Ricotta-Spinatsoße;;;1
+2018-08-16;Thu;Pasta;Ungarischer Schweinegulasch;;;0
+2018-08-16;Thu;Pasta;Hausgemachte Pasta mit Petersilienpesto;;;2
+2018-08-16;Thu;Tagessuppe;Kichererbsen-Kokossuppe;;;2
+2018-08-16;Thu;Tagessuppe;Blaubeer-Buttermilchkaltschale;;;1
+2018-08-17;Fri;Angebote;Italian Style Burger mit Rindfleisch, Serranoschinken, Rucola, Tomaten, roten Zwiebeln und Hirtenkäse, dazu Pommes frites;5,3;3,55;0
+2018-08-17;Fri;Angebote;Deftige Bauernpfanne mit Schinken, Ei, Paprika und Mais, dazu Salat;4,41;2,66;0
+2018-08-17;Fri;Angebote;Chili Burger mit Tomaten, roten Zwiebeln, Peperoni und Currymayonnaise, dazu Pommes frites;4,74;2,99;1
+2018-08-17;Fri;Angebote;Pikante Sesamnudeln mit Erdnuss-Pfannengemüse;4,0;2,25;2
+2018-08-17;Fri;Pasta;Zucchinirahmsoße mit gemischten Pilzen und Parmesan;;;0
+2018-08-17;Fri;Pasta;Tomatensoße mit Jagdwurst und Schmorkraut;;;0
+2018-08-17;Fri;Pasta;Hausgemachte Pasta mit Petersilienpesto;;;2
+2018-08-17;Fri;Tagessuppe;Blaubeer-Buttermilchkaltschale;;;1
+2018-08-20;Mon;Angebote;Rindergulasch mit Makkaroni und Salat;4,35;2,6;0
+2018-08-20;Mon;Angebote;Graupenpfanne mit Gemüse und frittierten Teigtaschen (auch vegan möglich);4,0;2,25;1
+2018-08-20;Mon;Pasta;Griechische Hackfleischsoße;;;0
+2018-08-20;Mon;Pasta;Basilikumsoße mit getrockneten Tomaten;;;1
+2018-08-20;Mon;Pasta;Hausgemachte Pasta mit Petersilienpesto;;;2
+2018-08-20;Mon;Ofenfrisch;Pizza Kapstadt mit Wiener, Gewürzgurke und Röstzwiebeln;3,76;2,66;0
+2018-08-20;Mon;Ofenfrisch;Pizza Bruscetta mit Rucola, marinierten Tomaten und gehobeltem italienischen Hartkäse;3,76;2,66;1
+2018-08-20;Mon;Tagessuppe;Paprika-Käsesuppe;;;1
+2018-08-20;Mon;Tagessuppe;Kalte Gurken-Joghurtsuppe;;;1
+2018-08-21;Tue;Angebote;Thüringer Rostbrätl mit Bratkartoffeln und Salat;4,45;2,7;0
+2018-08-21;Tue;Angebote;Kartoffelgnocchi mit Rucola und fruchtigem Tomatenragout;4,45;2,7;2
+2018-08-21;Tue;Pasta;Pastasoße Napoli;;;2
+2018-08-21;Tue;Pasta;Pastasoße mit Bauchspeck, Champignons und Kirschtomaten;;;0
+2018-08-21;Tue;Tagessuppe;Gulaschsuppe;;;0
+2018-08-21;Tue;Tagessuppe;Kalte Gurken-Joghurtsuppe;;;1
+2018-08-22;Wed;Angebote;Seelachs im Backteig mit Kartoffelpüree und Bohnensalat;4,0;2,25;0
+2018-08-22;Wed;Angebote;Paniertes Sojaschnitzel mit Rahmchampignons und Pommes frites;4,53;2,78;2
+2018-08-22;Wed;Pasta;Chili sin carne;;;2
+2018-08-22;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-08-22;Wed;Pasta;Pasta mit Bärlauch-Rucolapesto;;;2
+2018-08-22;Wed;Tagessuppe;Gulaschsuppe;;;0
+2018-08-22;Wed;Tagessuppe;Kalte Gurken-Joghurtsuppe;;;1
+2018-08-23;Thu;Angebote;Schweineschnitzel mit Zitronenecke und Pommes frites;4,0;2,25;0
+2018-08-23;Thu;Angebote;Rotes Linsencurry mit Naan-Brot und Salat;4,0;2,25;2
+2018-08-23;Thu;Pasta;Pastasoße mit Kürbis und Wirsing;;;2
+2018-08-23;Thu;Pasta;Pusztasoße;;;0
+2018-08-23;Thu;Pasta;Pasta mit Bärlauch-Rucolapesto;;;2
+2018-08-23;Thu;Ofenfrisch;Pizza Kapstadt mit Wiener, Gewürzgurke und Röstzwiebeln;3,76;2,66;0
+2018-08-23;Thu;Ofenfrisch;Pizza Bruscetta mit Rucola, marinierten Tomaten und gehobeltem italienischen Hartkäse;3,76;2,66;1
+2018-08-23;Thu;Tagessuppe;Gulaschsuppe;;;0
+2018-08-23;Thu;Tagessuppe;Kalte Gurken-Joghurtsuppe;;;1
+2018-08-24;Fri;Angebote;Burger mit Angus-Patty, roter Zwiebel, Tomate, Gurke, Salat und würziger Burgersoße, dazu Steak fries;6,19;4,44;0
+2018-08-24;Fri;Angebote;"Sunny Veggie Burger mit ""Ananas-Mayonnaise"", dazu Pommes frites";4,74;2,99;2
+2018-08-24;Fri;Pasta;Grüne Paprikasoße;;;1
+2018-08-24;Fri;Pasta;Hähnchengeschnetzeltes mit Tomaten, Champignons und Frischkäse;;;0
+2018-08-24;Fri;Pasta;Pasta mit Bärlauch-Rucolapesto;;;2
+2018-08-24;Fri;Ofenfrisch;Pizza Kapstadt mit Wiener, Gewürzgurke und Röstzwiebeln;3,76;2,66;0
+2018-08-24;Fri;Ofenfrisch;Pizza Bruscetta mit Rucola, marinierten Tomaten und gehobeltem italienischen Hartkäse;3,76;2,66;1
+2018-08-24;Fri;Ofenfrisch;Pizzabrot mit Käse und Knoblauch;2,87;1,77;0
+2018-08-24;Fri;Tagessuppe;Kalte Gurken-Joghurtsuppe;;;1
+2018-08-27;Mon;Angebote;Marokkanische Kefta-Kebabs mit Harissacreme (Chilicreme) und kleinen Rosmarin-Kartoffelspalten;4,35;2,6;0
+2018-08-27;Mon;Angebote;Falafelbällchen mit scharfer Letschosoße, Erbsen und Kartoffelpüree;4,35;2,6;1
+2018-08-27;Mon;Pasta;Cremige Käsesoße mit Blattspinat;;;0
+2018-08-27;Mon;Pasta;Hackfleischsugo;;;0
+2018-08-27;Mon;Pasta;Pasta mit Kressepesto;;;2
+2018-08-27;Mon;Ofenfrisch;Pizza Bombay mit Hähnchenfleisch, Ananas und Currycreme;3,76;2,66;0
+2018-08-27;Mon;Ofenfrisch;Blätterteigtasche gefüllt mit Spinat, Hirtenkäse und getr.Tomaten;4,19;2,44;1
+2018-08-27;Mon;Tagessuppe;Rote Linsen-Kokossuppe;;;2
+2018-08-27;Mon;Tagessuppe;Ananas-Chili-Kaltschale (Buchtel extra (A, A1): 0,23 €);;;2
+2018-08-28;Tue;Angebote;Hähnchengyros mit Tsatsiki und Krautsalat im Fladenbrot;4,74;2,99;0
+2018-08-28;Tue;Angebote;Türkische Linsenlaibchen mit Joghurt-Minzsoße, Erdnussreis und Salat;4,0;2,25;2
+2018-08-28;Tue;Pasta;Tomatensoße mit Hirtenkäse;;;1
+2018-08-28;Tue;Pasta;Pastasoße Arrabiata;;;2
+2018-08-28;Tue;Pasta;Pasta mit Kressepesto;;;2
+2018-08-28;Tue;Ofenfrisch;Pizza Bombay mit Hähnchenfleisch, Ananas und Currycreme;3,76;2,66;0
+2018-08-28;Tue;Ofenfrisch;Blätterteigtasche gefüllt mit Spinat, Hirtenkäse und getr.Tomaten;4,19;2,44;1
+2018-08-28;Tue;Tagessuppe;Ananas-Chili-Kaltschale (Buchtel extra (A, A1): 0,23 €);;;2
+2018-08-29;Wed;Angebote;Seelachsfilet in Cornflakespanade mit Kartoffelsalat;4,46;2,71;0
+2018-08-29;Wed;Angebote;Austernpilzschnitzelchen an Kräuter-Dip mit Schwenkkartoffeln und Salat;4,23;2,48;2
+2018-08-29;Wed;Pasta;Fruchtiges Sojacurry;;;2
+2018-08-29;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-08-29;Wed;Pasta;Hausgemachte Pasta mit Kressepesto;;;2
+2018-08-29;Wed;Ofenfrisch;Pizza Bombay mit Hähnchenfleisch, Ananas und Currycreme;3,76;2,66;0
+2018-08-29;Wed;Ofenfrisch;Blätterteigtasche gefüllt mit Spinat, Hirtenkäse und getrockneten Tomaten;4,19;2,44;1
+2018-08-29;Wed;Tagessuppe;Asiatische Linsensuppe;;;2
+2018-08-29;Wed;Tagessuppe;Ananas-Chili-Kaltschale (Buchtel extra (A, A1): 0,23 €);;;2
+2018-08-30;Thu;Angebote;Schweinesteak mit Würzfleisch und geriebenen Käse überbacken, dazu Buttererbsen und Pommes frites;4,79;3,04;0
+2018-08-30;Thu;Angebote;Schweineschnitzel mit Zitronenecke und Pommes frites oder Kartoffelsalat;4,0;2,25;0
+2018-08-30;Thu;Angebote;Vegane Frühlingsrolle auf asiatischem Gemüse mit Mie Nudeln;4,69;2,94;1
+2018-08-30;Thu;Pasta;Schinken-Sahnesoße;;;0
+2018-08-30;Thu;Pasta;Hausgemachte Pasta mit Kressepesto;;;2
+2018-08-30;Thu;Ofenfrisch;Pizza Bombay mit Hähnchenfleisch, Ananas und Currycreme;3,76;2,66;0
+2018-08-30;Thu;Ofenfrisch;Blätterteigtasche gefüllt mit Spinat, Hirtenkäse und getrockneten Tomaten;4,19;2,44;1
+2018-08-30;Thu;Tagessuppe;Gräupcheneintopf;;;0
+2018-08-30;Thu;Tagessuppe;Ananas-Chili-Kaltschale (Buchtel extra (A, A1): 0,23 €);;;2
+2018-08-31;Fri;Angebote;Crunchy Chicken Burger mit Ananas, Big-Mac-Soße und Pommes frites;5,74;3,99;0
+2018-08-31;Fri;Angebote;Burritos gefüllt mit Sojachili und Tomatensalsa, dazu Salat;4,0;2,25;2
+2018-08-31;Fri;Pasta;Quorn-Feuerpfanne;;;1
+2018-08-31;Fri;Pasta;Hausgemachte Pasta mit Kressepesto;;;2
+2018-08-31;Fri;Pasta;Pastasoße Nizza;;;0
+2018-08-31;Fri;Ofenfrisch;Pizza Bombay mit Hähnchenfleisch, Ananas und Currycreme;3,76;2,66;0
+2018-08-31;Fri;Tagessuppe;Ananas-Chili-Kaltschale (Buchtel extra (A, A1): 0,23 €);;;2
+2018-09-03;Mon;Angebote;Geschlossene Veranstaltung -Kein Mittagsangebot-;;;0
+2018-09-04;Tue;Angebote;Geschlossene Veranstaltung -Kein Mittagsangebot-;;;0
+2018-09-05;Wed;Angebote;Geschlossene Veranstaltung -Kein Mittagsangebot-;;;0
+2018-09-06;Thu;Angebote;Geschlossene Veranstaltung -Kein Mittagsangebot-;;;0
+2018-09-07;Fri;Angebote;Zelt Burger, (Frikadelle, krosser Bacon, Röstzwiebeln, Tomate, Käse und Salat) dazu Waffelkartoffeln;5,08;3,33;0
+2018-09-07;Fri;Angebote;Zelt Burger, (Frikadelle, krosser Bacon, Röstzwiebeln, Tomate, Käse und Salat) dazu Pommes frites;;;0
+2018-09-07;Fri;Angebote;Burger mit Hirtenkäse und Tsatsiki-Dip, dazu Pommes frites;;;1
+2018-09-07;Fri;Angebote;Burger mit Hirtenkäse und Tsatsiki-Dip, dazu Waffelkartoffeln;5,08;3,33;1
+2018-09-07;Fri;Pasta;Ragù napoletano;;;0
+2018-09-07;Fri;Pasta;Ratatouille;;;2
+2018-09-07;Fri;Tagessuppe;Kürbiscremesuppe;;;1
+2018-09-10;Mon;Angebote;Eier mit Remouladensoße, dazu Bratkartoffeln und Salat;4,0;2,25;0
+2018-09-10;Mon;Angebote;Heringsfilet mit Remouladensoße, dazu Bratkartoffeln und Salat;;;0
+2018-09-10;Mon;Angebote;Zucchini-Pakoras mit Paprika-Joghurtsoße, Couscous und Salat;4,31;2,56;2
+2018-09-10;Mon;Angebote;Kressepfannkuchen mit Joghurtsoße und Salat;;;1
+2018-09-10;Mon;Pasta;Frischkäse-Weißweinsoße mit gebratenem Tofu;;;1
+2018-09-10;Mon;Pasta;Hausgemachte Pasta mit Thaipesto;;;2
+2018-09-10;Mon;Ofenfrisch;Pizza Mexiko mit Salami, Bauchspeck, Jalapenos, Bohnen und Cheddar Käse;;;0
+2018-09-10;Mon;Ofenfrisch;Pizza mit Zucchini und Hirtenkäse;;;1
+2018-09-10;Mon;Tagessuppe;Gräupcheneintopf;;;0
+2018-09-11;Tue;Angebote;Putenschnitzel, dazu gebackene Kartoffelecken an Feldsalat mit Orangen, gerösteten Cashewkernen und Himbeerdressing;4,74;2,99;0
+2018-09-11;Tue;Angebote;Gebackener Blumenkohl mit Dillsoße und Rösties;4,0;2,25;2
+2018-09-11;Tue;Pasta;Tomatenratatouille;;;2
+2018-09-11;Tue;Pasta;Carbonara;;;0
+2018-09-11;Tue;Pasta;Hausgemachte Pasta mit Thaipesto;;;2
+2018-09-11;Tue;Ofenfrisch;Pizza Mexiko mit Salami, Bauchspeck, Jalapenos, Bohnen und Cheddar Käse;;;0
+2018-09-11;Tue;Ofenfrisch;Pizza mit Zucchini und Hirtenkäse;;;1
+2018-09-11;Tue;Tagessuppe;Broccoli-Cremesuppe;;;1
+2018-09-12;Wed;Angebote;Rindergulasch mit Champignons und Mischpilzen, dazu Butterspätzle oder Bratkartoffeln und bunter Salat;4,7;2,95;0
+2018-09-12;Wed;Angebote;Gemüsefrikadelle mit Ananas und Pizzaschmelz gratiniert, dazu fruchtige Currysoße, Pommes frites oder Bratkartoffeln;4,7;2,95;2
+2018-09-12;Wed;Pasta;Sojachili;;;2
+2018-09-12;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-09-12;Wed;Pasta;Hausgemachte Pasta mit Thaipesto;;;2
+2018-09-12;Wed;Ofenfrisch;Pizza Mexiko mit Salami, Bauchspeck, Jalapenos, Bohnen und Cheddar Käse;3,76;2,66;0
+2018-09-12;Wed;Ofenfrisch;Pizza mit Zucchini und Hirtenkäse;3,76;2,66;1
+2018-09-12;Wed;Tagessuppe;Käsesuppe mit Bacon;;;0
+2018-09-13;Thu;Angebote;Mariniertes Schweineschnitzel, paniert mit Grissinis und italienischem Hartkäse auf mediterranem Nudelsalat;5,22;3,47;0
+2018-09-13;Thu;Angebote;Schweineschnitzel mit Zitronenecke und Pommes frites;4,0;2,25;0
+2018-09-13;Thu;Angebote;Gebratene Salbei-Gnocchis auf Tomaten-Zucchiniragout und Salat;4,49;2,74;2
+2018-09-13;Thu;Pasta;Fruchtige Tomatensoße mit Chorizo;;;0
+2018-09-13;Thu;Pasta;Gorgonzola-Spinatsoße;;;0
+2018-09-13;Thu;Pasta;Hausgemachte Pasta mit Thaipesto;;;2
+2018-09-13;Thu;Ofenfrisch;Pizza Mexiko mit Salami, Bauchspeck, Jalapenos, Bohnen und Cheddar Käse;3,76;2,66;0
+2018-09-13;Thu;Ofenfrisch;Pizza mit Zucchini und Hirtenkäse;3,76;2,66;1
+2018-09-13;Thu;Tagessuppe;Currysuppe;;;0
+2018-09-14;Fri;Angebote;Chicken Burger mit Tomate-Mozzarella, Rucola und Basilikummayonnaise, dazu Pommes frites;5,74;3,99;0
+2018-09-14;Fri;Angebote;Sunny Veggi Burger mit Pommes frites;4,4;2,65;2
+2018-09-14;Fri;Angebote;Kaiserschmarrn mit Apfelmus;4,0;2,25;1
+2018-09-14;Fri;Pasta;Hausgemachte Pasta mit Thaipesto;;;2
+2018-09-14;Fri;Pasta;Broccoli-Rahmsoße mit Hirtenkäse;;;1
+2018-09-14;Fri;Pasta;Putengeschnetzeltes mit Curry;;;0
+2018-09-14;Fri;Ofenfrisch;Pizza Mexiko mit Salami, Bauchspeck, Jalapenos, Bohnen und Cheddar Käse;3,76;2,66;0
+2018-09-14;Fri;Ofenfrisch;Pizza mit Zucchini und Hirtenkäse;3,76;2,66;1
+2018-09-14;Fri;Tagessuppe;Kürbiscremesuppe;;;1
+2018-09-17;Mon;Angebote;Gebratenes Seelachsfilet auf Italienischem Gemüserisotto mit Salat;5,32;3,57;0
+2018-09-17;Mon;Angebote;Champignonpfanne mit roten Zwiebeln und Creme fraiche, dazu kleine Kartoffelklöße und Salat;4,0;2,25;2
+2018-09-17;Mon;Pasta;Linsenbolognese;;;2
+2018-09-17;Mon;Pasta;Hackfleisch-Zucchinisoße;;;0
+2018-09-17;Mon;Pasta;Hausgemachte Pasta mit Zucchini-Basilikumpesto;;;2
+2018-09-17;Mon;Ofenfrisch;Pizza Hawaii mit Kochschinken und Ananas;3,76;2,66;0
+2018-09-17;Mon;Ofenfrisch;Pizza Hellas mit Tomaten, Oliven, roten Zwiebeln und Hirtenkäse;3,76;2,66;1
+2018-09-18;Tue;Angebote;Currywurst mit Pommes frites und Salat;4,31;2,56;0
+2018-09-18;Tue;Angebote;"Knusperkroketten auf ""rahmigen"" Blattspinat, dazu Bratkartoffeln";4,0;2,25;2
+2018-09-18;Tue;Pasta;Tomatensoße mit gebratener Zucchini;;;2
+2018-09-18;Tue;Pasta;Pastasoße mit Bauchspeck und Spinat;;;0
+2018-09-18;Tue;Pasta;Hausgemachte Pasta mit Zucchini-Basilikumpesto;;;2
+2018-09-18;Tue;Ofenfrisch;Pizza Hawaii mit Kochschinken und Ananas;3,76;2,66;0
+2018-09-18;Tue;Ofenfrisch;Pizza Hellas mit Tomaten, Oliven, roten Zwiebeln und Hirtenkäse;3,76;2,66;1
+2018-09-19;Wed;Angebote;Putensteak mit Pfirsich und Käse gratiniert, dazu Kräuterhollandaise, Kartoffelkroketten oder Petersilienkartoffeln und Salat;5,24;3,49;0
+2018-09-19;Wed;Angebote;Möhrenköfte mit Aprikosen, fruchtigen Tomatenreis und Hummus;4,13;2,38;2
+2018-09-19;Wed;Pasta;Gemüsebolognese;;;2
+2018-09-19;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-09-19;Wed;Pasta;Hausgemachte Pasta mit Zucchini-Basilikumpesto;;;2
+2018-09-19;Wed;Ofenfrisch;Pizza Hawaii mit Kochschinken und Ananas;3,76;2,66;0
+2018-09-19;Wed;Ofenfrisch;Pizza Hellas mit Tomaten, Oliven, roten Zwiebeln und Hirtenkäse;3,76;2,66;1
+2018-09-20;Thu;Angebote;Schnitzel XXL in Cornflakespanade mit Zitronenecke und Pommes frites;5,08;3,33;0
+2018-09-20;Thu;Angebote;Schweineschnitzel mit Zitronenecke und Pommes frites;4,0;2,25;0
+2018-09-20;Thu;Angebote;Hausgemachte Seitan-Bratwurst mit Sauerkraut und Kartoffelpüree;4,15;2,4;2
+2018-09-20;Thu;Pasta;Feurige Käsesoße;;;0
+2018-09-20;Thu;Pasta;Wurstgulasch;;;0
+2018-09-20;Thu;Pasta;Hausgemachte Pasta mit Zucchini-Basilikumpesto;;;2
+2018-09-20;Thu;Ofenfrisch;Pizza Hawaii mit Kochschinken und Ananas;3,76;2,66;0
+2018-09-20;Thu;Ofenfrisch;Pizza Hellas mit Tomaten, Oliven, roten Zwiebeln und Hirtenkäse;3,76;2,66;1
+2018-09-21;Fri;Angebote;Hamburger mit Pommes frites;4,74;2,99;0
+2018-09-21;Fri;Angebote;Buttermilchplinsen mit Apfelmus;3,7;1,95;1
+2018-09-21;Fri;Angebote;Veggi-Burger Ratatouille Style mit Pommes frites;4,74;2,99;2
+2018-09-21;Fri;Pasta;Hausgemachte Pasta mit Zucchini-Basilikumpesto;;;2
+2018-09-21;Fri;Pasta;Pute in fruchtiger Currysoße;;;0
+2018-09-21;Fri;Pasta;Bohnensugo;;;2
+2018-09-21;Fri;Ofenfrisch;Pizza Hawaii mit Kochschinken und Ananas;3,76;2,66;0
+2018-09-21;Fri;Ofenfrisch;Pizza Hellas mit Tomaten, Oliven, roten Zwiebeln und Hirtenkäse;3,76;2,66;1
+2018-09-24;Mon;Angebote;Hähnchenbrustfilet Napoli mit Tomatenspaghetti;4,74;2,99;0
+2018-09-24;Mon;Angebote;Shogok-Tibet. Kartoffelcurry mit Kräuterreis;4,0;2,25;2
+2018-09-24;Mon;Pasta;Knoblauchsoße mit Hackfleisch und Tomaten;;;0
+2018-09-24;Mon;Pasta;Napoli;;;2
+2018-09-24;Mon;Pasta;Pasta mit Tomatenpesto;;;2
+2018-09-25;Tue;Angebote;Gyrosbraten vom Schwein mit Tsatsiki, Bratkartoffeln und Paprikakraut;4,51;2,76;0
+2018-09-25;Tue;Angebote;Auberginen im Haferflockenmantel mit fruchtiger Tomatensoße, Gemüsebulgur oder Petersilienkartoffeln und Salat;4,18;2,43;2
+2018-09-25;Tue;Pasta;Pute Ungarisch;;;0
+2018-09-25;Tue;Pasta;Pasta mit Tomatenpesto;;;2
+2018-09-25;Tue;Ofenfrisch;Calzone mit Chorizo, feurigen Jalapenos und Käse;3,76;2,66;0
+2018-09-25;Tue;Tagessuppe;Tomatensuppe;;;2
+2018-09-26;Wed;Angebote;Gebratenes Seelachsfilet mit einem Kartoffel-Gurkensalat und Salat;5,4;3,65;0
+2018-09-26;Wed;Angebote;Mischpilzpfanne mit hausgemachten Semmelklößen oder Petersilienkartoffeln;4,53;2,78;2
+2018-09-26;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-09-26;Wed;Pasta;Quorn-Gulaschsoße;;;1
+2018-09-26;Wed;Pasta;Pasta mit Tomatenpesto;;;2
+2018-09-26;Wed;Ofenfrisch;Calzone mit Chorizo, feurigen Jalapenos und Käse;3,76;2,66;0
+2018-09-26;Wed;Ofenfrisch;Pizza Bel Paese mit Tomaten und Hirtenkäse;3,76;2,66;1
+2018-09-26;Wed;Tagessuppe;Ungarischer Puten-Kartoffeltopf;;;0
+2018-09-27;Thu;Angebote;Schweineschnitzel in deftiger Paprika-Wurstpfanne mit Buttererbsen oder Salat, dazu gebackene Kartoffeln;5,16;3,41;0
+2018-09-27;Thu;Angebote;Ofengemüse mit Aioli-Sojamayonnaise, dazu Kartoffelgnocchi;4,45;2,7;2
+2018-09-27;Thu;Pasta;Frischkäsesoße mit Austernpilzen;;;1
+2018-09-27;Thu;Pasta;Fruchtige Tomatensoße mit Schinken, Salami, Champignons und Paprika;;;0
+2018-09-27;Thu;Pasta;Pasta mit Tomatenpesto;;;2
+2018-09-27;Thu;Ofenfrisch;Calzone mit Chorizo, feurigen Jalapenos und Käse;3,76;2,66;0
+2018-09-27;Thu;Ofenfrisch;Pizza Bel Paese mit Tomaten und Hirtenkäse;3,76;2,66;1
+2018-09-27;Thu;Tagessuppe;Ungarischer Puten-Kartoffeltopf;;;0
+2018-09-28;Fri;Angebote;Hamburger mit Jalapenos, roter Zwiebel, Tomate, Gurken, Salat und würziger Burgersoße, dazu gebackene Kartoffeln;4,74;2,99;0
+2018-09-28;Fri;Angebote;Hausgemachte Sächsische Quarkkäulchen mit Apfelmus;3,64;1,89;1
+2018-09-28;Fri;Angebote;Krautnudeln mit Apfel, Walnüssen, getrockneten Tomaten und Salat;4,0;2,25;2
+2018-09-28;Fri;Pasta;Soße alla sicilliana;;;1
+2018-09-28;Fri;Pasta;Pasta mit Tomatenpesto;;;2
+2018-09-28;Fri;Pasta;Gulaschsoße;;;0
+2018-09-28;Fri;Ofenfrisch;Pizza Bel Paese mit Tomaten und Hirtenkäse;3,76;2,66;1
+2018-09-28;Fri;Tagessuppe;Austernpilzcremesuppe;;;1
+2018-10-01;Mon;Angebote;Panierter Seelachs mit Schwenkkartoffeln und Erbsen;4,74;2,99;0
+2018-10-01;Mon;Angebote;Edamer Käse mit Tatarensoße, Petersilienkartoffeln und Salat;;;1
+2018-10-01;Mon;Angebote;Kürbis-Apfelcurry mit Zartweizen und Salat;4,0;2,25;2
+2018-10-01;Mon;Pasta;Pastasoße Vesuvianna mit Tomaten, Oliven und Kapern;;;2
+2018-10-01;Mon;Pasta;Pasta mit Petersilienpesto;;;2
+2018-10-01;Mon;Ofenfrisch;Pizza Kreta mit Lauch und Hirtenkäse;;;1
+2018-10-01;Mon;Ofenfrisch;Pizza Texas mit Schweinefleisch, Bauchspeck, Ei und BBQ-Dip;3,76;2,66;0
+2018-10-01;Mon;Tagessuppe;Möhrencremesuppe;;;1
+2018-10-02;Tue;Angebote;Geschmorte Lammkeule mit Zwiebel-Karottengemüse, Hefeknödeln oder Rosmarinkartoffeln;5,19;3,44;0
+2018-10-02;Tue;Angebote;Currywurst mit Pommes frites und Salat;4,3;2,55;0
+2018-10-02;Tue;Angebote;Paprikaschote mit Hirtenkäse, Kräutern und Reis gefüllt, dazu fruchtige Tomatensoße und Schwenkkartoffeln (Paprikaschote mit veganer Füllung möglich);4,74;2,99;1
+2018-10-02;Tue;Angebote;Pastasotto, dazu frittierte Teigtaschen mit Curry-Gemüsefüllung und Salat;4,0;2,25;2
+2018-10-02;Tue;Pasta;Pasta mit Petersilienpesto;;;2
+2018-10-02;Tue;Pasta;Tomatensoße mit Antipasti;;;2
+2018-10-02;Tue;Pasta;Carbonara Frankfurter Art;;;0
+2018-10-02;Tue;Ofenfrisch;Pizza mit roten Zwiebeln und Hirtenkäse;3,76;2,66;1
+2018-10-02;Tue;Ofenfrisch;Pizza Texas mit Schweinefleisch, Bauchspeck, Ei und BBQ-Dip;3,76;2,66;0
+2018-10-02;Tue;Tagessuppe;Erbsencremesuppe;;;1
+2018-10-02;Tue;Tagessuppe;Tomatensuppe;;;2
+2018-10-04;Thu;Angebote;Barbecue Schnitzel, (überbacken mit buntem Paprika und Käse) dazu Pommes frites und Salat;4,74;2,99;0
+2018-10-04;Thu;Angebote;Schweineschnitzel mit Zitronenecke und Pommes frites;4,0;2,25;0
+2018-10-04;Thu;Angebote;Soja-Kräuterquark und vegane Leberwurst, dazu Kartoffeln und Salat;4,14;2,39;2
+2018-10-04;Thu;Pasta;Ricotta-Spinatsoße;;;1
+2018-10-04;Thu;Pasta;Ungarischer Schweinegulasch;;;0
+2018-10-04;Thu;Pasta;Hausgemachte Pasta mit Petersilienpesto;;;2
+2018-10-04;Thu;Ofenfrisch;Pizza Texas mit Schweinefleisch, Bauchspeck, Ei und BBQ-Dip;3,76;2,66;0
+2018-10-04;Thu;Ofenfrisch;Pizza Kreta mit Lauch und Hirtenkäse;3,76;2,66;1
+2018-10-05;Fri;Angebote;"Pulled Turkey Burger mit ""Magic Dust Rub"", Guacamole, Mango-Kürbischutney und Pommes frites";5,08;3,33;0
+2018-10-05;Fri;Angebote;Süße Schupfnudeln mit Mandeln, Honig und Pflaumen;4,0;2,25;1
+2018-10-05;Fri;Angebote;Falafelburger (Tomate, rote Zwiebel, Salat und Chilicreme) mit Pommes frites;4,74;2,99;2
+2018-10-05;Fri;Angebote;Polentatasche mit einer Füllung aus Spinat, Käse und Zwiebel, dazu Ratatouille und Schwenkkartoffeln;4,6;2,85;1
+2018-10-05;Fri;Pasta;Zucchinirahmsoße mit gemischten Pilzen und Italienischem Hartkäse;;;0
+2018-10-05;Fri;Pasta;Tomatensoße mit Jagdwurst und Schmorkraut;;;0
+2018-10-05;Fri;Pasta;Pasta mit Petersilienpesto;;;2
+2018-10-05;Fri;Tagessuppe;Blumenkohlcremesuppe;;;1
+2018-10-05;Fri;Tagessuppe;Fruchtige rote Linsensuppe;;;1
+2018-10-08;Mon;Angebot zum Oktoberfest;Kartoffelpuffer mit Apfelmus ODER Radieschen-Kressequark;3,97;2,22;1
+2018-10-08;Mon;Angebot zum Oktoberfest;Topfenschmarrn mit Zwetschgenröster;3,97;2,22;1
+2018-10-08;Mon;Angebot zum Oktoberfest;Halbes Wiesnhendl;5,35;3,6;0
+2018-10-08;Mon;Angebot zum Oktoberfest;Grillhaxe;5,08;3,33;0
+2018-10-08;Mon;Angebot zum Oktoberfest;Schweinekrustenbraten;3,55;1,8;0
+2018-10-08;Mon;Angebot zum Oktoberfest;Weißwurst mit süßem Senf;3,95;2,2;0
+2018-10-08;Mon;Angebot zum Oktoberfest;Gebratener Leberkäse;3,25;1,5;0
+2018-10-08;Mon;Oktoberfest-Beilagen;Bratkartoffeln/ Semmelgröstl/ Klöße/ Kartoffelkroketten/ Spätzle/ Schupfnudeln/ Laugenbrezel;1,15;0,95;0
+2018-10-08;Mon;Oktoberfest-Beilagen;Bayrisch Kraut/ Apfelrotkohl/ Mischpilzpfanne/ Bohnenpfanne/ Rahmwirsing;1,15;0,95;0
+2018-10-09;Tue;Angebot zum Oktoberfest;Maultaschen überbacken mit Tomate-Mozzarella auf Spinat-Käsesoße ODER Gratinierte Maultaschen auf Tomatenragout und Röstzwiebeln (vegan);4,55;2,8;0
+2018-10-09;Tue;Angebot zum Oktoberfest;Kartoffelpuffer mit Apfelmus ODER Radieschen-Kressequark;3,97;2,22;1
+2018-10-09;Tue;Angebot zum Oktoberfest;Topfenschmarrn mit Zwetschgenröster;3,97;2,22;1
+2018-10-09;Tue;Angebot zum Oktoberfest;Käsespätzle mit Gouda;3,97;2,22;1
+2018-10-09;Tue;Angebot zum Oktoberfest;Halbes Wiesnhendl;5,35;3,6;0
+2018-10-09;Tue;Angebot zum Oktoberfest;Grillhaxe;5,08;3,33;0
+2018-10-09;Tue;Angebot zum Oktoberfest;Schweinekrustenbraten;3,55;1,8;0
+2018-10-09;Tue;Angebot zum Oktoberfest;Weißwurst mit süßem Senf;3,95;2,2;0
+2018-10-09;Tue;Angebot zum Oktoberfest;Gebratener Leberkäse;3,25;1,5;0
+2018-10-09;Tue;Ofenfrisch;Brezenauflauf mit gebratenem Spinat und Gewürzschmand;3,17;2,07;1
+2018-10-09;Tue;Ofenfrisch;Flammkuchen mit Bauchspeck, roten Zwiebeln und Creme Fraiche;3,76;2,66;0
+2018-10-09;Tue;Oktoberfest-Beilagen;Semmelgröstl/ Kartoffelkroketten/ Spätzle/ Semmelgröstl/ Klöße/ Bratkartoffeln/ Spätzle/ Laugenbrezel;1,15;0,95;0
+2018-10-09;Tue;Oktoberfest-Beilagen;Bayrisch Kraut/ Apfelrotkohl/ Mischpilzpfanne/ Rahmwirsing/Bohnenpfanne;1,15;0,95;0
+2018-10-10;Wed;Angebot zum Oktoberfest;Maultaschen überbacken mit Tomate-Mozzarella auf Spinat-Käsesoße ODER Gratinierte Maultaschen auf Tomatenragout und Röstzwiebeln (vegan);4,55;2,8;0
+2018-10-10;Wed;Angebot zum Oktoberfest;Kartoffelpuffer mit Apfelmus ODER Radieschen-Kressequark;3,97;2,22;1
+2018-10-10;Wed;Angebot zum Oktoberfest;Topfenschmarrn mit Zwetschgenröster;3,97;2,22;1
+2018-10-10;Wed;Angebot zum Oktoberfest;Käsespätzle mit Gouda;3,97;2,22;1
+2018-10-10;Wed;Angebot zum Oktoberfest;Halbes Wiesnhendl;5,35;3,6;0
+2018-10-10;Wed;Angebot zum Oktoberfest;Grillhaxe;5,08;3,33;0
+2018-10-10;Wed;Angebot zum Oktoberfest;Schweinekrustenbraten;3,55;1,8;0
+2018-10-10;Wed;Angebot zum Oktoberfest;Weißwurst mit süßem Senf;3,95;2,2;0
+2018-10-10;Wed;Angebot zum Oktoberfest;Gebratener Leberkäse;3,25;1,5;0
+2018-10-10;Wed;Ofenfrisch;Brezenauflauf mit gebratenem Spinat und Gewürzschmand;3,17;2,07;1
+2018-10-10;Wed;Ofenfrisch;Flammkuchen mit Bauchspeck, roten Zwiebeln und Creme Fraiche;3,76;2,66;0
+2018-10-10;Wed;Oktoberfest-Beilagen;Semmelgröstl/ Kartoffelkroketten/ Spätzle/ Semmelgröstl/ Klöße/ Bratkartoffeln/ Spätzle/ Laugenbrezel;1,15;0,95;0
+2018-10-10;Wed;Oktoberfest-Beilagen;Bayrisch Kraut/ Apfelrotkohl/ Mischpilzpfanne/ Rahmwirsing/Bohnenpfanne;1,15;0,95;0
+2018-10-11;Thu;Angebot zum Oktoberfest;Überbackenes Semmel Gröstl mit Spinat - Käsesoße;3,97;2,22;0
+2018-10-11;Thu;Angebot zum Oktoberfest;Kartoffelpuffer mit Apfelmus ODER Radieschen-Kressequark;3,97;2,22;1
+2018-10-11;Thu;Angebot zum Oktoberfest;Topfenschmarrn mit Zwetschgenröster;3,97;2,22;1
+2018-10-11;Thu;Angebot zum Oktoberfest;Käsespätzle mit Gouda;3,97;2,22;1
+2018-10-11;Thu;Angebot zum Oktoberfest;Halbes Wiesnhendl;5,35;3,6;0
+2018-10-11;Thu;Angebot zum Oktoberfest;Grillhaxe;5,08;3,33;0
+2018-10-11;Thu;Angebot zum Oktoberfest;Schweinekrustenbraten;3,55;1,8;0
+2018-10-11;Thu;Angebot zum Oktoberfest;Weißwurst mit süßem Senf;3,95;2,2;0
+2018-10-11;Thu;Angebot zum Oktoberfest;Gebratener Leberkäse;3,25;1,5;0
+2018-10-11;Thu;Ofenfrisch;Brezenauflauf mit gebratenem Spinat und Gewürzschmand;3,17;2,07;1
+2018-10-11;Thu;Ofenfrisch;Flammkuchen mit Bauchspeck, roten Zwiebeln und Creme Fraiche;3,76;2,66;0
+2018-10-11;Thu;Oktoberfest-Beilagen;Semmelgröstl/ Kartoffelkroketten/ Spätzle/ Semmelgröstl/ Klöße/ Bratkartoffeln/ Spätzle/ Laugenbrezel;1,15;0,95;0
+2018-10-11;Thu;Oktoberfest-Beilagen;Bayrisch Kraut/ Apfelrotkohl/ Mischpilzpfanne/ Rahmwirsing/Bohnenpfanne;1,15;0,95;0
+2018-10-12;Fri;Angebot zum Oktoberfest;Mit Tomaten-Mozzarella überbackenes Semmel-Spinat-Gröstl oder Gratiniertes Semmel-Tomaten-Gröstl (vegan);3,97;2,22;1
+2018-10-12;Fri;Angebot zum Oktoberfest;Kartoffelpuffer mit Apfelmus ODER Radieschen-Kressequark;3,97;2,22;1
+2018-10-12;Fri;Angebot zum Oktoberfest;Topfenschmarrn mit Zwetschgenröster;3,97;2,22;1
+2018-10-12;Fri;Angebot zum Oktoberfest;Käsespätzle mit Gouda;3,97;2,22;1
+2018-10-12;Fri;Angebot zum Oktoberfest;Halbes Wiesnhendl;5,35;3,6;0
+2018-10-12;Fri;Angebot zum Oktoberfest;Grillhaxe;5,08;3,33;0
+2018-10-12;Fri;Angebot zum Oktoberfest;Schweinekrustenbraten;3,55;1,8;0
+2018-10-12;Fri;Angebot zum Oktoberfest;Weißwurst mit süßem Senf;3,95;2,2;0
+2018-10-12;Fri;Angebot zum Oktoberfest;Gebratener Leberkäse;3,25;1,5;0
+2018-10-12;Fri;Ofenfrisch;Brezenauflauf mit gebratenem Spinat und Gewürzschmand;3,17;2,07;1
+2018-10-12;Fri;Ofenfrisch;Flammkuchen mit Bauchspeck, roten Zwiebeln und Creme Fraiche;;;0
+2018-10-12;Fri;Oktoberfest-Beilagen;Semmelgröstl/ Kartoffelkroketten/ Spätzle/ Semmelgröstl/ Klöße/ Bratkartoffeln/ Spätzle/ Laugenbrezel;1,15;0,95;0
+2018-10-12;Fri;Oktoberfest-Beilagen;Bayrisch Kraut/ Apfelrotkohl/ Mischpilzpfanne/ Rahmwirsing/Bohnenpfanne;1,15;0,95;0
+2018-10-15;Mon;Angebote;Gebratene Hähnchenbrust mit Ricottahaube auf Geflügelrahmsoße, dazu Kartoffelkroketten und Salat;4,54;2,79;0
+2018-10-15;Mon;Angebote;Wirsingroulade mit Bayrischkraut und Schwenkkartoffeln;4,5;2,75;0
+2018-10-15;Mon;Angebote;"Möhren-Sesamschnitzel auf ""rahmigen"" Blattspinat, dazu Bratkartoffeln";4,3;2,55;1
+2018-10-15;Mon;Angebote;Krautnudeln mit Apfel, Walnüssen und getrockneten Tomaten, dazu Salat;4,0;2,25;2
+2018-10-15;Mon;Pasta;Lauch-Hackfleisch-Käsesoße;;;0
+2018-10-15;Mon;Pasta;Fruchtige Tomatensoße;;;2
+2018-10-15;Mon;Pasta;Pasta mit Rucolapesto;;;2
+2018-10-15;Mon;Ofenfrisch;Pizza Pulled Turkey;3,76;2,66;0
+2018-10-15;Mon;Tagessuppe;Käsesuppe;;;1
+2018-10-15;Mon;Tagessuppe;Paprikasuppe;;;2
+2018-10-16;Tue;Angebote;Panierte Scholle auf Balsamicolinsen und Meerrettichstampf;5,08;3,33;0
+2018-10-16;Tue;Angebote;Szegediner Gulasch mit Semmelgröstel, dazu Salat;4,24;2,49;0
+2018-10-16;Tue;Angebote;Gebratene Spätzle mit Gemüsestreifen, dazu eine feurige Käsesoße und Salat;4,0;2,25;1
+2018-10-16;Tue;Angebote;Gebratener Blumenkohl mit veganer Hollandaise, dazu Schwenkkartoffeln;4,44;2,69;2
+2018-10-16;Tue;Pasta;Pastasoße Napoli;;;2
+2018-10-16;Tue;Pasta;Pastasoße all'amatriciana mit Tomaten und Bauchspeck;;;0
+2018-10-16;Tue;Pasta;Pasta mit Rucolapesto;;;2
+2018-10-16;Tue;Ofenfrisch;Pizza Buscetta mit Rucola, marinierten Tomaten und gehobeltem Hartkäse;3,76;2,66;1
+2018-10-16;Tue;Tagessuppe;Kartoffelsuppe mit Wiener Würstchen;;;0
+2018-10-17;Wed;Angebote;Langos mit Knoblauchcreme oder Sauerrahm, dazu Gouda und Schinken;4,0;2,25;0
+2018-10-17;Wed;Angebote;Älpler Makkaroni mit Feldsalat;4,0;2,25;1
+2018-10-17;Wed;Angebote;Zucchini im Cornflakesmantel, dazu fruchtige Tomatensoße an Basmati Reis und Salat;4,19;2,44;2
+2018-10-17;Wed;Pasta;Tomatenratatouille;;;2
+2018-10-17;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-10-17;Wed;Pasta;Pasta mit Rucolapesto;;;2
+2018-10-17;Wed;Tagessuppe;Kartoffelsuppe mit Wiener Würstchen;;;0
+2018-10-18;Thu;Angebote;Schweineschnitzel mit Kartoffelecken;4,0;2,25;0
+2018-10-18;Thu;Angebote;Schnitzel mit Kräuter-Hartkäse-Panade, dazu eine pikante Tomatensalsa, Pommes frites und Salat;4,85;3,1;0
+2018-10-18;Thu;Angebote;Polenta-Pancakes auf Ratatouillegemüse, dazu Salat;4,0;2,25;1
+2018-10-18;Thu;Pasta;Pastasoße mit Tomate, Bauchspeck und Schinken;;;0
+2018-10-18;Thu;Pasta;Käsesoße Quattro formaggi;;;0
+2018-10-18;Thu;Pasta;Pasta mit Rucolapesto;;;2
+2018-10-18;Thu;Ofenfrisch;Pizza Pulled Pork;3,76;2,66;0
+2018-10-18;Thu;Ofenfrisch;Pizza Bruschetta mit Rucola, marinierten Tomaten und gehobeltem Hartkäse;3,76;2,66;1
+2018-10-18;Thu;Tagessuppe;Linseneintopf;;;1
+2018-10-18;Thu;Tagessuppe;Gulaschtopf;;;0
+2018-10-19;Fri;Angebote;Burger mit roten Zwiebeln, Tomate und Salat, dazu Twister;4,7;2,95;0
+2018-10-19;Fri;Angebote;Gekochte Eier mit Senfsoße und Petersilienkartoffeln, dazu Salat;4,0;2,25;1
+2018-10-19;Fri;Angebote;Gouda mit getrockneten Tomaten im Weizenfladen gebacken, dazu Salat;4,61;2,86;1
+2018-10-19;Fri;Pasta;Pastasoße mit Champignons und getrockneten Tomaten;;;2
+2018-10-19;Fri;Pasta;Ragù napoletano;;;0
+2018-10-19;Fri;Pasta;Pasta mit Rucolapesto;;;2
+2018-10-19;Fri;Ofenfrisch;Pizza Pulled Pork;3,76;2,66;0
+2018-10-19;Fri;Ofenfrisch;Pizza Bruschetta mit Rucola, marinierten Tomaten und gehobeltem Hartkäse;3,76;2,66;1
+2018-10-19;Fri;Tagessuppe;Asiatische Gemüsesuppe mit gebackenen Reisbällchen;;;2
+2018-10-22;Mon;Angebote;Gratinierte Hähnchenbrust mit Tomate und Mozzarella auf einer Weißweinsoße, dazu Pommes und Salat;4,9;3,15;0
+2018-10-22;Mon;Angebote;Mediterrane Hackfleischpfanne mit Fladenbrot und buntem Weißkrautsalat;4,65;2,9;0
+2018-10-22;Mon;Angebote;Kartoffelgnocchi mit Rucola und fruchtigem Tomatenragout;4,65;2,9;2
+2018-10-22;Mon;Angebote;Falafel mit Couscous, Tortilla-Chips, Joghurt-Dip und Salat;4,0;2,25;1
+2018-10-22;Mon;Pasta;Linsenbolognese;;;2
+2018-10-22;Mon;Pasta;Chili con carne;;;0
+2018-10-22;Mon;Pasta;Hausgemachte Pasta mit Tomatenpesto;;;2
+2018-10-22;Mon;Ofenfrisch;Pizza mit Hähnchenfleisch, Blattspinat und Creme fraiche;3,76;2,66;0
+2018-10-22;Mon;Ofenfrisch;Pizza Hellas mit Tomaten, Oliven, roten Zwiebeln und Hirtenkäse;3,76;2,66;1
+2018-10-22;Mon;Tagessuppe;Tomaten-Schinkensuppe;;;0
+2018-10-22;Mon;Tagessuppe;Käsesuppe;;;0
+2018-10-23;Tue;Angebote;Seelachsfilet mit Broccoliauflage, dazu Erbspüree und Salat;4,6;2,85;0
+2018-10-23;Tue;Angebote;Jägerschnitzel (panierte Jagdwurst) mit Bratensoße, buntem Gemüse und Kräuterkartoffeln;4,54;2,79;0
+2018-10-23;Tue;Angebote;Bratkartoffeln mit Tomate und Mozzarella, dazu Salat;4,0;2,25;1
+2018-10-23;Tue;Pasta;Tomatensoße mit Ricotta;;;1
+2018-10-23;Tue;Pasta;Pastasoße Carbonara;;;0
+2018-10-23;Tue;Pasta;Hausgemachte Pasta mit Tomatenpesto;;;2
+2018-10-23;Tue;Ofenfrisch;Pizza mit Hähnchenfleisch, Blattspinat und Creme fraiche;3,76;2,66;0
+2018-10-23;Tue;Ofenfrisch;Pizza Hellas mit Tomaten, Oliven, roten Zwiebeln und Hirtenkäse;3,76;2,66;1
+2018-10-23;Tue;Tagessuppe;Vegane Linsensuppe;;;2
+2018-10-24;Wed;Angebote;Frikadelle mit Speckbohnen und Kartoffelkroketten;4,84;3,09;0
+2018-10-24;Wed;Angebote;Bratkartoffeln mit Schinken und Ei, dazu Salat;4,39;2,64;0
+2018-10-24;Wed;Angebote;Hausgemachte Tofufrikadelle mit Zwiebel und Paprika an scharfer Letschosoße mit Stampfkartoffeln, dazu Salat;4,54;2,79;2
+2018-10-24;Wed;Angebote;Kartoffeln in Käsesoße mit mediterranem Pfannengemüse und Salat;4,43;2,68;1
+2018-10-24;Wed;Pasta;Sojabolognese;;;2
+2018-10-24;Wed;Pasta;Tomatensoße Bolognese;;;0
+2018-10-24;Wed;Pasta;Hausgemachte Pasta mit Tomatenpesto;;;2
+2018-10-24;Wed;Tagessuppe;Käsesuppe;;;1
+2018-10-25;Thu;Aktion zum Tschechischen Tag;Pilz-Ragout von Schwein, dazu gemischtes Gemüse und Pommes frites;4,48;2,73;0
+2018-10-25;Thu;Aktion zum Tschechischen Tag;Pflaumenknödel mit Semmelbutter und Mohn, dazu Apfelkompott;4,0;2,25;2
+2018-10-25;Thu;Pasta;Frischkäsesoße mit Austernpilzen;;;1
+2018-10-25;Thu;Pasta;Pusztasoße;;;0
+2018-10-25;Thu;Pasta;Hausgemachte Pasta mit Tomatenpesto;;;2
+2018-10-25;Thu;Ofenfrisch;Pizza mit Hähnchenfleisch, Blattspinat und Creme fraiche;3,76;2,66;0
+2018-10-25;Thu;Ofenfrisch;Pizza Hellas mit Tomaten, Oliven, roten Zwiebeln und Hirtenkäse;3,76;2,66;1
+2018-10-25;Thu;Tagessuppe;Tschechische Knoblauch-Käsesuppe;;;1
+2018-10-25;Thu;Tagessuppe;Veganes Chili mit buntem Gemüse;;;2
+2018-10-26;Fri;Angebote;Cheeseburger mit Eisbergsalat, roten Zwiebeln, Tomaten und Cheddar, dazu Pommes frites;5,08;3,33;0
+2018-10-26;Fri;Angebote;Tiegelwurst mit Sauerkraut und Schnittlauchkartoffeln;4,0;2,25;0
+2018-10-26;Fri;Angebote;Süßkartoffel-Kokoscurry mit Gemüsebulgur und Salat;4,2;2,45;2
+2018-10-26;Fri;Angebote;Kartoffelpuffer Gärtnerin mit Apfelmus oder Kräuterquark, dazu Salat;4,09;2,34;1
+2018-10-26;Fri;Pasta;Ricotta-Spinatsoße;;;1
+2018-10-26;Fri;Pasta;Schweinegeschnetzeltes Jäger Art;;;0
+2018-10-26;Fri;Pasta;Hausgemachte Pasta mit Tomatenpesto;;;2
+2018-10-26;Fri;Ofenfrisch;Pizza mit Hähnchenfleisch, Blattspinat und Creme fraiche;3,76;2,66;0
+2018-10-26;Fri;Ofenfrisch;Pizza Hellas mit Tomaten, Oliven, roten Zwiebeln und Hirtenkäse;3,76;2,66;1
+2018-10-26;Fri;Tagessuppe;Chili con Carne;;;0
+2018-10-26;Fri;Tagessuppe;Kartoffel-Käsesuppe mit gebratener Zucchini;;;1
+2018-10-29;Mon;Angebote;Quark-Frikadellen mit Schwarzwurzel-Rahmgemüse und Bratkartoffeln;4,47;2,72;0
+2018-10-29;Mon;Angebote;Gratinierte Hähnchenbrust auf Blattspinat mit Herzoginkartoffeln;4,64;2,89;0
+2018-10-29;Mon;Angebote;Graupenrisotto mit Gemüse, dazu kleine frittierte Teigtaschen und Salat -auch vegan erhältlich-;4,12;2,37;0
+2018-10-29;Mon;Pasta;Knoblauchsoße mit Hackfleisch und Kirschtomaten;;;0
+2018-10-29;Mon;Pasta;Pilz-Auberginen-Sugo;;;2
+2018-10-29;Mon;Pasta;Hausgemachte Pasta mit Spinatpesto;;;1
+2018-10-30;Tue;Angebote;Seelachs in Kartoffelpanade mit Zitronen-Pfeffer-Dip, Pommes frites und Salat;5,08;3,33;0
+2018-10-30;Tue;Angebote;Kartoffelpuffer mit Apfelmus oder Kräuterquarkdip;4,0;2,25;1
+2018-10-30;Tue;Angebote;Couscous-Karottenfrikadelle mit Meerrettich-Kresse-Dip und Ofengemüse;4,0;2,25;1
+2018-10-30;Tue;Pasta;Hausgemachte Pasta mit Spinatpesto;;;1
+2018-10-30;Tue;Pasta;Fruchtige Tomatensoße;;;2
+2018-10-30;Tue;Pasta;Pastasoße mit Bauchspeck und Kirschtomaten;;;0
+2018-10-30;Tue;Pasta;Tomatensoße mit Ricotta;;;1
+2018-10-30;Tue;Tagessuppe;Gräupcheneintopf;;;0
+2018-10-30;Tue;Tagessuppe;Käsesuppe;;;0
+2018-11-01;Thu;Angebote;Schweineschnitzel mit Pommes frites;4,0;2,25;0
+2018-11-01;Thu;Angebote;Schnitzel in Tortilla-Chipspanade, dazu pikante Tomatensalsa und Pommes frites;5,08;3,33;0
+2018-11-01;Thu;Angebote;Szegediner Sojagulasch mit Kartoffelklößen und Salat;4,14;2,39;2
+2018-11-01;Thu;Pasta;Feurige Käsesoße;;;0
+2018-11-01;Thu;Pasta;Wurstgulasch;;;0
+2018-11-01;Thu;Pasta;Pasta mit Spinatpesto;;;1
+2018-11-01;Thu;Tagessuppe;Hackfleisch-Bauerntopf;;;0
+2018-11-01;Thu;Tagessuppe;Tomatensuppe;;;2
+2018-11-02;Fri;Angebote;Chicken Burger mit Tomate-Mozzarella, Rucola und Basilikummayonaise, dazu Pommes frites;5,74;3,99;0
+2018-11-02;Fri;Angebote;Seitan-Döner mit Eisbergsalat, Rotkohl, Weißkraut, Gurke, Tomate, rote Zwiebeln (A, A1, F, K);4,74;2,99;2
+2018-11-02;Fri;Angebote;Buntes Gemüsecurry mit Steckrüben, Erbsen und Karotten an Gnocchi, dazu Salat;4,6;2,85;2
+2018-11-02;Fri;Angebote;Milchgrieß mit Zimt und Zucker, dazu Beerenkompott (auch vegan möglich);3,95;2,2;1
+2018-11-02;Fri;Pasta;Pasta mit Spinatpesto;;;1
+2018-11-02;Fri;Pasta;Gulaschsoße;;;0
+2018-11-02;Fri;Pasta;Soße alla sicilliana;;;1
+2018-11-02;Fri;Ofenfrisch;Gefülltes Handbrot mit Champignons, Paprika und Käse, dazu Frischkäse-Kräuter-Dip;3,76;2,66;1
+2018-11-02;Fri;Ofenfrisch;Flammkuchen mit Schmand, Bauchspeck und Lauch;3,76;2,66;0
+2018-11-02;Fri;Tagessuppe;Champignoncremesuppe mit Bacon;;;0
+2018-11-02;Fri;Tagessuppe;Scharfe Käsesuppe;;;0
+2018-11-05;Mon;Angebote;Zitronenhühnchen mit Tomatenconfit und Romanesco, dazu Schwenkkartoffeln;4,97;3,22;0
+2018-11-05;Mon;Angebote;Kartoffel-Frischkäsetaschen mit buntem Gemüse;4,64;2,89;1
+2018-11-05;Mon;Pasta;Paprika-Champignonrahmsoße mit Ajvar;;;1
+2018-11-05;Mon;Pasta;Griechische Hackfleischsoße;;;0
+2018-11-05;Mon;Pasta;Pasta mit Kräuterpesto;;;2
+2018-11-05;Mon;Ofenfrisch;Pizza mit BBQ-Hühnchen, Paprika und Mais;;;0
+2018-11-05;Mon;Ofenfrisch;Pizza mit Blattspinat, Hirtenkäse und roten Zwiebeln;;;1
+2018-11-05;Mon;Tagessuppe;Curry-Kartoffelsuppe;;;2
+2018-11-05;Mon;Tagessuppe;Karotten-Kokossuppe;;;2
+2018-11-06;Tue;Angebote;Gebackene Scholle mit Remouladensoße und Bratkartoffeln;4,87;3,12;0
+2018-11-06;Tue;Angebote;Grillwürstchen mit Letscho und Pommes Twister, dazu Salat;4,3;2,55;0
+2018-11-06;Tue;Angebote;Austernpilze und Champignons in Rahmsoße mit Kartoffelrösti und Salat;4,52;2,77;2
+2018-11-06;Tue;Angebote;Gebackener Hirtenkäse mit Zitronen-Linsen-Couscous, dazu Paprikacreme und Salat;5,3;3,55;1
+2018-11-06;Tue;Pasta;Tomatensoße mit schwarzen Oliven;;;1
+2018-11-06;Tue;Pasta;Pastasoße mit Bauchspeck und Spinat;;;0
+2018-11-06;Tue;Pasta;Pasta mit Kräuterpesto;;;2
+2018-11-06;Tue;Ofenfrisch;Pizza mit BBQ-Hühnchen, Paprika und Mais;3,76;2,66;0
+2018-11-06;Tue;Ofenfrisch;Pizza mit Blattspinat, Hirtenkäse und roten Zwiebeln;3,76;2,66;1
+2018-11-06;Tue;Tagessuppe;Paprika-Champignonrahmsuppe;;;1
+2018-11-06;Tue;Tagessuppe;Tomaten-Mangosuppe;;;2
+2018-11-07;Wed;Angebote;Gebackene Hähnchenbrust mit Ananas, Zucchini und Ingwer, dazu Mie Nudeln;5,08;3,33;0
+2018-11-07;Wed;Angebote;Rinderragout mit Champignons und Mischpilzen an gebratenen Spätzle mit Gemüsestreifen, dazu Salat;4,6;2,85;0
+2018-11-07;Wed;Angebote;Schwenkkartoffeln mit grüner Soße, dazu Rote Bete-Birnensalat mit gerösteten Kürbiskernen;4,0;2,25;1
+2018-11-07;Wed;Pasta;Quorn-Gulaschsoße;;;1
+2018-11-07;Wed;Pasta;Bolognese;;;0
+2018-11-07;Wed;Pasta;Pasta mit Kräuterpesto;;;2
+2018-11-07;Wed;Ofenfrisch;Pizza mit BBQ-Hühnchen, Paprika und Mais;3,76;2,66;0
+2018-11-07;Wed;Ofenfrisch;Pizza mit Blattspinat, Hirtenkäse und roten Zwiebeln;3,76;2,66;1
+2018-11-07;Wed;Tagessuppe;Broccoli-Baconsuppe;;;0
+2018-11-07;Wed;Tagessuppe;Maiscremesuppe;;;2
+2018-11-08;Thu;Angebote;Schweinesteak Strindberg mit Pommes frites und Salat;4,46;2,71;0
+2018-11-08;Thu;Angebote;Schweineschnitzel mit Pommes frites;4,0;2,25;0
+2018-11-08;Thu;Angebote;Rotes Linsencurry mit Naan-Brot und Salat;4,09;2,34;2
+2018-11-08;Thu;Pasta;Linsencurry;;;2
+2018-11-08;Thu;Pasta;Fruchtige Tomatensoße mit Schinken, Salami, Champignons und Paprika;;;0
+2018-11-08;Thu;Pasta;Pasta mit Kräuterpesto;;;2
+2018-11-08;Thu;Tagessuppe;Maiscremesuppe;;;2
+2018-11-08;Thu;Tagessuppe;Steckrüben-Baconsuppe;;;0
+2018-11-09;Fri;Angebote;Italian Style Burger mit Rindfleisch, Serranoschinken, Rucola, Tomaten, roten Zwiebeln und Hirtenkäse-Paprikacreme, dazu Pommes frites;5,3;3,55;0
+2018-11-09;Fri;Angebote;Rahmspinat mit Rührei und Petersilienkartoffeln;4,1;2,35;1
+2018-11-09;Fri;Angebote;Steckrüben-Karottenragout mit Curry und Limette, dazu Petersiliengnocchi oder Couscous und Salat;4,62;2,87;2
+2018-11-09;Fri;Angebote;Milchreis mit Erdbeeren und Zucker-Zimt;3,82;2,07;2
+2018-11-09;Fri;Pasta;Tomatensoße mit gegrillter Zucchini;;;2
+2018-11-09;Fri;Pasta;Fruchtiges Hähnchencurry;;;0
+2018-11-09;Fri;Pasta;Pasta mit Kräuterpesto;;;2
+2018-11-09;Fri;Tagessuppe;Rotes Linsensüppchen;;;2
+2018-11-12;Mon;Angebote;Paprikaschote mediterran mit Hackfleisch, Oliven und Hirtenkäse gefüllt dazu Tomatensoße, und Reis-Linsenmischung;4,47;2,72;0
+2018-11-12;Mon;Angebote;Gebratene Hähnchenbrust auf Kohlrabi-Möhrengemüse, dazu Pommes frites;4,62;2,87;0
+2018-11-12;Mon;Angebote;Scharfes Kartoffel-Kürbiscurry mit gemischtem Wildreis und Salat;4,0;2,25;2
+2018-11-12;Mon;Angebote;Vegetarische Maultaschen auf Paprikakraut, dazu geriebener Gouda;4,38;2,63;1
+2018-11-12;Mon;Pasta;Pastasoße Vesuvianna mit Tomaten, Oliven und Karpern;;;2
+2018-11-12;Mon;Pasta;Tomatensoße mit Schinken und Hackfleisch;;;0
+2018-11-12;Mon;Pasta;Pasta mit Basilkumpesto;;;2
+2018-11-12;Mon;Tagessuppe;Steckrüben-Karottensuppe;;;2
+2018-11-13;Tue;Angebote;Seelachsfilet in Kartoffelpanade, dazu Gurken in Dijon-Senfrahm und Basmati Reis;4,55;2,8;0
+2018-11-13;Tue;Angebote;Frikadelle oder Jägerschnitzel mit Sauerkraut und Kartoffelpüree;4,34;2,59;0
+2018-11-13;Tue;Angebote;Gebratene Salbei-Gnocchi mit Tomaten-Zucchiniragout und Salat;4,54;2,79;2
+2018-11-13;Tue;Angebote;Bauernfrühstück mit Bohnensalat;4,0;2,25;1
+2018-11-13;Tue;Pasta;Pastasoße all arrabiata;;;2
+2018-11-13;Tue;Pasta;Schinken-Sahnesoße mit Erbsen;;;0
+2018-11-13;Tue;Pasta;Pasta mit Basilkumpesto;;;2
+2018-11-13;Tue;Ofenfrisch;Pizza Fitness mit Blattspinat, Broccoli, Ei und Hirtenkäse;;;1
+2018-11-13;Tue;Tagessuppe;Kohlrabi- Möhrensuppe;;;1
+2018-11-13;Tue;Tagessuppe;Krauteintopf mit Bauchspeck und Paprika;;;0
+2018-11-14;Wed;Angebote;Geflügelfrikassee, dazu Fingermöhren und Reis oder Kartoffeln;4,0;2,25;0
+2018-11-14;Wed;Angebote;Ofenkartoffel mit Radieschen-Kressequark und Gurkensalat;3,85;2,1;1
+2018-11-14;Wed;Pasta;Pastasoße Bolognese;;;0
+2018-11-14;Wed;Pasta;Gemüsebolognese;;;2
+2018-11-14;Wed;Pasta;Pasta mit Basilkumpesto;;;2
+2018-11-14;Wed;Tagessuppe;Grüne Erbsencremesuppe mit Schinkenwürfeln;;;0
+2018-11-15;Thu;Angebote;Halbes Hähnchen mit Pommes frites;4,74;2,99;0
+2018-11-15;Thu;Angebote;Gemischtes Pilzragout mit kleinen Kartoffelklößen und Salat;4,22;2,47;2
+2018-11-15;Thu;Pasta;Tomatensoße mit Jagdwurst und Schmorkraut;;;0
+2018-11-15;Thu;Pasta;Rahmsoße mit gemischten Pilzen und Zucchini;;;0
+2018-11-15;Thu;Pasta;Pasta mit Basilkumpesto;;;2
+2018-11-15;Thu;Tagessuppe;Geflügelcremesuppe;;;0
+2018-11-15;Thu;Tagessuppe;Sächsische Kartoffelsuppe;;;0
+2018-11-16;Fri;Angebote;Angus Burger mit roten Zwiebeln, Tomaten und Gurken, dazu Pommes frites;6,19;4,44;0
+2018-11-16;Fri;Angebote;Sülze vom Dürrröhrsdorfer Fleischer mit Remouladensoße und Bratkartoffeln, dazu bunter Eisbergsalat;4,0;2,25;0
+2018-11-16;Fri;Angebote;Gebackene Kartoffel gefüllt mit Pilzen, Kräutern und Polenta auf Tomatenragout, dazu Salat;4,24;2,49;2
+2018-11-16;Fri;Angebote;Topfenschmarrn mit Apfelmus;4,24;2,49;1
+2018-11-16;Fri;Pasta;Rindergeschnetzeltes mit Gorgonzola;;;0
+2018-11-16;Fri;Pasta;Tomatensoße mit Austernpilzen;;;2
+2018-11-16;Fri;Pasta;Pasta mit Basilkumpesto;;;2
+2018-11-16;Fri;Tagessuppe;Pilzrahmsuppe;;;0
+2018-11-16;Fri;Tagessuppe;Sächsische Kartoffelsuppe;;;2
+2018-11-19;Mon;Angebote;Gratinierte Hähnchenbrust mit Tomate und Mozzarella auf Tomaten-Paprikaragout, dazu Herzoginkartoffeln;4,74;2,99;0
+2018-11-19;Mon;Angebote;Kohlroulade oder Wirsingkohlroulade in deftiger Bratensoße, dazu Kräuterkartoffeln;4,0;2,25;0
+2018-11-19;Mon;Angebote;Gemüsefrikadelle mit Ananas gratiniert, dazu fruchtige Currysoße und Schupfnudeln;4,4;2,65;1
+2018-11-19;Mon;Angebote;Arabisches Linsencurry mit Gemüse-Teigtaschen und mariniertem Feldsalat;4,4;2,65;2
+2018-11-19;Mon;Pasta;Lauch-Hackfleisch-Käsesoße;;;0
+2018-11-19;Mon;Pasta;Fruchtige Tomatensoße;;;2
+2018-11-19;Mon;Pasta;Rucolapesto;;;2
+2018-11-19;Mon;Ofenfrisch;Auflauf mit Hähnchenbruststreifen in Curryrahm und Kartoffeln mit Gouda gratiniert;3,17;2,07;0
+2018-11-19;Mon;Tagessuppe;Kartoffelsuppe mit Bauchspeck;;;0
+2018-11-20;Tue;Angebote;Sauerbraten mit Apfelrotkohl und Kartoffelklöße oder Kartoffeln;4,8;3,05;0
+2018-11-20;Tue;Angebote;Knuspriges Sellerieschnitzel mit Apfel-Meerrettich-Dip, dazu Kartoffel-Maronenpüree oder Kartoffelpüree klassisch;4,22;2,47;1
+2018-11-20;Tue;Angebote;Chili sin Carne mit Kräuterreis und Salat;3,75;2,0;2
+2018-11-20;Tue;Pasta;Pastasoße all` amatriciana;;;0
+2018-11-20;Tue;Pasta;Pastasoße Napoli;;;0
+2018-11-20;Tue;Pasta;Rucolapesto;;;2
+2018-11-20;Tue;Tagessuppe;Hackfleisch-Lauchsuppe;;;0
+2018-11-22;Thu;Angebote;Schweineschnitzel mit Zwiebelpanade, dazu Pommes frites;4,0;2,25;0
+2018-11-22;Thu;Angebote;Schweinerücken-Steak mit Barbecue Soße, dazu gebackene Kartoffelecken und Salat;4,74;2,99;0
+2018-11-22;Thu;Angebote;Sojageschnetzeltes mit Paprika und Oliven, dazu Tsatsiki, bunter Weißkrautsalat und Djuvec-Reis;4,27;2,52;2
+2018-11-22;Thu;Pasta;Mailänder Pastasoße;;;0
+2018-11-22;Thu;Pasta;Pastasoße Quattro formaggi;;;0
+2018-11-22;Thu;Pasta;Rucolapesto;;;2
+2018-11-22;Thu;Ofenfrisch;Pizza Cheeseburger-Style;3,76;2,66;0
+2018-11-22;Thu;Ofenfrisch;Pizza Caprese;3,76;2,66;1
+2018-11-22;Thu;Tagessuppe;Sellerie-Apfelcremesuppe;;;1
+2018-11-22;Thu;Tagessuppe;Kokos-Mango-Maissuppe;;;2
+2018-11-23;Fri;Angebote;Pulled Beef Burger mit Cole Slaw Salat und Pommes frites;5,7;3,95;0
+2018-11-23;Fri;Angebote;Lammragout mit dreierlei Bohnen und Hefeknödeln oder Langkornreis;5,3;3,55;0
+2018-11-23;Fri;Angebote;Rahmspinat mit wahlweise Käse oder Tomatenrührei und Kartoffeln;4,0;2,25;1
+2018-11-23;Fri;Angebote;Mediterranes Pfannengemüse mit Aioli , dazu Gnocchi und Salat;4,57;2,82;2
+2018-11-23;Fri;Pasta;Pastasoße mit Champignons und getrockneten Tomaten;;;1
+2018-11-23;Fri;Pasta;Rucolapesto;;;2
+2018-11-23;Fri;Pasta;Ragu` napolitano;;;0
+2018-11-23;Fri;Ofenfrisch;Pizza Caprese;3,76;2,66;1
+2018-11-23;Fri;Ofenfrisch;Pizza Cheeseburger-Style;3,76;2,66;0
+2018-11-23;Fri;Tagessuppe;Sellerie-Apfelcremesuppe;;;1
+2018-11-23;Fri;Tagessuppe;Maronen-Käsesuppe;;;0
+2018-11-26;Mon;Angebote;Hacksteak vom Schwein mit kräftiger Bratensoße, dazu Broccoli und Schnittlauchkartoffeln;4,0;2,25;0
+2018-11-26;Mon;Angebote;Griechische Bratkartoffeln mit Tsatsiki und Gurkensalat;4,0;2,25;1
+2018-11-26;Mon;Angebote;Seitangulasch mit Apfelrotkohl und kleinen Kartoffelklößen;4,22;2,47;2
+2018-11-26;Mon;Pasta;Chili con carne;;;0
+2018-11-26;Mon;Pasta;Linsenbolognese;;;2
+2018-11-26;Mon;Pasta;Tomatenpesto;;;2
+2018-11-26;Mon;Ofenfrisch;Pizza mit Hähnchenfleisch, Blattspinat und Creme fraiche;3,76;2,66;0
+2018-11-26;Mon;Ofenfrisch;Pizza mit Tomaten, Oliven, roten Zwieblen und Hirtenkäse;3,76;2,66;1
+2018-11-26;Mon;Tagessuppe;Soljanka;;;0
+2018-11-26;Mon;Tagessuppe;Pilzcremesuppe;;;1
+2018-11-27;Tue;Angebote;Gebackene Scholle mit Kartoffel-Selleriepüree und Erbsen;5,08;3,33;0
+2018-11-27;Tue;Angebote;Vegetarische Köttbullar mit Couscous und Chili-Dip, dazu Salat;4,0;2,25;1
+2018-11-27;Tue;Pasta;Tomatenpesto;;;2
+2018-11-27;Tue;Pasta;Pastasoße Carbonara;;;0
+2018-11-27;Tue;Pasta;Tomatensoße mit Mozzarella;;;1
+2018-11-27;Tue;Ofenfrisch;Pizza mit Tomaten, Oliven, roten Zwieblen und Hirtenkäse;3,76;2,66;1
+2018-11-27;Tue;Tagessuppe;Sellerie-Kokossuppe;;;2
+2018-11-28;Wed;Angebote;"Rindergeschnetzeltes a la ""Stroganoff"" mit Grilltomate und Basmati Reis";4,7;2,95;0
+2018-11-28;Wed;Angebote;Blumenkohl in Semmelbutter mit Kräuterhollandaise und Salzkartoffeln;4,24;2,49;1
+2018-11-28;Wed;Angebote;Rucola-Süßkartoffelschnitte auf Kürbis-Tomatengemüse, dazu Apfel-Möhrensalat;4,0;2,25;2
+2018-11-28;Wed;Pasta;Soja-Bolognese;;;2
+2018-11-28;Wed;Pasta;Pastasoße Bolognese;;;0
+2018-11-28;Wed;Pasta;Tomatenpesto;;;2
+2018-11-28;Wed;Tagessuppe;Paprika-Currysuppe;;;1
+2018-11-29;Thu;Angebote;Schweineschnitzel mit Pommes frites und Zitronenecke;4,0;2,25;0
+2018-11-29;Thu;Angebote;Gebratene Rosmarinpolenta mit Antipasti und Salat;4,0;2,25;2
+2018-11-29;Thu;Pasta;Tomatenpesto;;;2
+2018-11-29;Thu;Pasta;Pusztasoße;;;0
+2018-11-29;Thu;Pasta;Frischkäse mit Austernpilzen;;;1
+2018-11-29;Thu;Tagessuppe;Blumenkohl-Lauchcremesuppe;;;1
+2018-11-30;Fri;Angebote;Cheeseburger mit Pommes frites oder Süßkartoffelfritten;5,08;3,33;0
+2018-11-30;Fri;Angebote;Buntes Eierragout mit viel Gemüse, dazu Petersilienkartoffeln;4,0;2,25;1
+2018-11-30;Fri;Angebote;"Sanny Veggi Burger mit Ananas-"" Mayonnaise"" dazu Pommes frites";5,08;3,33;2
+2018-11-30;Fri;Pasta;Tomatenpesto;;;2
+2018-11-30;Fri;Pasta;Schweinegeschnetzeltes Jäger-Art;;;0
+2018-11-30;Fri;Pasta;Ricotta-Spinatsoße;;;1
+2018-11-30;Fri;Tagessuppe;Fruchtige Möhrencremesuppe;;;1
+2018-11-30;Fri;Tagessuppe;Pilzrahmsuppe mit Käse;;;1
+2018-12-03;Mon;Angebote;Gebackene Chicken Crossies mit Mango-Chili-Dip, dazu Kartoffelecken und Rucola;4,6;2,85;0
+2018-12-03;Mon;Angebote;Mini Klößchen auf Gemüse in Kräuterrahm;4,54;2,79;1
+2018-12-03;Mon;Pasta;Pilz-Auberginen-Sugo;;;2
+2018-12-03;Mon;Pasta;Pastasoße mit Hackfleisch und Kirschtomate;;;0
+2018-12-03;Mon;Pasta;Spinatpesto;;;1
+2018-12-03;Mon;Ofenfrisch;Pizza Hawaii mit Kochschinken und Ananas;3,74;2,66;0
+2018-12-03;Mon;Ofenfrisch;Pizza Quattro formaggi mit Cheddar,Gouda, Hirtenkäse und Mozzarella;3,74;2,66;1
+2018-12-03;Mon;Tagessuppe;Tomatensuppe;;;2
+2018-12-03;Mon;Tagessuppe;Düsseldorfer Senfsuppe;;;1
+2018-12-04;Tue;Angebote;Gebackenes Seelachsfilet mit Spinat-Käsefüllung auf Möhrenrisotto mit Kürbiskernen und Salat;5,14;3,39;0
+2018-12-04;Tue;Angebote;Schweinekeulenbraten in Biersoße, dazu Bayrischkraut und Semmelknödel oder Petersilienkartoffeln;4,24;2,49;0
+2018-12-04;Tue;Angebote;Möhrenköfte mit Aprikosen, dazu Hummus und Tomatenreis;4,0;2,25;2
+2018-12-04;Tue;Pasta;"Tomatensoße mit veganem ""Ricotta""";;;2
+2018-12-04;Tue;Pasta;Pastasoße mit Bauchspeck und Champignons;;;0
+2018-12-04;Tue;Pasta;Spinatpesto;;;1
+2018-12-04;Tue;Ofenfrisch;Pizza Hawaii mit Kochschinken und Ananas;3,74;2,66;0
+2018-12-04;Tue;Ofenfrisch;Pizza Quattro formaggi mit Cheddar,Gouda, Hirtenkäse und Mozzarella;3,74;2,66;1
+2018-12-04;Tue;Tagessuppe;Spinat-Käsesuppe;;;1
+2018-12-04;Tue;Tagessuppe;Hackfleisch-Tomatensuppe;;;0
+2018-12-05;Wed;Angebote;Hähnchengyros mit Tsatsiki, dazu bunter Weißkrautsalat und Fladenbrot;4,67;2,95;0
+2018-12-05;Wed;Angebote;Mariniertes Tofu-Steak auf buntem Sesam-Glasnudelsalat, oder Kartoffel-Gurkensalat;4,42;2,67;2
+2018-12-05;Wed;Pasta;Chili sin carne;;;2
+2018-12-05;Wed;Pasta;Bolognese;;;0
+2018-12-05;Wed;Pasta;Spinatpesto;;;1
+2018-12-05;Wed;Tagessuppe;Champignonsuppe mit Bauchspeck;;;0
+2018-12-06;Thu;Angebote;Schweinerückensteak in Käse-Eihülle mit Erbsen und Kartoffelgratin;4,74;2,99;0
+2018-12-06;Thu;Angebote;Gebackene Champignons auf Süßkartoffelpüree, dazu bunter Eisbergsalat;4,74;2,99;2
+2018-12-06;Thu;Pasta;Chili sin carne;;;2
+2018-12-06;Thu;Pasta;Feurige Käsesoße;;;0
+2018-12-06;Thu;Pasta;Wurstgulasch;;;0
+2018-12-06;Thu;Pasta;Spinatpesto;;;1
+2018-12-06;Thu;Ofenfrisch;Pizza Quattro formaggi mit Cheddar,Gouda, Hirtenkäse und Mozzarella;3,74;2,66;1
+2018-12-06;Thu;Tagessuppe;Asiatische Gemüsesuppe;;;2
+2018-12-07;Fri;Angebote;Italian-Style Burger mit Rindfleisch, Serrano Schinken, Rucola, Tomaten, roten Zwiebeln und Hirtenkäse, dazu Pommes frites;5,3;3,55;0
+2018-12-07;Fri;Angebote;Norddeutscher Herings-Stip mit Bratkartoffeln und Möhrensalat;4,64;2,89;0
+2018-12-07;Fri;Angebote;Gebackene Camembert-Ecken mit Preiselbeer-Dip, Schwenkkartoffeln und Feldsalat;4,64;2,89;1
+2018-12-07;Fri;Angebote;Gemüsecurry in scharfer Kokossoße, dazu Couscous und gebackene Banane;4,0;2,25;2
+2018-12-07;Fri;Pasta;Pastasoße alla sicilliana;;;0
+2018-12-07;Fri;Pasta;Spinatpesto;;;1
+2018-12-07;Fri;Pasta;Gulaschsoße;;;0
+2018-12-07;Fri;Ofenfrisch;Pizza Quattro formaggi mit Cheddar,Gouda, Hirtenkäse und Mozzarella;3,74;2,66;1
+2018-12-10;Mon;Angebote;"Hähnchenbrustfilet ""Napoli"" auf Tomatenspaghetti";4,46;2,71;0
+2018-12-10;Mon;Angebote;Wirsingroulade in kräftiger Bratensoße, dazu Karottengemüse und Schwenkkartoffeln;4,37;2,62;0
+2018-12-10;Mon;Angebote;Gebratene Gnocchi mit Spinat-Käsesoße und Tomatensalat;4,3;2,55;0
+2018-12-10;Mon;Angebote;Gebratener Mandeltofu mit Chili-Dip und Kokosreis;4,5;2,75;2
+2018-12-10;Mon;Pasta;Paprika-Champignonrahmsoße mit Ajvar;;;1
+2018-12-10;Mon;Pasta;Griechische Hackfleischsoße;;;0
+2018-12-10;Mon;Pasta;9-Kräuterpesto;;;2
+2018-12-11;Tue;Angebote;Wildschweingulasch mit Backpflaumen, Äpfeln und Maronen, dazu Prinzessbohnen und Semmelgröstl;5,74;3,99;0
+2018-12-11;Tue;Angebote;Paniertes Schollenfilet mit Kräuterbutter, Kartoffelpüree und Gurkensalat;5,08;3,33;0
+2018-12-11;Tue;Angebote;Kräuterquark mit Kartoffeln, Leberwurst, Butter und Gewürzgurke wahlweise auch vegane Leberwurst;4,0;2,25;0
+2018-12-11;Tue;Angebote;Paniertes Sojaschnitzel mit Cremechampignons und Pommes frites;4,49;2,74;2
+2018-12-11;Tue;Pasta;Tomatensoße mit Hirtenkäse;;;1
+2018-12-11;Tue;Pasta;Pastasoße mit Bauchspeck und Spinat;;;0
+2018-12-11;Tue;Pasta;9-Kräuterpesto;;;2
+2018-12-12;Wed;Angebote;Geschmorter Hirschkeulenbraten, dazu Speckrosenkohl oder Romanesco und Mandelkroketten;5,74;3,99;0
+2018-12-12;Wed;Angebote;Putengeschnetzeltes Züricher Art mit Röstitalern und Salat;4,54;2,79;0
+2018-12-12;Wed;Angebote;Gekochte Eier mit Remouladensoße, Bratkartoffeln und Salat;4,0;2,25;1
+2018-12-12;Wed;Angebote;Blumenkohl und Wurzelgemüse in Kräuterrahm mit Schwenkkartoffeln und Salat;4,54;2,79;2
+2018-12-12;Wed;Pasta;Quorn-Gulaschsoße;;;1
+2018-12-12;Wed;Pasta;Pastasoße Bolognese;;;0
+2018-12-12;Wed;Pasta;9-Kräuterpesto;;;2
+2018-12-13;Thu;Angebote;Knusprige Entenkeule in Orangensoße mit Preiselbeerrotkohl und gefüllten Klößen;5,74;3,99;0
+2018-12-13;Thu;Angebote;Schweineschnitzel mit Zitronenecke und Pommes frites;4,0;2,25;0
+2018-12-13;Thu;Angebote;Zwei Erbsen-Quinoamedaillons mit Curry-Apfelsoße, dazu Kartoffel-Linsenstampf und Salat;4,9;3,15;2
+2018-12-13;Thu;Pasta;Linsencurry;;;2
+2018-12-13;Thu;Pasta;fruchtige Tomatensoße mit Schinken, Salami, Champignons und Paprika;;;0
+2018-12-13;Thu;Pasta;9-Kräuterpesto;;;2
+2018-12-14;Fri;Angebote;Zelt Burger (Frikadelle mit krossem Bacon, roten Zwiebeln, Tomaten, Edamer und Salat), dazu Twister;5,08;3,33;0
+2018-12-14;Fri;Angebote;Entenbrust in Lebkuchenkruste mit Vanillespitzkohl und Macairekartoffeln;5,74;3,99;0
+2018-12-14;Fri;Angebote;Weihnachtsschmarrn mit Mandeln, Nüssen und Rosinen, dazu Zimtpflaumen;4,63;2,88;1
+2018-12-14;Fri;Angebote;Austernpilzschnitzelchen mit Kräuter-Dip dazu Röstitaler und Feldsalat mit Himbeerdressing;4,77;3,02;2
+2018-12-14;Fri;Pasta;9-Kräuterpesto;;;2
+2018-12-14;Fri;Pasta;Tomatensoße mit gegrillter Zucchini;;;1
+2018-12-14;Fri;Pasta;fruchtiges Hähnchencurry;;;0
+2018-12-17;Mon;Angebote;Hähnchenbrustschnitzel mit Tomaten-Gnocchi und Rucola-Salat;4,73;2,98;0
+2018-12-17;Mon;Angebote;Krautnudeln mit Hackfleisch, dazu geriebener Gouda;4,0;2,25;0
+2018-12-17;Mon;Angebote;Polenta-Käseschnitte mit scharfer Tomatensalsa und Bratkartoffeln;4,54;2,79;1
+2018-12-17;Mon;Angebote;Graupenrisotto mit zwei Rote Bete-Schnitzeln und Meerrettich-Dip;4,54;2,79;2
+2018-12-17;Mon;Pasta;Pastasoße mit Tomaten, Oliven und Kapern;;;0
+2018-12-17;Mon;Pasta;Tomatensoße mit Schinken und Hackfleisch;;;0
+2018-12-17;Mon;Pasta;Basilikumpesto;;;2
+2018-12-17;Mon;Ofenfrisch;Pizza Kapstadt mit Wiener, Gewürzgurke und Röstzwiebeln;;;0
+2018-12-17;Mon;Ofenfrisch;Calzone mit Blattspinat und Ricotta;;;1
+2018-12-18;Tue;Angebote;Seelachs im Backteig mit Remouladensoße, dazu Pommes frites und Salat;4,41;2,66;0
+2018-12-18;Tue;Angebote;Putenbrustbraten mit Honig und Äpfeln, dazu Möhrengemüse und Kräuterkartoffeln;4,44;2,69;0
+2018-12-18;Tue;Angebote;Ratatouille aus frischem Gemüse mit Kartoffel-Kürbisgratin;4,54;2,79;1
+2018-12-18;Tue;Angebote;Zucchini gefüllt mit Pilzen, Kräutern und Polenta auf Tomatenragout, dazu Basmati Reis;4,44;2,69;2
+2018-12-18;Tue;Pasta;Schinken-Sahnesoße mit Erbsen;;;0
+2018-12-18;Tue;Pasta;Basilikumpesto;;;2
+2018-12-18;Tue;Ofenfrisch;Pizza Kapstadt mit Wiener, Gewürzgurke und Röstzwiebeln;;;0
+2018-12-18;Tue;Ofenfrisch;Calzone mit Blattspinat und Ricotta;;;1
+2018-12-19;Wed;Angebote;Paprikagulasch vom Rind mit Spätzle und Salat;4,47;2,72;0
+2018-12-19;Wed;Angebote;Rahmspinat mit Rührei, dazu Petersilienkartoffeln;4,0;2,25;2
+2018-12-19;Wed;Pasta;Pastasoße Bolognese;;;0
+2018-12-19;Wed;Pasta;Gemüsebolognese;;;0
+2018-12-19;Wed;Pasta;Basilikumpesto;;;2
+2018-12-19;Wed;Ofenfrisch;Pizza Kapstadt mit Wiener, Gewürzgurke und Röstzwiebeln;;;0
+2018-12-19;Wed;Ofenfrisch;Calzone mit Blattspinat und Ricotta;;;1
+2018-12-20;Thu;Angebote;Schweineschnitzel mit Zitronenecke und Pommes frites;4,0;2,25;0
+2018-12-20;Thu;Angebote;Sechs vegane Frühlingsrollen auf Glasnudelsalat, dazu Curry-Joghurt-Dip;4,74;2,99;2
+2018-12-20;Thu;Pasta;Rahmsoße mit gemischten Pilzen und Zucchini;;;0
+2018-12-20;Thu;Pasta;Tomatensoße mit Jagdwurst und Schmorkraut;;;0
+2018-12-20;Thu;Pasta;Basilikumpesto;;;2
+2018-12-21;Fri;Angebote;Hackfleischfrikadelle mit Letschosoße und gebackenen Kartoffelecken;4,14;2,39;0
+2018-12-21;Fri;Angebote;Spanische Kartoffeln mit grüner Mojo-Soße und Salat;4,0;2,25;2
+2018-12-21;Fri;Pasta;Rindergeschnetzeltes mit Gorgonzola;;;0
+2018-12-21;Fri;Pasta;Basilikumpesto;;;2
+2018-12-21;Fri;Pasta;Tomatensoße mit Austernpilzen;;;2
