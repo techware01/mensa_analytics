@@ -7,11 +7,12 @@ API_URL = 'https://openmensa.org/api/v2'
 
 
 def getType(notes):
-    print(notes)
-    if('vegan' in notes):
-        return 2
-    if('vegetarisch' in notes):
-        return 1
+    for note in notes:
+        print(note)
+        if('vegan') in note:
+            return 2
+        if('vegetarisch') in note:
+            return 1
     return 0
 
 
@@ -45,14 +46,14 @@ canteens = [[79, "alteMensa"], [78, "zeltschloesschen"],
             [82, "siedepunkt"], [88, "bioMensa"]]
 
 if __name__ == "__main__":
-    sdate = date(2019, 2, 5)   # start date
-    edate = date(2019, 12, 31)   # end date
+    sdate = date(2018, 1, 1)   # start date
+    edate = date(2018, 12, 31)   # end date
 
     delta = edate - sdate       # as timedelta
 
     for canteen in canteens:
         results = []
-        filename = 'data/{}_2019_mittags.csv'.format(canteen[1])
+        filename = 'data/{}_2018_mittags.csv'.format(canteen[1])
         with open(filename, 'wt') as f:
             csv_writer = csv.writer(f, delimiter=';', dialect='excel')
             # write head
