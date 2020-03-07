@@ -60,34 +60,38 @@ def countForCurrentDay(meals):
                 print("No specified price :(")
     return counter
 
-sdate = date(2019, 6, 1)   # start date
-edate = date(2020, 3, 6)   # end date
 
-delta = edate - sdate       # as timedelta
+def printResultsToCSV(results):
+    header = ['date', 'weekday', 'meat', 'veg',
+              'vegan', 'nice', 'meat', 'veg', 'vegan', 'nice']
 
-results = []
-for i in range(delta.days + 1):
-    day = sdate + timedelta(days=i) 
-    url = getRequestUrl(79, day)
-    print(url)
-    resp = requests.get(url)
-    meals = resp.json()
-    dayly_stats = [day.strftime('%Y-%m-%d'), day.strftime('%a'), countForCurrentDay(meals)]
-    results.append(dayly_stats)
-print(results)
+    with open('customers.csv', 'wt') as f:
+        csv_writer = csv.writer(f, delimiter=';', dialect='excel')
 
+        csv_writer.writerow(header)  # write header
 
+        for result in results:
+            row = [result[0], result[1]]
+            for key in ["lunch", "dinner"]:
+                for i in range(4):
+                    row.append(result[2][key][i])
+            csv_writer.writerow(row)
 
-header = ['date', 'weekday', 'meat', 'veg', 'vegan', 'nice', 'meat', 'veg', 'vegan', 'nice']
+if __name__ == "__main__":
+    sdate = date(2020, 1, 1)   # start date
+    edate = date(2020, 3, 6)   # end date
 
-with open('customers.csv', 'wt') as f:
-    csv_writer = csv.writer(f, dialect='excel')
+    delta = edate - sdate       # as timedelta
 
-    csv_writer.writerow(header) # write header
-
-    for result in results:
-        row = [result[0], result[1]]
-        for key in ["lunch", "dinner"]:
-            for i in range(4):
-                row.append(result[2][key][i])
-        csv_writer.writerow(row)
+    results = []
+    for i in range(delta.days + 1):
+        day = sdate + timedelta(days=i)
+        url = getRequestUrl(79, day)
+        print(url)
+        resp = requests.get(url)
+        meals = resp.json()
+        if meals != []:
+            dayly_stats = [day.strftime('%Y-%m-%d'),
+                        day.strftime('%a'), countForCurrentDay(meals)]
+            results.append(dayly_stats)
+    printResultsToCSV(results)
