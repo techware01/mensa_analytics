@@ -52,7 +52,7 @@ if __name__ == "__main__":
 
     for canteen in canteens:
         results = []
-        filename = 'data/{}_2019.csv'.format(canteen[1])
+        filename = 'data/{}_2019_mittags.csv'.format(canteen[1])
         with open(filename, 'wt') as f:
             csv_writer = csv.writer(f, delimiter=';', dialect='excel')
             # write head
