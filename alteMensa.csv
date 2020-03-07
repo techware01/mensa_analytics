@@ -1,0 +1,479 @@
+date;weekday;category;name;employees;students;type
+2020-01-06;Mon;Angebote;Putenschnitzel mit Geflügelsoße, dazu buntes Gemüse und Petersilienkartoffeln *;5,09;2,65;0
+2020-01-06;Mon;Angebote;Falafelbällchen in Tomatensoße, dazu Bohnen-Maisgemüse und Couscous;4,18;2,3;2
+2020-01-06;Mon;Angebote;Hausgemachte Pasta, heute:Amori Aglio e Olio mit Schafskäse;4,18;2,3;1
+2020-01-06;Mon;GRILL;Rinderhacksteak Texas mit BBQ-Dip, Speckbohnen und gebackenen Kartoffelecken;5,09;2,8;0
+2020-01-06;Mon;Pasta;Tomatensoße mit Salami;4,69;2,58;0
+2020-01-06;Mon;Pasta;Pastasoße Funghi;4,69;2,58;1
+2020-01-06;Mon;Auflauf;Gratinierte Gemüse-Gnocchi;3,9;2,15;1
+2020-01-06;Mon;Terrine;Pikanter Pilzeintopf mit Kartoffeln und Gewürzgurke;3,59;1,97;2
+2020-01-07;Tue;Angebote;Paniertes Kabeljaufilet mit Kohlrabi-Möhrengemüse und Kartoffel-Senfpüree;5,0;2,75;0
+2020-01-07;Tue;Angebote;Möhrenpfannkuchen mit Hirtenkäse-Raukecreme und Salat;;;1
+2020-01-07;Tue;WOK;Frühlingsrollen mit asiatischem Gemüse aus dem Wok und Basmati Reis;5,09;2,65;2
+2020-01-07;Tue;GRILL;Rückensteak vom Schwein mit Kräuterbutter, Erbsen und Pommes frites;5,5;3,03;0
+2020-01-07;Tue;Pasta;Tomatensoße mit Austernpilzen;4,69;2,58;1
+2020-01-07;Tue;Pasta;Pute orientalisch;4,69;2,58;0
+2020-01-07;Tue;Auflauf;Gratinierte Gemüse-Gnocchi;3,9;2,15;1
+2020-01-07;Tue;Terrine;Pikanter Pilzeintopf mit Kartoffeln und Gewürzgurke;3,59;1,97;2
+2020-01-08;Wed;Angebote;Rindergulasch mit Rosenkohl, dazu Spätzle oder Petersilienkartoffeln;4,69;2,58;0
+2020-01-08;Wed;Angebote;Broccoli-Nussecke mit Paprikacreme auf Pastasotto;3,8;2,09;2
+2020-01-08;Wed;GRILL;Grillkäse aus Mozzarella, Emmentaler und Frischkäse mit Mangochutney, Ingwer-Chili und Bulgursalat;;;1
+2020-01-08;Wed;Hausgemachte Pasta, heute;Trecce mit Ragù napoletano und geriebenem Gouda;4,27;2,35;0
+2020-01-08;Wed;Pasta;Tomatensoße Bolognese;;;0
+2020-01-08;Wed;Pasta;Rahmsoße mit Tomaten und Kräutern;;;1
+2020-01-08;Wed;Auflauf;Gratinierte Gemüse-Gnocchi;3,9;2,15;1
+2020-01-08;Wed;Terrine;Blumenkohlsuppe;3,59;1,97;2
+2020-01-09;Thu;Angebote;Hähnchenbrustfilet mit Paprikasoße, Kurkumareis und Rotkohl-Apfelsalat;4,75;2,61;0
+2020-01-09;Thu;Angebote;Blumenkohl und Wurzelgemüse in Kräuterrahm mit Schwenkkartoffeln;4,1;2,26;1
+2020-01-09;Thu;Angebote;Pizza Kreta mit Lauch und Hirtenkäse;5,04;2,77;1
+2020-01-09;Thu;Angebote;Pizza Texas mit Schweinefleisch, Bauchspeck, Ei und BBQ-Dip;5,04;2,77;0
+2020-01-09;Thu;WOK;Kürbis-Apfel-Curry auf Basmati Reis;;;2
+2020-01-09;Thu;GRILL;Gebratenes Seelachsfilet mit Dillsoße auf hausgemachter Pasta;5,2;2,71;0
+2020-01-09;Thu;Pasta;Käsesoße Quattro formaggi;4,69;2,58;1
+2020-01-09;Thu;Pasta;Wurstgulasch;4,69;2,58;0
+2020-01-09;Thu;Auflauf;Gratinierte Gemüse-Gnocchi;3,9;2,15;1
+2020-01-09;Thu;Auflauf;Auflauf von Vollkornnudeln mit Tomaten und Kräutern in Rahm;3,9;2,15;1
+2020-01-09;Thu;Terrine;Blumenkohlsuppe;3,59;1,97;2
+2020-01-10;Fri;Angebote;Schweinebraten mit Bayrischkraut und Kartoffelklößen;5,0;2,6;0
+2020-01-10;Fri;Angebote;Veg.Maultaschen mit Tomatenconcassee auf Rahmchampignons;4,0;2,2;1
+2020-01-10;Fri;Angebote;Burrito mit Soja, Peperoni, Kidneybohnen und Paprika;5,04;2,77;1
+2020-01-10;Fri;Angebote;Burrito mit Hackfleisch, Peperoni, Kidneybohnen und Paprika;5,04;2,77;0
+2020-01-10;Fri;WOK;Rindfleisch mit Gemüse aus dem Wok mit gerösteten Cashewkernen auf Mie Nudeln;5,1;2,81;0
+2020-01-10;Fri;GRILL;Gegrilltes Gemüse mit Paprikacreme im Fladenbrot;5,5;3,03;2
+2020-01-10;Fri;Pasta;Tomatensoße;4,69;2,58;1
+2020-01-10;Fri;Pasta;Gorgonzolasoße mit Walnuss;4,69;2,58;0
+2020-01-10;Fri;Auflauf;Gratinierte Gemüse-Gnocchi;3,9;2,15;1
+2020-01-10;Fri;Terrine;Blumenkohlsuppe;3,59;1,97;1
+2020-01-10;Fri;Terrine;Fischsuppe mit frischem Dill und Gemüse;3,59;1,97;0
+2020-01-13;Mon;Angebote;Schweinskammsteak mit deftiger Paprika-Wurstsoße, dazu Erbsen und Pommes frites;4,75;2,61;0
+2020-01-13;Mon;Angebote;Paprikapfanne mit Ingwer und Bambus an Couscous;4,55;2,35;2
+2020-01-13;Mon;Angebote;Hausgemachte Pasta, heute Amori alla greco mit Schafskäse;4,4;2,42;0
+2020-01-13;Mon;Angebote;Verdure mista mit Mais, Broccoli und rotem Paprika;5,04;2,77;1
+2020-01-13;Mon;Angebote;Pizza Bombay mit Hähnchenfleisch, Ananas und Currycreme;5,04;2,77;0
+2020-01-13;Mon;GRILL;Hacksteak aus Rind und Lamm mit Hirtenkäse-Raukecreme und Reis, türkisch;5,27;2,9;0
+2020-01-13;Mon;Pasta;Tomatensoße mit Schinken;4,69;2,58;0
+2020-01-13;Mon;Pasta;Chili-Lauchsoße;4,69;2,58;1
+2020-01-13;Mon;Auflauf;Apfel-Birnencrumble mit Schokolade;3,9;2,15;2
+2020-01-13;Mon;Terrine;Linseneintopf, süßsauer;3,59;1,97;2
+2020-01-14;Tue;Angebote;Bratwurst auf BBQ-Kraut, dazu gebackene Kartoffelecken mit Sauerrahmdip;4,21;2,32;0
+2020-01-14;Tue;Angebote;Gebratene Kräuterpolenta mit Grillgemüsesalsa und Bohnen;4,27;2,35;2
+2020-01-14;Tue;Angebote;Verdure mista mit Mais, Broccoli und rotem Paprika;5,04;2,77;1
+2020-01-14;Tue;Angebote;Pizza Bombay mit Hähnchenfleisch, Ananas und Currycreme;5,04;2,77;0
+2020-01-14;Tue;WOK;Pilzpfanne aus dem Wok mit Reisnudeln;;;1
+2020-01-14;Tue;GRILL;Burger mit gegrillten Fleischkäse, dazu Pommes frites;6,18;3,4;0
+2020-01-14;Tue;Pasta;Tomatensoße mit Wurzelgemüse;4,69;2,58;1
+2020-01-14;Tue;Pasta;Pute in Pilzrahmsoße;4,69;2,58;0
+2020-01-14;Tue;Auflauf;Apfel-Birnencrumble mit Schokolade;3,9;2,15;2
+2020-01-14;Tue;Auflauf;Pastaauflauf mit Chili und Lauch, überbacken mit Gouda;;;1
+2020-01-14;Tue;Terrine;Linseneintopf, süßsauer;3,59;1,97;2
+2020-01-15;Wed;Angebote;Putenbrust in Sahnesoße mit Honigmöhren und gemischtem Wildreis;4,82;2,65;0
+2020-01-15;Wed;Angebote;Krautnudeln mit Apfel, Walnuss und getrockneter Tomate;4,36;2,4;2
+2020-01-15;Wed;Angebote;Pizza Kapstadt mit Wiener, Gewürzgurke und Röstzwiebeln;5,04;2,77;0
+2020-01-15;Wed;Angebote;Pizza Caprese mit Tomaten, Basilikum und Mozzarella;5,04;2,77;1
+2020-01-15;Wed;GRILL;Rückensteak vom Schwein mit Espressowürzung, Pfeffer-Hollandaise, Rosenkohl und gebackenen Kartoffelecken;5,36;2,8;0
+2020-01-15;Wed;Hausgemachte Pasta, heute;Trecce mit Kressepesto und Mozzarella;4,27;2,35;1
+2020-01-15;Wed;Pasta;Spanische Hackfleischsoße;4,69;2,58;0
+2020-01-15;Wed;Pasta;Rahmsoße mit Tomaten und Auberginen;4,69;2,58;2
+2020-01-15;Wed;Auflauf;Apfel-Birnencrumble mit Schokolade;3,9;2,15;2
+2020-01-15;Wed;Terrine;Chili con carne;3,59;1,97;0
+2020-01-16;Thu;Angebote;Mostbraten vom Rind mit Rosenkohl und Kartoffelklößen;5,09;2,8;0
+2020-01-16;Thu;Angebote;Blumenkohl-Käsemedaillon mit Kräutersoße, Möhrengemüse und Schwenkkartoffeln;;;1
+2020-01-16;Thu;Angebote;Pizza Kapstadt mit Wiener, Gewürzgurke und Röstzwiebeln;5,04;2,77;0
+2020-01-16;Thu;Angebote;Pizza Caprese mit Tomaten, Basilikum und Mozzarella;;;1
+2020-01-16;Thu;WOK;Hähnchen Thai Sweet Chilli mit Basmati Reis;5,36;2,8;0
+2020-01-16;Thu;GRILL;Gebratene Zucchini mit Sojacreme Avocado und Tomatenpesto-Kartoffeln;;;2
+2020-01-16;Thu;Pasta;Mailänder Nudelsoße;;;0
+2020-01-16;Thu;Pasta;Pastasoße mit Champignons und getrockneten Tomaten;;;1
+2020-01-16;Thu;Auflauf;Apfel-Birnencrumble mit Schokolade;3,9;2,15;2
+2020-01-16;Thu;Terrine;Karottencremesuppe mit Ingwer und Basilikum;3,59;1,97;1
+2020-01-17;Fri;Angebote;Schaschlikpfanne mit Kartoffelpüree und Rotkohlsalat;4,55;2,35;0
+2020-01-17;Fri;Angebote;Heringshappen in Apfel-Dillsahne mit Speckbohnen und Bratkartoffeln;5,36;2,95;0
+2020-01-17;Fri;Angebote;Älpler Makkaroni mit Feldsalat;4,55;2,5;1
+2020-01-17;Fri;Angebote;Pizza Kapstadt mit Wiener, Gewürzgurke und Röstzwiebeln;;;0
+2020-01-17;Fri;GRILL;Gebratene Gemüse-Mie Nudeln mit Röstzwiebeln;4,82;2,65;2
+2020-01-17;Fri;Pasta;Chili sin carne;;;2
+2020-01-17;Fri;Pasta;Sahnesoße mit Wurzelgemüse und Lachs;;;0
+2020-01-17;Fri;Auflauf;Apfel-Brotpudding;;;1
+2020-01-17;Fri;Auflauf;Spätzleauflauf mit Schinkenwürfeln und Tomate;;;0
+2020-01-17;Fri;Terrine;Karottencremesuppe mit Ingwer und Basilikum;3,59;1,97;1
+2020-01-20;Mon;Angebote;Seelachsfilet in Knusperpanade mit Zitronenecke, dazu buntes Gemüse und Kartoffelpüree;5,0;2,75;0
+2020-01-20;Mon;Angebote;Italienisches Gemüserisotto, dazu kleine Teigtaschen mit Gemüsefüllung;;;2
+2020-01-20;Mon;Angebote;Pizza mit BBQ-Hühnchen, Paprika und Mais;5,04;2,77;0
+2020-01-20;Mon;Angebote;Pizza mit Hirtenkäse und Blattspinat;5,04;2,77;1
+2020-01-20;Mon;GRILL;Asia Gemüse vom Grill an Mie Nudeln;4,82;2,5;2
+2020-01-20;Mon;Hausgemachte Pasta, heute;Linguine Carbonara, dazu italienischer Hartkäse;4,27;2,35;0
+2020-01-20;Mon;Pasta;Tomatensoße mit Jagdwurst;;;0
+2020-01-20;Mon;Pasta;Käserahmsoße mit Blattspinat;;;1
+2020-01-20;Mon;Auflauf;Ofenomelett mit Kartoffel-Cheddarkäse;3,9;2,15;1
+2020-01-20;Mon;Terrine;Grüner Bohneneintopf mit Rindfleisch;3,59;1,97;0
+2020-01-21;Tue;Angebote;Gratinierte Hähnchenbrust mit Paprika, Tomaten, Oliven und Hirtenkäse, dazu Pommes frites und Salat;5,14;2,83;0
+2020-01-21;Tue;Angebote;Tibetische Pilzpfanne mit Glasnudeln, Ingwer und Basmati Reis;4,27;2,35;2
+2020-01-21;Tue;Angebote;Pizza mit BBQ-Hühnchen, Paprika und Mais;5,04;2,77;0
+2020-01-21;Tue;Angebote;Pizza mit Hirtenkäse und Blattspinat;5,04;2,77;1
+2020-01-21;Tue;WOK;Hähnchen Nuggets oder Valess-Nuggets auf Wokgemüse süßsauer, dazu Basmati Reis;5,44;2,99;0
+2020-01-21;Tue;GRILL;Rinderhüftsteak mit Tomatengrillbutter und Speckbohnen (auch ohne Speck), dazu Kartoffelbällchen;6,64;3,5;0
+2020-01-21;Tue;Pasta;Pute asiatisch;;;0
+2020-01-21;Tue;Pasta;Basilikumsoße;;;1
+2020-01-21;Tue;Auflauf;Ofenomelett mit Kartoffel-Cheddarkäse;3,9;2,15;1
+2020-01-21;Tue;Terrine;Grüner Bohneneintopf mit Rindfleisch;3,59;1,97;0
+2020-01-22;Wed;Angebote;Grillhaxe mit deftiger Soße, dazu Sauerkraut und Petersilienkartoffeln;5,44;2,84;0
+2020-01-22;Wed;Angebote;Spinat mit Rührei und Kartoffeln;4,0;2,2;1
+2020-01-22;Wed;Angebote;Pizza Gyros mit Zwiebeln, Paprika und Tsatsiki;5,04;2,77;0
+2020-01-22;Wed;Angebote;Pizza Piccante mit Tomate, Jalapenos und Cheddarkäse;5,04;2,77;1
+2020-01-22;Wed;GRILL;Gebratenes Seelachsfilet mit Kartoffel-Zitronenstampf und Gurkensalat mit Dilljoghurt;6,18;3,4;0
+2020-01-22;Wed;Hausgemachte Pasta, heute;Amori mit Puttanesca und geriebenem Mozzarellakäse;4,27;2,35;0
+2020-01-22;Wed;Pasta;Tomatensoße Bolognese;;;0
+2020-01-22;Wed;Pasta;Frischkäse-Walnusssoße;;;1
+2020-01-22;Wed;Auflauf;Ofenomelett mit Kartoffel-Cheddarkäse;3,9;2,15;1
+2020-01-22;Wed;Terrine;Grüner Bohneneintopf mit Rindfleisch;3,59;1,97;0
+2020-01-23;Thu;Angebote;Hähnchenkeule mit Geflügelsoße und Apfelrotkohl, dazu Petersilienkartoffeln;4,91;2,7;0
+2020-01-23;Thu;Angebote;Kartoffel-Kürbiskernpuffer mit Tomaten-Schnittlauchquark und Salat;4,36;2,4;1
+2020-01-23;Thu;Angebote;Pizza Gyros mit Zwiebeln, Paprika und Tsatsiki;5,04;2,77;0
+2020-01-23;Thu;Angebote;Pizza Piccante mit Tomate, Jalapenos und Cheddarkäse;;;1
+2020-01-23;Thu;WOK;Soja Geschnetzeltes mit Curry, Paprika, Möhre, Lauch und Sprossen, dazu Basmati Reis;;;2
+2020-01-23;Thu;GRILL;Kammsteak in Malz-Senfmarinade an feuriger Käsesoße, dazu mexikanischer Gemüsemix und gebackene Kartoffelecken;5,09;2,8;0
+2020-01-23;Thu;Pasta;Lammcurry;;;0
+2020-01-23;Thu;Pasta;Pastasoße Vesuvianna mit Tomaten, Oliven und Kapern;;;2
+2020-01-23;Thu;Auflauf;Ofenomelett mit Kartoffel-Cheddarkäse;3,9;2,15;1
+2020-01-23;Thu;Auflauf;Auflauf mit Putenstreifen, asiatischem Gemüse und Curryreis, überbacken mit Gouda;;;0
+2020-01-23;Thu;Terrine;Grüner Bohneneintopf mit Rindfleisch;3,59;1,97;0
+2020-01-24;Fri;Angebote;Schweineschnitzel mit Bratensoße und buntem Gemüse, dazu Kartoffelbällchen oder Salzkartoffeln;4,73;2,45;0
+2020-01-24;Fri;Angebote;Vier Hefeklöße mit Heidelbeeren und Zucker-Zimtmischung;3,91;2,15;1
+2020-01-24;Fri;WOK;Gegrillte Hähnchenbrust auf knackigem Wokgemüse und Mie Nudeln;;;0
+2020-01-24;Fri;GRILL;Veggi-Burger mit Räuchertofu und würziger Currysoße, dazu Pommes frites;5,44;2,99;2
+2020-01-24;Fri;Pasta;Tomatenratatouille;4,69;2,58;2
+2020-01-24;Fri;Pasta;Sahnesoße mit Shrimps und Dill;4,69;2,58;0
+2020-01-24;Fri;Auflauf;Nudelgratin Bolognese;;;0
+2020-01-24;Fri;Auflauf;Penne mit Lammcurry gratiniert;;;0
+2020-01-24;Fri;Auflauf;Pasta mit Frischkäse-Walnusssoße gratiniert;3,9;2,15;1
+2020-01-27;Mon;Angebote;Currywurst mit Pommes frites und buntem Weißkrautsalat;;;0
+2020-01-27;Mon;Angebote;Bratkartoffeln mit Tomate und Mozzarella, dazu Feldsalat;4,68;2,57;1
+2020-01-27;Mon;Angebote;Hausgemachte Pasta, heute Amori mit Tomaten-Olivenpesto und Mozzarella;4,27;2,2;1
+2020-01-27;Mon;Angebote;Pizza Kreta mit Lauch und Hirtenkäse;5,04;2,77;1
+2020-01-27;Mon;Angebote;Pizza Mexiko mit Salami, Bauchspeck, Jalapenos, Bohnen und Cheddar Käse;5,04;2,77;0
+2020-01-27;Mon;GRILL;"Hackbällchen ""Caprese"" mit Mozzarella in Tomatensoße, dazu Rosmarinkartoffeln und Salat";5,59;3,07;0
+2020-01-27;Mon;Pasta;Tomatensoße mit Ricotta;4,69;2,58;1
+2020-01-27;Mon;Pasta;Pastasoße Carbonara;4,69;2,58;0
+2020-01-27;Mon;Auflauf;Blumenkohl und Kartoffeln in Curryrahm;3,9;2,15;1
+2020-01-27;Mon;Terrine;Minestrone mit Grünkohl, Kürbis und Kichererbsen;3,59;1,97;2
+2020-01-28;Tue;Angebote;Schweinegeschnetzeltes mit Champignons in Dijon-Senfrahm, dazu Romanesco und Kartoffelrösti;5,36;2,95;0
+2020-01-28;Tue;Angebote;Angebratene Maultaschen auf Paprikakraut, dazu Röstzwiebeln;5,2;2,71;2
+2020-01-28;Tue;Angebote;Pizza Kreta mit Lauch und Hirtenkäse;5,04;2,77;1
+2020-01-28;Tue;Angebote;Pizza Mexiko mit Salami, Bauchspeck, Jalapenos, Bohnen und Cheddar Käse;5,04;2,77;0
+2020-01-28;Tue;WOK;Rindfleischstreifen mit asiatischem Gemüse aus dem Wok und gerösteten Cashewkernen, dazu Basmati Reis;6,05;3,33;0
+2020-01-28;Tue;GRILL;Paella mit Lachs und Hähnchenfleisch;5,55;3,05;0
+2020-01-28;Tue;Pasta;Tomatensoße mit Paprika;4,69;2,58;1
+2020-01-28;Tue;Pasta;Pute in fruchtiger Currysoße;4,69;2,58;0
+2020-01-28;Tue;Auflauf;Blumenkohl und Kartoffeln in Curryrahm;3,9;2,15;1
+2020-01-28;Tue;Terrine;Minestrone mit Grünkohl, Kürbis und Kichererbsen;3,59;1,97;2
+2020-01-29;Wed;Angebote;Seelachsfilet in Kartoffelpanade auf Schmorgurkengemüse, dazu Basmati Reis;5,8;3,19;0
+2020-01-29;Wed;Angebote;Gebratene Spätzle mit Gemüsestreifen und Käsesoße, dazu Salat;4,2;2,31;1
+2020-01-29;Wed;Angebote;Hausgemachte Pasta, heute Linguine mit 9-Kräuterpesto und Schafskäse;4,27;2,35;0
+2020-01-29;Wed;Angebote;Pizza Bolognese mit Schweinefleisch und Gemüsestreifen;5,04;2,77;0
+2020-01-29;Wed;Angebote;Pizza Quattro formaggi mit Cheddar, Gouda, Hirtenkäse und Mozzarella;5,04;2,77;1
+2020-01-29;Wed;GRILL;Gegrillter Fleischkäse mit süßem Senf und Kartoffelsalat;;;0
+2020-01-29;Wed;Pasta;Rahmsoße mit Erbsen und Paprika;4,69;2,58;1
+2020-01-29;Wed;Pasta;Chili con carne;4,69;2,58;0
+2020-01-29;Wed;Auflauf;Blumenkohl und Kartoffeln in Curryrahm;3,9;2,15;1
+2020-01-29;Wed;Auflauf;Auflauf von Pasta mit Tomate und Ricotta, überbacken mit Gouda;;;1
+2020-01-29;Wed;Terrine;Tomatensuppe;3,59;1,97;2
+2020-01-30;Thu;Angebote;Rinderschmorbraten mit Rotkohl und Knödeln oder Kartoffeln;6,19;3,4;0
+2020-01-30;Thu;Angebote;Lasagne mit Sojabolognese, dazu fruchtige Tomatensoße;;;2
+2020-01-30;Thu;Angebote;Pizza Bolognese mit Schweinefleisch und Gemüsestreifen;5,04;2,77;0
+2020-01-30;Thu;Angebote;Pizza Quattro formaggi mit Cheddar, Gouda, Hirtenkäse und Mozzarella;;;1
+2020-01-30;Thu;GRILL;Rückensteak vom Schwein mit Pfeffer-Hollandaise, dazu Rosenkohl und Herzoginkartoffeln;;;0
+2020-01-30;Thu;Pasta;Käsesoße;4,69;2,58;1
+2020-01-30;Thu;Pasta;Gulaschsoße;4,69;2,58;0
+2020-01-30;Thu;Auflauf;Spätzleauflauf mit verschiedenen Gemüse in Rahm und Gouda gratiniert;3,9;2,15;1
+2020-01-30;Thu;Auflauf;Blumenkohl und Kartoffeln in Curryrahm;;;1
+2020-01-30;Thu;Terrine;Tomatensuppe;3,59;1,97;2
+2020-01-31;Fri;Angebote;Zitronenhühnchen mit Tomatenconfit und Broccoligemüse, dazu Schwenkkartoffeln;5,44;2,99;0
+2020-01-31;Fri;Angebote;"Kartoffelpuffer ""Gärtnerin Art"" mit Kräuterquark oder Apfelmus und Salat";5,09;2,8;1
+2020-01-31;Fri;Angebote;Türkische Pizza Lahmacun mit Tomaten und Zwiebeln;5,04;2,77;0
+2020-01-31;Fri;WOK;Wokgemüse süßsauer mit Thaireis;;;0
+2020-01-31;Fri;GRILL;Cheeseburger mit Pommes frites;;;0
+2020-01-31;Fri;Pasta;Lauchrahmsoße mit Thunfisch;4,69;2,58;1
+2020-01-31;Fri;Pasta;Gemüsebolognese;4,69;2,58;2
+2020-01-31;Fri;Auflauf;Spätzleauflauf mit verschiedenen Gemüse in Rahm und Gouda gratiniert;;;1
+2020-01-31;Fri;Auflauf;Pastaauflauf mit Tomatensoße und Schinken, überbacken mit Gouda;;;0
+2020-01-31;Fri;Terrine;Kartoffelsuppe mit Wurzelgemüsestreifen;3,59;1,97;2
+2020-01-31;Fri;Terrine;Kartoffelsuppe mit Rindfleisch und Wurzelgemüse;3,59;1,97;0
+2020-02-03;Mon;Angebote;Griechische Hackfleischpfanne mit Tsatsiki und Fladenbrot, dazu Weißkrautsalat;5,78;3,18;0
+2020-02-03;Mon;Angebote;Broccoli-Nussecke mit Käsesoße, dazu Kartoffelgratin und Salat;5,19;2,85;1
+2020-02-03;Mon;Angebote;Hausgemachte Pasta, heute Amori mit Rucolapesto und Mozzarella;4,27;2,2;0
+2020-02-03;Mon;Angebote;Paprika Pizza Bel Paese mit Tomaten und Hirtenkäse;5,04;2,77;1
+2020-02-03;Mon;Angebote;Pizza mit Peperonisalami;5,04;2,77;0
+2020-02-03;Mon;GRILL;Gegrillte Hähnchenbrust mit Avocado-Mayonnaise, dazu grünes Gemüse und Pommes frites;6,05;3,33;0
+2020-02-03;Mon;Pasta;Pastasoße all'amatriciana mit Tomaten und Bauchspeck;4,69;2,58;0
+2020-02-03;Mon;Pasta;Spinatrahmsoße;4,69;2,58;1
+2020-02-03;Mon;Auflauf;Mediterraner Kartoffelauflauf mit Rindfleisch, Aubergine und Zucchini;3,9;2,15;0
+2020-02-03;Mon;Terrine;Lauch-Hackfleischtopf mit Champignons;3,59;1,97;0
+2020-02-04;Tue;Angebote;Gulasch von Rind und Schwein mit Sauerkraut und Klößen oder Kartoffeln;5,35;2,94;0
+2020-02-04;Tue;Angebote;Kichererbsenbällchen mit scharfer Tomatensalsa und Gemüse-Couscous, dazu Salat;;;2
+2020-02-04;Tue;Angebote;Pizza mit Peperonisalami;5,04;2,77;0
+2020-02-04;Tue;Angebote;Pizza Quattro formaggi mit Cheddar, Gouda, Hirtenkäse, Mozzarella (1,30,36,50);5,04;2,77;0
+2020-02-04;Tue;WOK;Hühnchen mit Ananas, Pfirsich und knackigem Gemüse in Currysoße auf Mie Nudeln;;;0
+2020-02-04;Tue;GRILL;Rostbraten vom Rind aus Uruguay mit Röstzwiebel-Grillbutter, dazu Kartoffelecken und Salat;;;0
+2020-02-04;Tue;Pasta;Rahmsoße mit Kürbis;4,69;2,58;1
+2020-02-04;Tue;Pasta;Ungarisches Putengeschnetzeltes;4,69;2,58;0
+2020-02-04;Tue;Auflauf;Mediterraner Kartoffelauflauf mit Rindfleisch, Aubergine und Zucchini;;;0
+2020-02-04;Tue;Auflauf;Pastaauflauf mit Spinat und Rahmsoße, überbacken mit Gouda;;;1
+2020-02-04;Tue;Auflauf;Pastaauflauf mit Bauchspeck, Basilikum und Tomaten;;;0
+2020-02-04;Tue;Terrine;Lauch-Hackfleischtopf mit Champignons;3,59;1,97;0
+2020-02-05;Wed;Angebote;Grillteller mit Schweinesteak, Kasslersteak, Würstchen und Hacksteak auf Letscho, dazu Pommes frites;6,05;3,33;0
+2020-02-05;Wed;Angebote;Gouda mit getrockneten Tomaten im Weizenfladen gebacken, dazu Feldsalat mit Himbeerdressing;;;1
+2020-02-05;Wed;Angebote;Hausgemachte Pasta, heute Linguine mit Kräutercarbonara Frankfurter Art, dazu italienischer Hartkäse;4,36;2,25;0
+2020-02-05;Wed;Angebote;Pizza mit Artischockenherzen und Oregano;5,04;2,77;1
+2020-02-05;Wed;Angebote;Pizza Chili con carne;5,04;2,77;0
+2020-02-05;Wed;GRILL;Buntes Gemüse vom Grill mit Aioli-Dip und Sesam-Gnocchi;5,25;2,89;2
+2020-02-05;Wed;Pasta;Rahmsoße mit Tomaten und Zucchini;4,69;2,58;1
+2020-02-05;Wed;Pasta;Tomatensoße Bolognese;4,69;2,58;0
+2020-02-05;Wed;Auflauf;Pastaauflauf mit Lauch in Käsesoße;3,9;2,15;1
+2020-02-05;Wed;Auflauf;Auflauf von Vollkornpasta mit asiatischem Gemüse in Currysoße;3,9;2,15;1
+2020-02-05;Wed;Terrine;Deftige Bohnensuppe mit Kohl und Kartoffeln;3,59;1,97;2
+2020-02-05;Wed;Terrine;Lauch-Hackfleischtopf mit Champignons;;;0
+2020-02-06;Thu;Angebote;Hähnchenbrust  mit Spinatfüllung, dazu scharfe Tomatensoße, Limettentagliatelle und Salat;5,35;2,94;0
+2020-02-06;Thu;Angebote;Gebratene Champignons und Austernpilze auf Pastasotto, dazu Rucolapesto;4,27;2,2;2
+2020-02-06;Thu;WOK;Lammfleisch mit Lauch, Karotten und Sojasprossen, dazu Basmati Reis;6,36;3,5;0
+2020-02-06;Thu;GRILL;Norddeutsche Heringshappen mit Schwenkkartoffeln und Salat;5,36;2,95;0
+2020-02-06;Thu;Pasta;Frischkäse-Kräutersoße;4,69;2,58;1
+2020-02-06;Thu;Pasta;Pusztasoße;4,69;2,58;0
+2020-02-06;Thu;Auflauf;Mediterraner Kartoffelauflauf mit Schweinefleisch, Aubergine und Zucchini;3,9;2,15;0
+2020-02-06;Thu;Auflauf;Pastaauflauf mit buntem Gemüse in Rahmsoße;;;1
+2020-02-06;Thu;Terrine;Deftige Bohnensuppe mit Kohl und Kartoffeln;3,59;1,97;2
+2020-02-06;Thu;Terrine;Deftige Bohnensuppe mit Kohl, Kartoffeln, Bauchspeck und Knacker;3,59;1,97;0
+2020-02-07;Fri;Angebote;Jägerschnitzel (panierte Jagdwurst) mit buntem Rahmgemüse und Kartoffelpüree;4,82;2,5;0
+2020-02-07;Fri;Angebote;Milchreis mit heißen Kirschen und Zimt-Zucker;4,3;2,37;1
+2020-02-07;Fri;Angebote;Pizzabrot mit Kräuterbutter;;;1
+2020-02-07;Fri;Angebote;Gefülltes Pizzabrötchen;;;1
+2020-02-07;Fri;WOK;Knackiges Gemüse aus dem Wok mit  Mie Nudeln;4,27;2,35;2
+2020-02-07;Fri;GRILL;Rostbrätel vom Kammsteak mit Zwiebeln, dazu Bratkartoffeln und Bohnensalat;5,44;2,99;0
+2020-02-07;Fri;Pasta;Tomatensoße mit Hirtenkäse;4,69;2,58;1
+2020-02-07;Fri;Pasta;Champignons in Rahmsoße;4,69;2,58;1
+2020-02-07;Fri;Auflauf;Pastaauflauf mit Pusztasoße;3,9;2,15;0
+2020-02-07;Fri;Terrine;Blumenkohlcremesuppe;3,59;1,97;2
+2020-02-07;Fri;Terrine;Blumenkohlcremesuppe mit Hackfleisch;3,59;1,97;0
+2020-02-10;Mon;Angebote;Wirsingroulade in Bratensoße, dazu Petersilienkartoffeln;5,04;2,77;0
+2020-02-10;Mon;Angebote;Arabisches Linsencurry mit gebackenen Gemüsetaschen;;;2
+2020-02-10;Mon;Angebote;Hausgemachte Pasta, heute Amori all'amatriciana mit Tomaten und Bauchspeck, dazu italienischer Hartkäse (auch vegetarisch möglich);4,27;2,2;0
+2020-02-10;Mon;Angebote;Pizza Hawaii mit Kochschinken und Ananas;5,04;2,77;0
+2020-02-10;Mon;Angebote;Pizza Quattro formaggi mit Cheddar, Gouda, Hirtenkäse und Mozzarella;5,04;2,77;1
+2020-02-10;Mon;GRILL;Rückensteak vom Schwein mit Barbecue-Dip, dazu gebackene Kartoffelecken und Broccolisalat mit Mais;;;0
+2020-02-10;Mon;Pasta;Tomatensoße mit Salami;4,69;2,58;0
+2020-02-10;Mon;Pasta;Pastasoße Funghi;4,69;2,58;1
+2020-02-10;Mon;Auflauf;Linsen-Kartoffelauflauf mit Lachs und Spinat;3,9;2,15;0
+2020-02-10;Mon;Terrine;Erbseneintopf  (gern auch mit Wiener Würstchen im Zukauf);3,59;1,97;0
+2020-02-11;Tue;Angebote;Kasslergeschnetzeltes mit Butterbohnen und Spätzle;4,64;2,4;0
+2020-02-11;Tue;Angebote;Gebratene Kartoffelgnocchi mit Tomatenragout und Rucola;;;2
+2020-02-11;Tue;Angebote;Pizza Quattro formaggi mit Cheddar, Gouda, Hirtenkäse und Mozzarella;5,04;2,77;1
+2020-02-11;Tue;Angebote;Pizza Hawaii mit Kochschinken und Ananas;5,04;2,77;0
+2020-02-11;Tue;WOK;Frühlingsrollen auf asiatischem Gemüse aus dem Wok, dazu Basmati Reis;5,8;3,19;2
+2020-02-11;Tue;GRILL;Fish & Chips Backfischstücke mit Remouladensoße und Pommes frites;;;0
+2020-02-11;Tue;Pasta;Tomatensoße mit Austernpilzen;4,69;2,58;1
+2020-02-11;Tue;Pasta;Pute orientalisch;4,69;2,58;0
+2020-02-11;Tue;Auflauf;Linsen-Kartoffelauflauf mit Lachs und Spinat;3,9;2,15;0
+2020-02-11;Tue;Terrine;Erbseneintopf mit Wiener Würstchen im Zukauf;3,59;1,97;0
+2020-02-11;Tue;Terrine;Pikanter Pilzeintopf mit Kartoffeln und Gewürzgurke;3,59;1,97;2
+2020-02-12;Wed;Angebote;Gebackene Chicken Crossies mit Mango-Chili-Dip, dazu Kartoffellocken und Salat;6,05;3,33;0
+2020-02-12;Wed;Angebote;Kartoffeln mit Kräuterquark, Butter und Leberwurst oder Gewürzgurke für den Vegetarier;4,35;2,39;0
+2020-02-12;Wed;Angebote;Hausgemachte Pasta, heute Maccheroni mit Paprika und Schinken in Tomatenragout, dazu italienischer Hartkäse (gern auch vegetarisch);4,27;2,35;0
+2020-02-12;Wed;Angebote;Pizza Fruity & Spicy mit Lauch, Kirschtomaten, Ananas und Chili;5,04;2,77;1
+2020-02-12;Wed;Angebote;Pizza Vulcano mit Salami, Paprika und Jalapenos;5,04;2,77;0
+2020-02-12;Wed;GRILL;Gebratener Paprika vom Grill mit Avocado-Sojamayonaise und Pestokartoffeln;4,64;2,4;2
+2020-02-12;Wed;Pasta;Rahmsoße mit Tomaten und Kräutern;4,69;2,58;1
+2020-02-12;Wed;Pasta;Tomatensoße Bolognese;4,69;2,58;0
+2020-02-12;Wed;Auflauf;Linsen-Kartoffelauflauf mit Lachs und Spinat;3,9;2,15;0
+2020-02-12;Wed;Auflauf;Auflauf mit Putenbrust, Kichererbsen, Kartoffeln und Kreuzkümmel, überbacken mit Gouda;;;0
+2020-02-12;Wed;Terrine;Pikanter Pilzeintopf mit Kartoffeln und Gewürzgurke;3,59;1,97;2
+2020-02-12;Wed;Terrine;Erbseneintopf  (gern auch mit Wiener Würstchen im Zukauf);3,59;1,97;0
+2020-02-13;Thu;Angebote;Seelachsfilet in Knusperpanade mit Petersilien-Zitronenstampf und Tomaten-Rucolasalat;6,05;3,33;0
+2020-02-13;Thu;Angebote;Gemüseschnitzel mit Remouladensoße, Bratkartoffeln und Gurkensalat;4,6;2,53;2
+2020-02-13;Thu;Angebote;Pizza Vulcano mit Salami, Paprika und Jalapenos;5,04;2,77;0
+2020-02-13;Thu;Angebote;Pizza Fruity & Spicy mit Lauch, Kirschtomaten, Ananas und Chili;5,04;2,77;1
+2020-02-13;Thu;WOK;Asiatische Gemüsepfanne mit Tofu und Duftreis;;;2
+2020-02-13;Thu;GRILL;Pulled Pork mit Coleslaw-Salat, dazu Fladenbrot und Quarkdip;5,8;3,19;0
+2020-02-13;Thu;Pasta;Käsesoße Quattro formaggi;4,69;2,58;1
+2020-02-13;Thu;Pasta;Wurstgulasch;4,69;2,58;0
+2020-02-13;Thu;Auflauf;Linsen-Kartoffelauflauf mit Lachs und Spinat;3,9;2,15;0
+2020-02-13;Thu;Auflauf;Vollkornpastaauflauf mit Tomaten und Kräutern in Rahmsoße;3,9;2,15;1
+2020-02-13;Thu;Terrine;Hackfleisch-Kartoffelsuppe;3,59;1,97;0
+2020-02-14;Fri;Angebote;Schweineschnitzel mit Rahmchampignons, oder Tomatensalat, dazu Bratkartoffeln;5,36;2,95;0
+2020-02-14;Fri;Angebote;Käsespätzle mit Salat;4,64;2,55;1
+2020-02-14;Fri;Angebote;Hähnchen-Dürüm;5,04;2,77;0
+2020-02-14;Fri;Angebote;Gemüsedürüm mit Hirtenkäse;5,04;2,77;1
+2020-02-14;Fri;WOK;Entenbrust auf Wokgemüse aus Pflaumen, Karotten und Sprossen, dazu Mie Nudeln;7,25;3,84;0
+2020-02-14;Fri;GRILL;"Langos ""Bruschetta"" auch mit veganer Knoblauchcreme möglich";4,27;2,35;1
+2020-02-14;Fri;Pasta;Tomatensoße;4,69;2,58;2
+2020-02-14;Fri;Pasta;Gorgonzolasoße mit Walnuss;4,69;2,58;0
+2020-02-14;Fri;Auflauf;Vollkornpastaauflauf mit mediterranem Gemüse und Gouda gratiniert;;;1
+2020-02-14;Fri;Auflauf;Pastaauflauf mit Tomaten in Käsesoße;3,9;2,15;1
+2020-02-14;Fri;Terrine;Kartoffelsuppe mit Wurzelgemüse;3,59;1,97;2
+2020-02-17;Mon;Angebote;Hackbraten mit Paprikasoße, dazu buntes Gemüse und Kartoffelpürree;4,91;2,7;0
+2020-02-17;Mon;Angebote;Pilzrisotto mit Bärlauchpesto und mariniertem Rucola;5,18;2,85;1
+2020-02-17;Mon;Angebote;Hausgemachte Pasta, heute Aglio e Olio mit Schafskäse;;;1
+2020-02-17;Mon;Angebote;Pizza mit Kochschinken;5,04;2,77;0
+2020-02-17;Mon;Angebote;Pizza mit Spinat, Mais und Hirtenkäse;5,04;2,77;1
+2020-02-17;Mon;GRILL;Drei Grillwürstchen mit Letscho und Kartoffelecken, dazu Salat;;;0
+2020-02-17;Mon;Pasta;Chili-Lauchsoße;4,69;2,58;1
+2020-02-17;Mon;Pasta;Tomatensoße mit Schinken;4,69;2,58;0
+2020-02-17;Mon;Auflauf;Kartoffel-Spinatauflauf;3,9;2,15;1
+2020-02-17;Mon;Terrine;Blumenkohlsuppe mit roten Linsen und Kresse;3,59;1,97;2
+2020-02-17;Mon;Terrine;Exotischer Geflügeltopf;3,59;1,97;0
+2020-02-18;Tue;Angebote;"Rindergeschnetzeltes ""Stroganoff"" mit Grilltomate und Kartoffelrösti";5,36;2,95;0
+2020-02-18;Tue;Angebote;Zucchini im Cornflakesmantel mit fruchtiger Tomatensoße, dazu gemischter Wildreis und Salat;4,64;2,4;2
+2020-02-18;Tue;Angebote;Pizza mit Kochschinken;5,04;2,77;0
+2020-02-18;Tue;Angebote;Pizza mit Spinat, Mais und Hirtenkäse;5,04;2,77;1
+2020-02-18;Tue;WOK;Chilifleisch mit Bohnen und Pfirsich aus dem Wok, dazu Mie Nudeln;;;0
+2020-02-18;Tue;GRILL;Burritos Mexikanische Tortillas mit veganem Chili gefüllt und Mango-Chutny;;;2
+2020-02-18;Tue;Pasta;Tomatensoße mit Wurzelgemüse;4,69;2,58;2
+2020-02-18;Tue;Pasta;Pute in Pilzrahmsoße;4,69;2,58;0
+2020-02-18;Tue;Auflauf;Kartoffel-Spinatauflauf;3,9;2,15;1
+2020-02-18;Tue;Terrine;Blumenkohlsuppe mit roten Linsen und Kresse;3,59;1,97;2
+2020-02-18;Tue;Terrine;Exotischer Geflügeltopf;3,59;1,97;0
+2020-02-19;Wed;Angebote;Seelachsfilet in Eipanade auf grünem Erbspüree, dazu Salat;6,05;3,33;0
+2020-02-19;Wed;Angebote;Ofenkartoffeln mit Radieschen-Kressequark und Gurkensalat;4,27;2,35;1
+2020-02-19;Wed;Angebote;Hausgemachte Pasta, heute mit Ragù napoletano und  geriebenem Gouda;4,27;2,2;0
+2020-02-19;Wed;Angebote;Pizza Missouri mit Schweinefleisch, Paprika und Hirtenkäse;5,04;2,77;0
+2020-02-19;Wed;Angebote;Pizza Colorata mit Mais, Lauch und rotem Paprika;5,04;2,77;1
+2020-02-19;Wed;GRILL;Gegrillte Hähnchenbrust in Kokos-Mangosoße, dazu Broccoli und Kartoffelbällchen oder Reis;5,8;3,19;0
+2020-02-19;Wed;Pasta;Spanische Hackfleischsoße;4,69;2,58;0
+2020-02-19;Wed;Pasta;Rahmsoße mit Tomaten und Auberginen;4,69;2,58;1
+2020-02-19;Wed;Auflauf;Gemüsereis mit Ratatouille und Käse überbacken;;;1
+2020-02-19;Wed;Auflauf;Gratinierte Vollkornpasta mit Pute in Pilzrahm;;;0
+2020-02-19;Wed;Terrine;Blumenkohlsuppe mit roten Linsen und Kresse;3,59;1,97;2
+2020-02-19;Wed;Terrine;Exotischer Geflügeltopf;3,59;1,97;0
+2020-02-20;Thu;Angebote;Gyrosbraten vom Schwein auf Paprikakraut, dazu Quarkdip und Bratkartoffeln;5,62;2,94;0
+2020-02-20;Thu;Angebote;Scharfes Kartoffel-Kürbiscurry mit Gemüsebällchen und mariniertem Feldsalat;4,27;2,35;2
+2020-02-20;Thu;Angebote;Pizza Colorata mit Mais, Lauch und rotem Paprika;5,04;2,77;1
+2020-02-20;Thu;Angebote;Pizza Missouri mit Schweinefleisch, Paprika und Hirtenkäse;5,04;2,77;0
+2020-02-20;Thu;WOK;Lammfleisch mit Lauch, Karotten und Sojasprossen, dazu Basmati Reis;;;0
+2020-02-20;Thu;GRILL;Gebratenes Lachsfilet dazu hausgemachte Pasta mit Basilikumpesto;7,87;4,33;0
+2020-02-20;Thu;Pasta;Mailänder Nudelsoße;4,69;2,58;0
+2020-02-20;Thu;Pasta;Pastasoße mit Champignons und getrockneten Tomaten;4,69;2,58;1
+2020-02-20;Thu;Auflauf;Kartoffel-Spinatauflauf;3,9;2,15;1
+2020-02-20;Thu;Terrine;Blumenkohlsuppe mit roten Linsen und Petersilie;;;2
+2020-02-20;Thu;Terrine;Exotischer Geflügeltopf;3,59;1,97;0
+2020-02-21;Fri;Angebote;Schweineschnitzel in Röstzwiebelpanade mit Gurken-Apfelquark und Pommes frites;5,45;3,0;0
+2020-02-21;Fri;Angebote;Gebratene Schupfnudeln mit Mandeln und Honig, dazu heiße Pflaumen;4,27;2,35;1
+2020-02-21;Fri;Angebote;Flammkuchen mit Tomate und Mozzarella;;;1
+2020-02-21;Fri;Angebote;Flammkuchen mit Schmand, Bauchspeck und Lauch;;;0
+2020-02-21;Fri;WOK;Eierreis mit Hähnchenfleisch, Möhren, Erbsen und Lauch;;;0
+2020-02-21;Fri;GRILL;Ratatouille von frischem Gemüse mit Kräuterdip, dazu Kartoffelrösti-Sticks;5,8;3,19;2
+2020-02-21;Fri;Pasta;Sahnesoße mit Wurzelgemüse und Lachs;4,69;2,58;0
+2020-02-21;Fri;Pasta;Chili sin carne;4,69;2,58;1
+2020-02-21;Fri;Auflauf;Gratinierte Penne mit Ragú napolitano und Champignons;;;0
+2020-02-21;Fri;Auflauf;Gratinierte Penne mit Mailänder Soße;;;0
+2020-02-21;Fri;Terrine;Kartoffel-Linsentopf mit Gemüse und Kassler;3,59;1,97;0
+2020-02-21;Fri;Terrine;Kartoffel-Linsentopf mit Gemüse;3,59;1,97;2
+2020-02-24;Mon;Angebote;Bratwurst vom Dürrröhrsdorfer Fleischer mit Sauerkraut und Kartoffelpüree;;;0
+2020-02-24;Mon;Angebote;Panierte Champignons im Backteig auf Kresse-Hollandaise, dazu Gemüseschwenkkartoffeln;;;1
+2020-02-24;Mon;Angebote;Hausgemachte Pasta, heute Trecce alla greco, dazu Schafskäse;4,27;2,35;1
+2020-02-24;Mon;Angebote;Pizza mit Hähnchenfleisch, Blattspinat und Creme fraiche;;;0
+2020-02-24;Mon;Angebote;Pizza Caprese mit Tomaten, Basilikum und Mozzarella;;;1
+2020-02-24;Mon;GRILL;Gebratene Möhren und Schwarzwurzel auf Kichererbsendip, dazu Zitronen-Linsen Couscous;4,24;2,35;2
+2020-02-24;Mon;Pasta;Käserahmsoße mit Blattspinat;4,69;2,58;1
+2020-02-24;Mon;Pasta;Tomatensoße mit Jagdwurst;;;0
+2020-02-24;Mon;Auflauf;Gratinierte Spätzle mit Schinken und Pilzen;3,9;2,15;0
+2020-02-24;Mon;Terrine;Rote-Bete-Ingwersuppe;3,59;1,97;2
+2020-02-24;Mon;Terrine;Linseneintopf, süß sauer Wiener Würstchen extra;;;0
+2020-02-25;Tue;Angebote;Szegediner Gulasch mit Hefeknödeln oder Kartoffeln;5,05;2,78;0
+2020-02-25;Tue;Angebote;Kleine Frühlingsrollen auf Ingwer-Blattspinat, dazu Basmati Reis;;;2
+2020-02-25;Tue;Angebote;Pizza mit Hähnchenfleisch, Blattspinat und Creme fraiche;5,04;2,77;0
+2020-02-25;Tue;Angebote;Pizza Caprese mit Tomaten, Basilikum und Mozzarella;;;1
+2020-02-25;Tue;WOK;Wokgemüse süßsauer auf Mie Nudeln;;;1
+2020-02-25;Tue;GRILL;Rückensteak vom Schwein mit Kräuterbutter, Pommes frites und Tomaten-Gurkensalat;;;0
+2020-02-25;Tue;Pasta;Pute asiatisch;4,69;2,58;0
+2020-02-25;Tue;Pasta;Basilikumsoße;4,69;2,58;1
+2020-02-25;Tue;Auflauf;Gratinierte Spätzle mit Schinken und Pilzen;3,9;2,15;0
+2020-02-25;Tue;Auflauf;Gemüsekartoffeln mit Kresse-Hollandaise und Käse überbacken;;;1
+2020-02-25;Tue;Terrine;Rote-Bete-Ingwersuppe;3,59;1,97;2
+2020-02-25;Tue;Terrine;Linseneintopf, süß sauer, Wiener Würstchen extra;3,59;1,97;0
+2020-02-26;Wed;Angebote;Paniertes Alaska Seelachsfilet mit Speckwürfeln, dazu Bratkartoffeln und Salat;6,05;3,33;0
+2020-02-26;Wed;Angebote;Zwei gekochte Eier in Bautzner Senfsoße, dazu Möhrengemüse und Petersilienkartoffeln;4,27;2,2;1
+2020-02-26;Wed;Angebote;Hausgemachte Pasta, heute Maccheroni mit Kressepesto und Mozzarella;4,27;2,35;1
+2020-02-26;Wed;Angebote;Pizza Soja-Gyros mit Zwiebeln, Paprika und Tsatsiki;;;1
+2020-02-26;Wed;Angebote;Pizza mit Kochschinken und Lauch;5,04;2,77;0
+2020-02-26;Wed;GRILL;Schweinebraten aus der Keule mit Bayrischkraut und Herzoginkartoffeln;5,44;2,99;0
+2020-02-26;Wed;Pasta;Frischkäse-Walnusssoße;4,69;2,58;1
+2020-02-26;Wed;Pasta;Tomatensoße Bolognese;;;0
+2020-02-26;Wed;Auflauf;Gratinierte Spätzle mit Schinken und Pilzen;3,9;2,15;0
+2020-02-26;Wed;Terrine;Linseneintopf, süß sauer Wiener Würstchen extra;3,59;1,97;0
+2020-02-26;Wed;Terrine;Rote-Bete-Ingwersuppe;3,59;1,97;2
+2020-02-27;Thu;Angebote;Geflügelfrikassee mit Erbsen und Reis oder Kräuterkartoffeln;4,64;2,55;0
+2020-02-27;Thu;Angebote;Broccoli-Nussecke oder Sojaschnitzel auf Kichererbsen-Kartoffelsalat, dazu Curry-Sojadip;6,05;2,66;1
+2020-02-27;Thu;Angebote;Pizza mit Kochschinken und Lauch;5,04;2,77;0
+2020-02-27;Thu;Angebote;Pizza Soja-Gyros mit Zwiebeln, Paprika und Tsatsiki;5,04;2,77;1
+2020-02-27;Thu;WOK;Schweinefleisch mit Backpflaumen und Kürbis aus dem Wok, dazu Glasnudeln;6,05;3,18;0
+2020-02-27;Thu;GRILL;Pulled-Beef Burger mit Coleslaw-Salat und Pommes frites;;;0
+2020-02-27;Thu;Pasta;Lammcurry;4,69;2,58;0
+2020-02-27;Thu;Pasta;Pastasoße Vesuvianna mit Tomaten, Oliven und Kapern;4,69;2,58;2
+2020-02-27;Thu;Auflauf;Gratinierte Spätzle mit Schinken und Pilzen;;;0
+2020-02-27;Thu;Auflauf;Pastaauflauf mit Putenstreifen asiatisch;;;0
+2020-02-27;Thu;Auflauf;Pastaauflauf mit Tomaten, Basilikum und Hirtenkäse;;;1
+2020-02-27;Thu;Terrine;Linseneintopf, süß sauer Wiener Würstchen extra;3,59;1,97;0
+2020-02-27;Thu;Terrine;Rote-Bete-Ingwersuppe;3,59;1,97;2
+2020-02-28;Fri;Angebote;Schweineschnitzel mit Letscho und Pommes frites, dazu Salat;5,8;3,19;0
+2020-02-28;Fri;Angebote;Griechische Bratkartoffeln mit Oliven und Hirtenkäse, dazu Tsatsiki und Salat;;;1
+2020-02-28;Fri;Angebote;Türkische Pizza Lahmacun mit Tomaten und Zwiebeln;5,04;2,77;0
+2020-02-28;Fri;WOK;Hähnchenbrust mit Gemüse, Limetten und Kokos, dazu Thaireis;5,04;2,77;0
+2020-02-28;Fri;GRILL;Gebackene Camembert-Ecken mit Preiselbeer-Dip und Kräuterbaguette, dazu Salat;5,25;2,74;1
+2020-02-28;Fri;Pasta;Sahnesoße mit Shrimps und Dill;4,69;2,58;0
+2020-02-28;Fri;Pasta;Tomatenratatouille;4,69;2,58;2
+2020-02-28;Fri;Auflauf;Gratinierte Spätzle mit Schinken und Pilzen;;;0
+2020-02-28;Fri;Auflauf;Gratinierte Spätzle mit verschiedenen Gemüse in Tomatensoße;;;1
+2020-02-28;Fri;Terrine;Kartoffelsuppe mit Wurzelgemüse;3,59;1,97;2
+2020-03-02;Mon;Angebote;Königsberger Klopse mit Kapern- oder Dillsoße, dazu Broccoligemüse und Kartoffeln;5,07;2,79;0
+2020-03-02;Mon;Angebote;Drei Kartoffeltaschen mit Frischkäsefüllung auf rahmigem Wurzelgemüse;5,44;2,99;1
+2020-03-02;Mon;Angebote;Pizza Toskana mit Paprika, Champignons und Peperoni;5,04;2,77;1
+2020-03-02;Mon;Angebote;Pizza mit Salami;5,04;2,77;0
+2020-03-02;Mon;GRILL;Rinderhüftsteak mit Barbecue Soße, dazu Prinzessbohnen und Kartoffelecken;;;0
+2020-03-02;Mon;Hausgemachte Pasta, heute Linguine mit 9-Kräuterpesto (vegan), wahlweise ;italienischer Hartkäse;4,27;2,35;0
+2020-03-02;Mon;Pasta;Pastasoße Carbonara;4,69;2,58;0
+2020-03-02;Mon;Pasta;Tomatensoße mit Ricotta;4,69;2,58;1
+2020-03-02;Mon;Auflauf;Tortelloni mit Spinat-Ricottafüllung in Tomatensoße;;;1
+2020-03-02;Mon;Terrine;Gulasch-Pilztopf;3,59;1,97;0
+2020-03-02;Mon;Terrine;Winterlicher Kartoffeleintopf;3,59;1,97;2
+2020-03-03;Tue;Angebote;Eibauer Schwarzbierfleisch mit Butterbohnen und Hefeknödeln oder Kartoffeln;5,04;2,77;0
+2020-03-03;Tue;Angebote;Champignonpfanne mit kleinen Kartoffelklößen und Salat;4,99;2,59;2
+2020-03-03;Tue;Angebote;Pizza mit Salami;5,04;2,77;0
+2020-03-03;Tue;Angebote;Pizza Toskana mit Paprika, Champignons und Peperoni;5,04;2,77;1
+2020-03-03;Tue;WOK;Hähnchengeschnetzeltes Szechuan mit Basmati Reis;;;0
+2020-03-03;Tue;GRILL;Krautnudeln mit Salami und geriebenem Käse;4,99;2,74;0
+2020-03-03;Tue;Pasta;Pute in fruchtiger Currysoße;4,69;2,58;0
+2020-03-03;Tue;Pasta;Tomatensoße mit Paprika;4,69;2,58;2
+2020-03-03;Tue;Auflauf;Tortelloni mit Spinat-Ricottafüllung in Tomatensoße;;;1
+2020-03-03;Tue;Terrine;Gulasch-Pilztopf;3,59;1,97;0
+2020-03-03;Tue;Terrine;Winterlicher Kartoffeleintopf;3,59;1,97;2
+2020-03-04;Wed;Angebote;Seelachsfilet Bordelaise mit Reis und Gurkensalat;5,98;3,14;0
+2020-03-04;Wed;Angebote;Gebratene Salbeignocchi mit Tomaten-Zucchiniragout und Salat;5,22;2,87;2
+2020-03-04;Wed;Angebote;Hausgemachte Pasta, heute Amori Puttanesca mit Mozzarella;4,27;2,35;1
+2020-03-04;Wed;Angebote;Pizza Kreta mit Lauch und Hirtenkäse;5,04;2,77;1
+2020-03-04;Wed;Angebote;Pizza Texas mit Schweinefleisch, Bauchspeck, Ei und BBQ-Dip;5,04;2,77;0
+2020-03-04;Wed;GRILL;Hähnchengyros mit Tsatsiki und Kraut, dazu Fladenbrot;5,42;2,98;0
+2020-03-04;Wed;Pasta;Chili con carne;4,69;2,58;0
+2020-03-04;Wed;Pasta;Rahmsoße mit Erbsen und Paprika;4,69;2,58;1
+2020-03-04;Wed;Auflauf;Tortelloni mit Spinat-Ricottafüllung in Tomatensoße;3,9;2,15;1
+2020-03-04;Wed;Terrine;Winterlicher Kartoffeleintopf;3,59;1,97;2
+2020-03-04;Wed;Terrine;Ungarischer Kesselgulasch;3,59;1,97;0
+2020-03-05;Thu;Angebote;Ragout vom Sauerbraten mit Rotkohl, dazu Klöße oder Kartoffeln;5,8;3,19;0
+2020-03-05;Thu;Angebote;Bulgurpfanne mit Nüssen und Trockenfrüchten, dazu zwei Rote-Bete Schnitzel;5,24;2,88;2
+2020-03-05;Thu;Angebote;Pizza Kreta mit Lauch und Hirtenkäse;5,04;2,77;1
+2020-03-05;Thu;Angebote;Pizza Texas mit Schweinefleisch, Bauchspeck, Ei und BBQ-Dip;5,04;2,77;0
+2020-03-05;Thu;WOK;Gebratene Nudeln mit Ei, Gemüse und Schweinefleisch;;;0
+2020-03-05;Thu;GRILL;Alaska Seelachs in Eipanade mit Zitronenbutter und Nudelsalat;5,62;3,09;0
+2020-03-05;Thu;Pasta;Käsesoße;4,69;2,58;1
+2020-03-05;Thu;Pasta;Gulaschsoße;4,69;2,58;0
+2020-03-05;Thu;Auflauf;Tortelloni mit Spinat-Ricottafüllung in Tomatensoße;;;1
+2020-03-05;Thu;Auflauf;Pastaauflauf mit Pute, Champignons und Curry;;;0
+2020-03-05;Thu;Terrine;Winterlicher Kartoffeleintopf;3,59;1,97;2
+2020-03-05;Thu;Terrine;Ungarischer Kesselgulasch;3,59;1,97;0
+2020-03-06;Fri;Angebote;Schweinerückensteak in Senf-Eihülle mit Rahmerbsen und Pommes frites;;;0
+2020-03-06;Fri;Angebote;Kaiserschmarrn mit Apfelmus und Puderzucker;;;1
+2020-03-06;Fri;Angebote;Burrito mit Soja, Peperoni, Kidneybohnen, Eisbergsalat und Paprika;;;2
+2020-03-06;Fri;Angebote;Burrito mit Hackfleisch, Peperoni, Kidneybohnen Eisbergsalat und Paprika;;;0
+2020-03-06;Fri;WOK;Putencurry mit Apfel und Kürbis, dazu Spätzle;4,27;2,35;0
+2020-03-06;Fri;GRILL;Sanft gegartes Rindfleisch (Tafelspitz) mit Kräutersoße oder Meerrettichsoße, dazu Bouillonkartoffeln;5,98;3,14;0
+2020-03-06;Fri;Pasta;Gemüsebolognese;4,69;2,58;2
+2020-03-06;Fri;Pasta;Lauchrahmsoße mit Thunfisch;4,69;2,58;0
+2020-03-06;Fri;Auflauf;Pastaauflauf mit Gemüse-Chili und Käse gratiniert;;;1
+2020-03-06;Fri;Terrine;Bunte Gemüsecremesuppe;3,59;1,97;2
