@@ -2,6 +2,7 @@
 import requests
 from datetime import date, datetime, timedelta
 import csv
+import os
 
 API_URL = 'https://openmensa.org/api/v2'
 
@@ -46,14 +47,18 @@ canteens = [[79, "alteMensa"], [78, "zeltschloesschen"],
             [82, "siedepunkt"], [88, "bioMensa"]]
 
 if __name__ == "__main__":
-    sdate = date(2018, 1, 1)   # start date
-    edate = date(2018, 12, 31)   # end date
+    year = 2020
+    sdate = date(year, 1, 1)   # start date
+    edate = date(year, 3, 31)   # end date
 
     delta = edate - sdate       # as timedelta
 
     for canteen in canteens:
         results = []
-        filename = 'data/{}_2018_mittags.csv'.format(canteen[1])
+        newpath = r'data/'+str(year)
+        if not os.path.exists(newpath):
+            os.makedirs(newpath)
+        filename = 'data/{}/{}_mittags.csv'.format(year, canteen[1])
         with open(filename, 'wt') as f:
             csv_writer = csv.writer(f, delimiter=';', dialect='excel')
             # write head
