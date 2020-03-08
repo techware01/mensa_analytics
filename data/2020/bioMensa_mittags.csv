@@ -1,0 +1,131 @@
+date;weekday;category;name;employees;students;type
+2020-01-06;Mon;Angebote;Geflügelragout mit Erbsen und Möhren in Rahmsoße an Couscous;6,75;3,71;0
+2020-01-06;Mon;Angebote;Kichererbsencurry mit Paprika an Couscous;6,0;3,15;2
+2020-01-07;Tue;Angebote;Lasagne Bologneser Art mit kleinem Salat;;;0
+2020-01-07;Tue;Angebote;Reisauflauf mit Geflügel und Gemüsen;5,9;3,25;0
+2020-01-08;Wed;Angebote;Hamburger mit Rinderhacksteak, Tomate, Gurke und krossem Landschinken;7,7;4,09;0
+2020-01-08;Wed;Angebote;Veganer Burger mit Tomate, Gurke und Blumenkohl-Hirsebratling;6,8;3,74;2
+2020-01-08;Wed;Angebote;Portion Pommes frites mit Ketchup oder Mayonnaise;3,74;2,06;1
+2020-01-09;Thu;Angebote;Gyros mit Tsatsiki an Tomatenreis und Weißkraut-Paprikasalat;7,8;4,29;0
+2020-01-09;Thu;Angebote;Griechische Reispfanne mit Feta, dazu Tsatsiki und Weißkraut-Paprikasalat;6,6;3,48;1
+2020-01-10;Fri;Angebote;Sauerbraten mit Rotkohl und Kartoffelklöße Petersilienkartoffeln;8,0;4,4;0
+2020-01-10;Fri;Angebote;Tofu nach Sauerbraten Art mit Rotkohl dazu Kartoffelklöße oder Petersilienkartoffeln;6,2;3,26;2
+2020-01-10;Fri;Angebote;Apfel Crumble;4,5;2,48;1
+2020-01-13;Mon;Angebote;Fussilli mit Rinderhack in Gorgonzolasoße mit Rucola;7,5;4,13;0
+2020-01-13;Mon;Angebote;Fussilli mit Spinatpesto und Veggie filata;6,5;3,43;2
+2020-01-14;Tue;Angebote;Szegediner Gulasch an Petersilienkartoffeln;7,2;3,81;0
+2020-01-14;Tue;Angebote;Gegrillte Scheiben von Zucchini und Kürbis an Couscous und Kräutersojacreme dazu Salat;5,5;3,03;2
+2020-01-15;Wed;Angebote;Hamburger mit Rinderhacksteak, Rucola und Tomate;7,6;4,03;0
+2020-01-15;Wed;Angebote;Veganer Burger mit Linsenbratling, Rucola und Tomate;6,6;3,63;2
+2020-01-15;Wed;Angebote;Portion Pommes frites mit Ketchup oder Mayonnaise;3,74;2,06;1
+2020-01-16;Thu;Angebote;Schweineschnitzel vom Kamm mit Zitronenecke und mediterranem Nudelsalat;7,1;3,91;0
+2020-01-16;Thu;Angebote;Panierter Mozzarella mit Zitronenecke und mediterranem Nudelsalat;;;1
+2020-01-17;Fri;Angebote;Deftiger Schweinebraten an Bayrisch Kraut und Schwenkkartoffeln;7,1;3,76;0
+2020-01-17;Fri;Angebote;Schwenkkartoffeln an Rote-Bete-Salat mit Kräuter-Dip und Blattsalaten;5,6;3,08;2
+2020-01-17;Fri;Angebote;Milchgrieß mit Heidelbeeren, Zucker und Zimt;4,5;2,48;1
+2020-01-20;Mon;Angebote;Tiegelwurst mit Sauerkraut und Petersilienkartoffeln;7,0;3,7;0
+2020-01-20;Mon;Angebote;Lasagne mit Süßkartoffeln und Lauch dazu ein kleiner Salat;5,6;3,08;1
+2020-01-21;Tue;Angebote;Schweinesteak in Zwiebel-Senf-Eihülle an Couscoussalat und Sojacreme;7,1;3,91;0
+2020-01-21;Tue;Angebote;Pakoras von Zucchini, Brokkoli und Möhre an Couscoussalat und Sojacreme;;;2
+2020-01-22;Wed;Angebote;Cheeseburger mit Rinderhacksteak;7,5;4,13;0
+2020-01-22;Wed;Angebote;Veganer Burger mit Bohnenbratling;7,0;3,7;2
+2020-01-22;Wed;Angebote;Portion Pommes frites mit Ketchup oder Mayonnaise;3,74;2,06;1
+2020-01-23;Thu;Angebote;Rindsragout mit Paprika und Mais auf Spätzle oder Kartoffeln;;;0
+2020-01-23;Thu;Angebote;Spätzlepfanne mit Blattspinat, Kirschtomaten und Röstzwiebeln;5,8;3,19;2
+2020-01-24;Fri;Angebote;Bratwurstgyros an Kräuterreis und Weißkrautsalat;6,5;3,43;0
+2020-01-24;Fri;Angebote;Ragout von roten Linsen und Apfel an Kräuterreis und Weißkrautsalat;5,4;2,97;2
+2020-01-24;Fri;Angebote;Kaiserschmarrn mit Puderzucker und Apfelmus;6,8;3,74;1
+2020-01-27;Mon;Angebote;Penne mit Tomatensoße Bolognese, dazu geriebener Gouda;6,0;3,15;0
+2020-01-27;Mon;Angebote;Penne mit Zucchini-Petersilien-Pesto, dazu Veggie filata;5,6;3,08;2
+2020-01-28;Tue;Angebote;Gebackenes Jägerschnitzel auf Tomatensoße an Kartoffelstampf und Salat;7,8;4,29;0
+2020-01-28;Tue;Angebote;Gebackene Aubergine mit Tomate an Stampfkartoffeln und Tomatensoße, dazu Blattsalate;;;2
+2020-01-29;Wed;Angebote;Hamburger mit Rinderhacksteak auf Avocadocreme, Rucola und Tomate;7,5;4,13;0
+2020-01-29;Wed;Angebote;Veganer Burger mit Linsenbratling, Avocadocreme, Rucola und Tomate;6,5;3,43;2
+2020-01-29;Wed;Angebote;Portion Pommes frites mit Ketchup oder Mayonnaise;3,74;2,06;1
+2020-01-30;Thu;Angebote;Schweinegulasch mit Bohnen-Paprikagemüse und Reis oder Kartoffelstampf;7,2;3,81;0
+2020-01-30;Thu;Angebote;Gebratene Gnocchis mit Kürbis und Blattspinat, dazu Tomatensoße;;;2
+2020-01-31;Fri;Angebote;Schweinebraten an Spitzkohl-Rahmgemüse und Schwenkkartoffeln;7,0;3,85;0
+2020-01-31;Fri;Angebote;Spinat-Ofenomelett mit Joghurtdip an Schwenkkartoffeln und Salat;6,0;3,15;1
+2020-01-31;Fri;Angebote;Milchreis mit Pflaumen, Zucker und Zimt;5,2;2,86;1
+2020-02-03;Mon;Angebote;Würziges Chili con carne an Couscous oder Schwenkkartoffeln und kleinem Salat;6,5;3,43;0
+2020-02-03;Mon;Angebote;Linsencurry mit Paprika und Lauchzwiebeln an Couscous oder Schwenkkartofeln und kleinem Salat;;;2
+2020-02-04;Tue;Angebote;Podemuser Kammsteak mit Salami und Gouda gratiniert an Pommes frites und Erbsengemüse;8,5;4,68;0
+2020-02-04;Tue;Angebote;Risotto mit Rote Bete, Apfel und Rucola;5,4;2,82;2
+2020-02-05;Wed;Angebote;Hamburger mit Rinderhacksteak, Kräutermayonnaise, Tomate und krossem Landschinken;7,7;4,09;0
+2020-02-05;Wed;Angebote;Hamburger mit Kichererbsenbratling, Kräutermayonnaise und Tomate;6,5;3,58;2
+2020-02-05;Wed;Angebote;Portion Pommes frites mit Ketchup oder Mayonnaise;3,74;2,06;1
+2020-02-06;Thu;Angebote;Knackiges Wokgemüse mit Schweinefleisch und Rindfleisch an Kräuterreis;6,6;3,63;0
+2020-02-06;Thu;Angebote;Knackiges Wokgemüse mit gebackener Currybanane und Kräuterreis;;;2
+2020-02-07;Fri;Angebote;Geschmorter Rinderbraten an grünen Bohnen und Petersilienkartoffeln;8,1;4,31;0
+2020-02-07;Fri;Angebote;Szegediner Tofugulasch mit Kräuterkartoffeln;6,5;3,58;2
+2020-02-07;Fri;Angebote;Ananas-Quarkauflauf mit Sauerkirschen;6,3;3,47;1
+2020-02-10;Mon;Angebote;Putencurry mit Apfel und Kürbis an Kräuterreis;7,6;4,18;0
+2020-02-10;Mon;Angebote;Apfel-Linsenragout mit Lauch und Sonnenblumenkernen an Kräuterreis;5,9;3,1;2
+2020-02-11;Tue;Angebote;Lasagne Bologneser Art an kleinem Salat;6,9;3,8;0
+2020-02-11;Tue;Angebote;Bratkartoffeln mit Tomaten und Mozzarella, dazu Weißkraut-Paprikasalat;6,8;3,59;1
+2020-02-12;Wed;Angebote;Hamburger vom Rind mit Rucola, Tomate und Mozzarella;7,7;4,09;0
+2020-02-12;Wed;Angebote;Veganer Burger mit Bohnenbratling, Rucola und Tomate;7,1;3,91;2
+2020-02-12;Wed;Angebote;Portion Pommes frites mit Ketchup oder Mayonnaise;3,74;2,06;1
+2020-02-13;Thu;Angebote;Schweinegulasch an Bohnen-Paprikagemüse und Salzkartoffeln oder Bratkartoffeln;7,4;3,92;0
+2020-02-13;Thu;Angebote;Süßkartoffelcurry mit Kürbis und Lauchzwiebeln an Couscous und kleinem Salat;6,4;3,52;2
+2020-02-14;Fri;Angebote;Krautnudeln mit Salami und Kräuterdip;6,9;3,8;0
+2020-02-14;Fri;Angebote;Vegane Krautnudeln mit Tofu und Kräuterdip;6,3;3,32;2
+2020-02-14;Fri;Angebote;Milchgrieß mit Erdbeeren, Zucker und Zimt;5,2;2,86;1
+2020-02-17;Mon;Angebote;Fussilli mit Wurstgulasch und geriebenem Gouda;6,9;3,8;0
+2020-02-17;Mon;Angebote;Fussilli mit Rucolapesto und Kirschtomaten dazu Veggie filata;6,1;3,21;2
+2020-02-18;Tue;Angebote;Mit Hackfleisch gefüllte Zucchini auf Tomatensoße an Couscous und kleinem Salat;6,5;3,58;0
+2020-02-18;Tue;Angebote;Mit Tofu gefüllte Zucchini auf Tomatensoße an Couscous und kleinem Salat;6,2;3,26;2
+2020-02-19;Wed;Angebote;Pulled Pork mit Weißkrautsalat im Burgerbrötchen;7,3;3,87;0
+2020-02-19;Wed;Angebote;Veganer Burger mit Bulgur-Paprikabratling und Zitronenmayonnaise;6,6;3,63;2
+2020-02-19;Wed;Angebote;Portion Pommes frites mit Ketchup oder Mayonnaise;3,74;2,06;1
+2020-02-20;Thu;Angebote;Rindergulasch mit Pilzen an Kräuterreis;6,5;3,58;0
+2020-02-20;Thu;Angebote;Risotto mit Kürbis, Lauchzwiebel und Feldsalat;4,1;2,11;2
+2020-02-21;Fri;Angebote;Kartoffelsuppe mit Gemüsen und Bockwurst dazu eine Scheibe Mischbrot;6,2;3,41;0
+2020-02-21;Fri;Angebote;Shogok tibetanisches Kartoffelcurry mit Reis und kleinem Salat;4,7;2,44;2
+2020-02-21;Fri;Angebote;Apfel Crumble;4,5;2,48;2
+2020-02-24;Mon;Angebote;Geflügelfrikassee mit Erbsen und Möhren an Kräuterreis;6,5;3,43;0
+2020-02-24;Mon;Angebote;Kichererbsenragout mit Paprika und Lauchzwiebel an Kräuterreis;5,6;3,08;2
+2020-02-25;Tue;Angebote;Podemuser Bratwurst an Bratkartoffeln und Weißkraut-Paprikasalat;7,2;3,96;0
+2020-02-25;Tue;Angebote;Hausgemachter Blumenkohl-Hirsenbrätling an Bratkartoffeln und Weißkraut-Paprikasalat;6,6;3,48;2
+2020-02-26;Wed;Angebote;Hamburger mit Rinderhacksteak, saurer Gurke und Tomate;7,05;3,88;0
+2020-02-26;Wed;Angebote;Veganer Burger mit Linsenbratling, saurer Gurke und Tomate;6,55;3,45;2
+2020-02-26;Wed;Angebote;Portion Pommes frites mit Ketchup oder Mayonnaise;3,74;2,06;1
+2020-02-27;Thu;Angebote;Szegediner Gulasch mit Sauerkraut an Bratkartoffeln;7,2;3,81;0
+2020-02-27;Thu;Angebote;Indisches Hülsenfrüchtedal dazu gegrilltes Fladenbrot;5,5;3,03;2
+2020-02-28;Fri;Angebote;Podemuser Kammsteak Rostbrätel Art dazu gebackene Kartoffelecken und Bohnensalat;7,2;3,96;0
+2020-02-28;Fri;Angebote;Champignon in Sojarahmsoße mit Kräutern dazu Kartoffelecken und Bohnensalat;7,1;3,76;2
+2020-02-28;Fri;Angebote;Quarkauflauf mit Sauerkirschen;4,4;2,42;1
+2020-03-02;Mon;Angebote;Currywurst mit pikanter Soße dazu Pommes frites und kleiner Salat;7,8;4,14;0
+2020-03-02;Mon;Angebote;Risotto mit Zucchini, getrockneter Tomate und Rucola;6,6;3,63;2
+2020-03-03;Tue;Angebote;Gebackenes Jägerschnitzel an Makkaroni mit Tomatensoße und geriebenem Gouda;7,8;4,29;0
+2020-03-03;Tue;Angebote;Makkaroni mit Spinatpesto und Kirschtomaten dazu Veggie filata;6,3;3,32;2
+2020-03-04;Wed;Angebote;Cheeseburger mit Rinderhacksteak;7,7;4,24;0
+2020-03-04;Wed;Angebote;Veganer Burger mit Bohnenbratling;6,8;3,59;2
+2020-03-04;Wed;Angebote;Portion Pommes frites mit Ketchup oder Mayonnaise;3,74;2,06;1
+2020-03-05;Thu;Angebote;Mexikanisches Feuerfleisch an Kräuterreis;6,9;3,65;0
+2020-03-05;Thu;Angebote;Lasagne mit Süßkartoffeln und Lauch mit kleinem Salat;;;1
+2020-03-06;Fri;Angebote;Kräuterhacksteak an Stampfkartoffeln und Sahnegurken;7,9;4,2;0
+2020-03-06;Fri;Angebote;Hausgemachter Blumenkohl-Hirsenbrätling an Stampfkartoffeln und Sahnegurken;6,9;3,8;1
+2020-03-06;Fri;Angebote;Kaiserschmarrn mit Apfelmus und Puderzucker;;;1
+2020-03-09;Mon;Angebote;Penne mit Tomatensoße Bolognese und geriebenem Gouda;5,6;2,93;0
+2020-03-09;Mon;Angebote;Penne mit Tomatenpesto und Rucola dazu Veggie Filata;5,7;3,14;2
+2020-03-10;Tue;Angebote;Gebratener Fleischkäse mit Senf an Bratkartoffeln und Bohnensalat;6,9;3,8;0
+2020-03-10;Tue;Angebote;Gratinierte Polenta mit Tomate und Mozzarella an Bratkartoffeln und Bohnensalat;6,6;3,48;1
+2020-03-11;Wed;Angebote;Hamburger mit Rinderhacksteak und krossem Landschinken auf Kräutermayonnaise;7,1;3,91;0
+2020-03-11;Wed;Angebote;Veganer Burger mit Kichererbsenbratling auf Kräutermayonnaise;6,7;3,54;2
+2020-03-11;Wed;Angebote;Portion Pommes frites mit Ketchup oder Mayonnaise;3,74;2,06;1
+2020-03-12;Thu;Angebote;Kartoffeln mit Leberwurst und Kräuterquark;6,2;3,26;0
+2020-03-12;Thu;Angebote;Spätzle-Spinatpfanne mit Kirschtomaten und Röstzwiebeln dazu Tomatensoße;5,6;3,08;2
+2020-03-13;Fri;Angebote;Bratwurstgyros mit Zwiebeln an Kräuterreis und Weißkrautsalat;6,6;3,48;0
+2020-03-13;Fri;Angebote;Indisches Linsencurry an Kräuterreis und Weißkrautsalat;5,4;2,97;2
+2020-03-16;Mon;Angebote;Würziges Chili con carne mit Couscous und kleinem Salat;6,5;3,43;0
+2020-03-16;Mon;Angebote;Süßkartoffelcurry an Couscous und kleinem Salat;5,2;2,86;2
+2020-03-17;Tue;Angebote;Lasagne Bologneser Art mit Salat;6,9;3,8;0
+2020-03-17;Tue;Angebote;Grillgemüse im Fladenbrot;6,7;3,54;2
+2020-03-18;Wed;Angebote;Hamburger mit Rinderhacksteak, Tomate und Mozzarella auf Rucola;7,7;4,09;0
+2020-03-18;Wed;Angebote;Veganer Burger mit Linsenbratling, Tomate auf Rucola;6,5;3,58;2
+2020-03-18;Wed;Angebote;Portion Pommes frites mit Ketchup oder Mayonnaise;3,74;2,06;1
+2020-03-19;Thu;Angebote;Gyros vom Schwein an Tomatenreis und Spitzkohlsalat dazu Tsatsiki;7,9;4,35;0
+2020-03-19;Thu;Angebote;Griechische Reispfanne dazu Spitzkohlsalat und Tsatsiki;6,9;3,65;1
+2020-03-20;Fri;Angebote;Geschmorter Rinderbraten an Erbsen-Möhrengemüse und Kartoffeln;8,1;4,31;0
+2020-03-20;Fri;Angebote;Hausgemachte Kartoffel-Käsefrikadelle an Tomatenratatouille;6,8;3,74;1

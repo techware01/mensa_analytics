@@ -1,0 +1,224 @@
+date;weekday;category;name;employees;students;type
+2020-01-06;Mon;Angebote;Schweinesteak Strindberg mit Erbsengemüse und Pommes frites;4,93;2,71;0
+2020-01-06;Mon;Angebote;Drei Kartoffeltaschen mit Tomaten-Mozzarellafüllung auf Ratatouillegemüse und bunter Eisbergsalat;4,78;2,63;1
+2020-01-06;Mon;Angebote;Spirelli mit Porree-Hack-Käsesoße oder Rahmsoße mit Kürbis, dazu geriebenen Käse;4,27;2,2;0
+2020-01-07;Tue;Angebote;Lausitzer Kümmelbraten mit Bayrischkraut, dazu Kartoffelklöße oder Petersilienkartoffeln;5,09;2,8;0
+2020-01-07;Tue;Angebote;Käsesoufflee an Püree von Roten Linsen mit Tomate, Rosine, Minze und Ingwer, dazu Möhrensalat mit Rosinen;5,94;3,12;1
+2020-01-07;Tue;Angebote;Erbseneintopf mit gebratenen Knackerscheiben, dazu ein Brötchen oder Scheibe Brot;4,27;2,35;0
+2020-01-08;Wed;Angebote;Seelachsfilet in Sesampanade, dazu Kartoffel-Linsenstampf und Gurken-Tomatensalat;5,55;3,05;0
+2020-01-08;Wed;Angebote;Rahmspinat mit Rührei und Petersilienkartoffeln;4,45;2,45;1
+2020-01-08;Wed;Angebote;Hausgemachte sächsische Kartoffelpuffer mit Apfelmus;4,04;2,07;1
+2020-01-09;Thu;Angebote;Rucola-Süßkartoffelschnitte an Tomaten-Paprikaragout, dazu Couscous  mit Gemüse;4,27;2,35;2
+2020-01-09;Thu;Angebote;Krautnudeln vegetarisch oder mit Salami, dazu Tomatensoße und geriebenen Käse;4,65;2,56;0
+2020-01-09;Thu;Angebote;Cheeseburger mit Pommes frites;6,0;3,15;0
+2020-01-10;Fri;Angebote;Schweineschnitzel Cordon bleu mit Rahmkohlrabi und Pommes Twister;6,15;3,23;0
+2020-01-10;Fri;Angebote;Broccoli-Nußecke mit Tomaten-Avocado-Salsa, dazu orientalisches Risotto mit Lauch, Minze und Tomate;5,19;2,85;2
+2020-01-10;Fri;Angebote;Rösti-Ecken an Kräuterquark und Zupfsalat mit Zitrone;4,27;2,35;1
+2020-01-11;Sat;Angebote;Sauerbratenragout mit Apfelrotkohl und Spätzle;5,45;3,0;0
+2020-01-11;Sat;Angebote;Gemüse-Goudastäbchen an frischem Pfannengemüse mit Spatzle und Chili Tomaten Dip;5,64;3,1;1
+2020-01-12;Sun;Angebote;Hähnchenbrust in Honig Balsamicosoße, dazu buntes Gemüse und Rosmarinkartoffeln;5,91;3,25;0
+2020-01-12;Sun;Angebote;Valess-Schnitzel mit feiner Tomatenfüllung , dazu buntes Gemüse und Rosmarinkartoffeln;5,18;2,85;1
+2020-01-13;Mon;Angebote;Putensteak in einer Kornpanade, dazu buntes Gemüse und Pommes frites;5,91;3,1;0
+2020-01-13;Mon;Angebote;Karotten-Sesamschnitzel an Frischkäse-Basilikumsoße, dazu Schwarzwurzelgemüse und Tomatenebly;5,18;2,85;1
+2020-01-13;Mon;Angebote;Spaghetti Carbonara oder Rahmsoße mit Tomaten und Auberginen, dazu geriebenen Käse;4,27;2,35;0
+2020-01-14;Tue;Angebote;Glühweinbraten mit Kirschrotkohl und Kartoffelbällchen;5,55;3,05;0
+2020-01-14;Tue;Angebote;Pastinaken-Steckrübenrösti mit Champignon-Lauchgemüse und Bratkartoffeln;5,73;3,0;1
+2020-01-14;Tue;Angebote;Sächsische Kartoffelsuppe mit Wiener Würstchen oder vegetarisch mit Apfel, dazu eine Scheibe Brot oder ein Brötchen;4,27;2,35;0
+2020-01-15;Wed;Angebote;Paniertes Seelachsfilet mit Tartarsoße, dazu Kartoffelpüree und bunter Bohnensalat;5,45;3,0;0
+2020-01-15;Wed;Angebote;Zwei gekochte Eier auf Senfsoße mit Möhrengemüse und Petersilienkartoffeln;4,45;2,3;1
+2020-01-15;Wed;Angebote;Gemüselasagne;;;1
+2020-01-16;Thu;Angebote;Hähnchenkeule an Erbsen-Möhrengemüse oder Kirschrotkohl und Pommes frites;4,91;2,7;0
+2020-01-16;Thu;Angebote;Makkaroni Trevelli  mit Basilikumpesto und geriebenen Käse;4,27;2,35;1
+2020-01-16;Thu;Angebote;Milchgrieß mit zerlassender Butter, dazu Erdbeersoße und Zucker Zimt;4,18;2,15;1
+2020-01-17;Fri;Angebote;Tiegelwurst mit Sauerkraut und Petersilienkartoffeln;4,27;2,35;0
+2020-01-17;Fri;Angebote;Käsespätzle mit Tomatensoße und Salat;4,45;2,45;1
+2020-01-17;Fri;Angebote;Bayrisches Rösti mit Leberkäse und Ei, dazu bunter Krautsalat;5,55;2,9;0
+2020-01-18;Sat;Angebote;Couscous-Frikadelle an Gnocchipfanne mit Kohlrabi, Zucchini, Karotten und Erbsen, dazu Paprika-Sojajoghurt Dip und bunter Salat;5,58;3,07;2
+2020-01-18;Sat;Angebote;Sächsisches Senffleisch mit Rosenkohl und kleinen Kartoffelklößen;5,64;3,1;0
+2020-01-19;Sun;Angebote;Hackfleischfrikadelle mit Champignonsoße, dazu Schwarzwurzel-Karottengemüse und Schwenkkartoffeln;5,33;2,93;0
+2020-01-19;Sun;Angebote;Rote-Bete-Taler mit Champignonsoße, dazu Schwarzwurzel-Karottengemüse und Schwenkkartoffeln;5,33;2,93;1
+2020-01-20;Mon;Angebote;Schweinerückensteak Düsseldorfer Art ( überbacken mit einem Zwiebel-Senf Schmandragout), dazu buntes Gemüse und Amaizeing fries;5,76;3,02;0
+2020-01-20;Mon;Angebote;Schwarzwurzel-Knusperkarrees an Bulgursalat mit Linsen und Pfirsich, dazu scharfe Tomatensalsa;5,07;2,79;1
+2020-01-20;Mon;Angebote;Penne Rigate mit Bolognese oder Champignonsoße mit getrockneten Tomaten, dazu geriebenen Käse;4,27;2,35;0
+2020-01-21;Tue;Angebote;Putenbrustbraten mit Apfelsoße, dazu Kirschrotkohl und Kartoffelbällchen;5,36;2,95;0
+2020-01-21;Tue;Angebote;Ofengemüse an Gnocchi mit Tomatenpesto und Curry-Sojadip;6,27;3,3;2
+2020-01-21;Tue;Angebote;Deftiger Möhren-Kartoffeltopf mit gebraten Wiener Würstchen-Scheiben oder vegan Möhren-Kartoffeltopf mit einem Apfel, dazu ein Brötchen oder Scheibe Brot;4,27;2,35;0
+2020-01-22;Wed;Angebote;Fischstäbchen mit Möhren-Kartoffelstampf und Tomaten-Rucolasalat;5,82;3,05;0
+2020-01-22;Wed;Angebote;Marokkanische Kichererbsen-Pfanne mit Kurkumareis;4,27;2,35;2
+2020-01-22;Wed;Angebote;Mit Tomaten, Lauch und Käse gefüllte Ofenkartoffeln, dazu Bauernsalat;;;1
+2020-01-23;Thu;Angebote;Bandnudeln an Tomatensoße mit Ricotta, dazu geriebenen Käse;4,96;2,58;1
+2020-01-23;Thu;Angebote;Zwei Eierkuchen mit Beerensoße;4,06;2,23;1
+2020-01-23;Thu;Angebote;Burrito mit Hackfleisch, Peperoni, Kidneybohnen und Paprika, dazu Salat;5,43;2,99;0
+2020-01-24;Fri;Angebote;Hausgeräuchertes Schweinefilet mit Rotweinsoße, dazu Broccoliröschen und Herzoginkartoffeln;5,95;3,27;0
+2020-01-24;Fri;Angebote;Paprikaschote mit Couscous-Paprikafüllung, dazu Pestokartoffeln und Chinakohlsalat;5,73;3,0;2
+2020-01-24;Fri;Angebote;Scharfes Kartoffel-Kürbiscurry mit Falafelbällchen und Rotkohlsalat;4,27;2,35;1
+2020-01-25;Sat;Angebote;Kokos-Curry-Gemüseragout, dazu Ebly und Zupfsalat mit Limetten-Soja-Dressing;4,67;2,57;2
+2020-01-25;Sat;Angebote;Bratwurst an Sauerkraut und Kartoffelpüree;5,0;2,75;0
+2020-01-26;Sun;Angebote;Hähnchenbrustfilet mit Ananas und Käse überbacken, dazu buntes Gemüse und Bratkartoffeln;5,55;3,05;0
+2020-01-26;Sun;Angebote;Kohlrabi-Kräutermedaillons mit Schnittlauch-Dip, dazu buntes Gemüse und Bratkartoffeln;5,07;2,79;1
+2020-01-27;Mon;Angebote;Hähnchenbrustfilet in einer Käse-Eihülle, dazu Broccoliröschen und Pastasotto;5,33;2,98;0
+2020-01-27;Mon;Angebote;Röstoppers mit Philadelphia gefüllt, dazu frisches Pfannengemüse und Möhren Salat;5,55;2,9;1
+2020-01-27;Mon;Angebote;Vollkornspirelli an Tomaten-Basilikumsoße mit Salami oder an Käserahmsoße mit Blattspinat, dazu geriebenen Käse;4,27;2,35;0
+2020-01-28;Tue;Angebote;Schweinekrustenbraten von der Keule mit Prinzessbohnen, dazu Herzoginkartoffeln oder Petersilienkartoffeln;5,35;2,79;0
+2020-01-28;Tue;Angebote;Hausgemachte Linsenlaibchen mit Spitzkohl-Apfel-Currygemüse und Röstitaler;5,23;2,88;2
+2020-01-28;Tue;Angebote;Grüner Bohneneintopf mit Rindfleisch oder vegetarische Variation mit einem Apfel, dazu ein Brötchen oder Scheibe Brot;4,27;2,35;0
+2020-01-29;Wed;Angebote;Gebackenes Seelachsfilet in der Sesampanade an Mediterranen Nudelsalat, dazu Salatmix;5,6;3,08;0
+2020-01-29;Wed;Angebote;Strudelteig gefüllt mit Karotten, Erbsen, Bohnen, Blumenkohl, Kohlrabi und weißen Rüben, dazu Kräutersoße und zweierlei Salat;5,45;2,85;1
+2020-01-29;Wed;Angebote;Gratinierter Gemüse-Süßkartoffelgnocchi Auflauf;4,27;2,35;2
+2020-01-30;Thu;Angebote;Hirschgulasch mit Apfelrotkohl und Zapfenkroketten;5,73;3,0;0
+2020-01-30;Thu;Angebote;Penne Mezzanelli mit Zucchini-Basilikum-Pesto und gehobelter italienischer Hartkäse (enthält tierisches Lab);4,27;2,35;1
+2020-01-30;Thu;Angebote;Hausgemachte Kartoffel-Kürbiskernpuffer mit Tomaten-Schnittlauchquark;4,45;2,45;1
+2020-01-31;Fri;Angebote;Kohlroulade in deftiger Bratensoße, dazu Möhrengemüse und Petersilienkartoffeln;5,39;2,81;0
+2020-01-31;Fri;Angebote;Tofufbrädling mit Tomaten-Avocado-Salsa, dazu Gemüse-Bulgur und bunter Eisbergsalat;5,07;2,79;1
+2020-01-31;Fri;Angebote;Geflügelfrikassee mit Erbsengemüse und Reis;4,27;2,35;0
+2020-02-01;Sat;Angebote;Radeberger Braumeisterfleisch mit buntem Gemüse oder Apfel-Rotkohl, dazu Hefeknödel oder Petersilienkartoffeln;5,05;2,78;0
+2020-02-01;Sat;Angebote;Gemüse-Vollkorn-Bratling an Ratatouillegemüse mit Rosmarinkartoffeln;5,91;3,25;1
+2020-02-02;Sun;Angebote;Seußlitzer Kasslerkammbraten oder Schweinebraten mit Sauerkraut und Petersilienkartoffeln;5,19;2,85;0
+2020-02-02;Sun;Angebote;Pastinaken-Steckrübenrösti an Rahmwirsing und Petersilienkartoffeln;5,35;2,94;1
+2020-02-03;Mon;Angebote;Gebackene Spinat- Knuspermedaillons mit Mangochutney, dazu Gemüsecouscous und Chinakohlsalat;5,22;2,87;1
+2020-02-03;Mon;Angebote;Kasslersteak mit Honig-Meerrettichkruste, dazu buntes Gemüse und Amaizeing fries;5,91;3,1;0
+2020-02-03;Mon;Angebote;Spirelli mit Gulaschsoße oder Rahmsoße mit Tomaten und Zucchini, dazu geriebener Käse;4,27;2,35;0
+2020-02-04;Tue;Angebote;Hirschkeulenbraten an Birnenrotkohl und Kroketten;6,09;3,35;0
+2020-02-04;Tue;Angebote;Königsberger Klops mit buntem Gemüse und Schwenkkartoffeln;5,25;2,74;0
+2020-02-04;Tue;Angebote;Überbackener Gnocchi -Gemüseauflauf;4,27;2,35;1
+2020-02-05;Wed;Angebote;Seelachs-Schlemmerfilet Bordelaise an Kartoffelpüree und Gurkensalat;5,82;3,05;0
+2020-02-05;Wed;Angebote;Arancini, gebackene Reisbällchen auf Tomaten-Zucchiniragout und Rotkohlsalat;5,15;2,83;1
+2020-02-05;Wed;Angebote;Vier Hefeklöße mit Heidelbeersoße;4,27;2,35;1
+2020-02-06;Thu;Angebote;Hausgemachte Rindsroulade mit Gurken-Zwiebelfüllung, dazu Apfelrotkohl, Kartoffelklöße;7,07;3,74;0
+2020-02-06;Thu;Angebote;Orientalische Gemüsepfanne mit Couscous und scharfer Sojajoghurtsoße, dazu Feldsalat an Himbeerdressing;;;2
+2020-02-06;Thu;Angebote;Makkaroni mit Chili sin carne und geriebener Käse;4,27;2,35;1
+2020-02-06;Thu;Angebote;Kohlrabi-Steckrübencremesuppe;3,59;1,97;2
+2020-02-07;Fri;Angebote;Currywurst mit Soße, dazu Chiligemüse und Pommes frites;5,49;2,87;0
+2020-02-07;Fri;Angebote;Burrito mit Soja, Peperoni, Kidneybohen und Paprika, dazu Bauernsalat;5,44;2,99;1
+2020-02-07;Fri;Angebote;Kichererbsen-Gemüsecurry mit Basmati Reis;4,27;2,35;2
+2020-02-07;Fri;Angebote;Gelbe Erbsensuppe mit Knacker;3,59;1,97;0
+2020-02-08;Sat;Angebote;Hackfleischfrikadelle mit Zwiebelsoße, dazu buntes Gemüse und Petersilienkartoffeln;5,09;2,8;0
+2020-02-08;Sat;Angebote;Spinat-Dinkelplätzchen an Sizilianischem Pfannengemüse, dazu bunter Eisbergsalat;5,35;2,94;1
+2020-02-09;Sun;Angebote;Hähnchenschnitzel Cordon bleu an Cremechampignons und Röstitaler;5,11;2,81;0
+2020-02-09;Sun;Angebote;Blumenkohl im Backteig auf Tomaten Olivenragout mit Röstitaler;5,07;2,79;1
+2020-02-10;Mon;Angebote;Hähnchenbrust mit Paprika, Tomaten, Champignons und Hirtenkäse gratiniert, dazu Broccoli und Pommes Twister;6,0;3,15;0
+2020-02-10;Mon;Angebote;Polentatasche mit einer Füllung aus Spinat, Zwiebeln und Käse, dazu Linsencurry und Rotkohlsalat;4,82;2,65;1
+2020-02-10;Mon;Angebote;Gabelspaghetti mit Wurstgulasch oder Bolognese von Schwarzen Linsen, dazu geriebener Käse;4,27;2,35;0
+2020-02-10;Mon;Angebote;Bohneneintopf mit Rindfleisch;3,59;1,97;0
+2020-02-11;Tue;Angebote;Schweizer Hackbraten mit buntem Gemüse und Petersilienkartoffeln;5,29;2,76;0
+2020-02-11;Tue;Angebote;Vegetarische Maultaschen mit Tomatenconcassee auf Rahmchampignons;4,98;2,74;1
+2020-02-11;Tue;Angebote;Vier Quarkkäulchen mit Zucker und Apfelmus;4,27;2,35;1
+2020-02-11;Tue;Angebote;Wirsingcremesuppe;3,59;1,97;1
+2020-02-12;Wed;Angebote;Seelachsfilet in Knusperpanade, dazu Zitronen-Kartoffelstampf und Salat;5,27;2,9;0
+2020-02-12;Wed;Angebote;Zwei Erbsen-Quinoamedaillons an veganem Rahmspinat, dazu Möhren-Apfelsalat;4,91;2,55;2
+2020-02-12;Wed;Angebote;Hausgemachte Zucchini Kartoffelpuffer mit Schnittlauch-Dip und Chinakohlsalat;;;0
+2020-02-12;Wed;Angebote;Soljanka;3,59;1,97;0
+2020-02-13;Thu;Angebote;Hähnchen Forstmeister Art, dazu glasierte Honigmöhren und Kartoffelbällchen;5,27;2,75;0
+2020-02-13;Thu;Angebote;Zweierlei Gnocchi, dazu Gemüsebolognese und geriebener Käse;4,96;2,73;1
+2020-02-13;Thu;Angebote;Paprikapfanne mit Ingwer und Bambus, dazu Röstiecken;4,27;2,35;2
+2020-02-13;Thu;Angebote;Kohlrabi-Steckrübensuppe;3,59;1,97;2
+2020-02-14;Fri;Angebote;Saltimbocca vom Schwein an Tomatenspaghetti;5,55;3,05;0
+2020-02-14;Fri;Angebote;Kartoffelrösti mit Gemüse und Creme fraiche gratiniert, dazu Salat;4,27;2,35;1
+2020-02-14;Fri;Angebote;Gemüsebällchen an Kräutersoße, dazu Schwarzwurzel-Karottengemüse und Bombay Kartoffeln;5,39;2,81;1
+2020-02-14;Fri;Angebote;Kartoffel-Möhrentopf mit Wiener;3,59;1,97;0
+2020-02-15;Sat;Angebote;Mediterranes Rinderragout mit Apfelrotkohl und Petersilienkartoffeln;5,74;3,16;0
+2020-02-15;Sat;Angebote;verschiedene Gemüsebrätlinge auf buntem Gemüseteller mit holländischer Soße;4,87;2,68;2
+2020-02-16;Sun;Angebote;Kleine Schweinshaxe mit Bratensoße, dazu Sauerkraut und Hefeknödel;5,98;3,29;0
+2020-02-16;Sun;Angebote;Eieromelett mit Pilzfüllung an frischem Currygemüse und Feldsalat;5,9;3,25;1
+2020-02-17;Mon;Angebote;Gebratenes Putensteak Saint Tropez (Champignons, Perlzwiebeln), dazu glasierte Möhren und Pommes frites;6,0;3,3;0
+2020-02-17;Mon;Angebote;Kartoffeltaschen mit Broccoli und Frischkäse gefüllt an Tomaten-Champignonragout und bunter Eisbergsalat;5,56;2,91;1
+2020-02-17;Mon;Angebote;Muschelnudeln an Lauch-Hackfleisch-Käsesoße oder Tomatensoße mit Zucchini, dazu geriebener Käse;4,27;2,35;0
+2020-02-17;Mon;Angebote;Bohneneintopf;3,59;1,97;2
+2020-02-18;Tue;Angebote;Kasslerbraten an Bayrischkraut mit Macairkartoffeln oder Petersilienkartoffeln;5,17;2,69;0
+2020-02-18;Tue;Angebote;Schupfnudelpfanne mit Gemüse und Pilzen, dazu fruchtige Tomatensoße und Zupfsalat;5,02;2,76;1
+2020-02-18;Tue;Angebote;Sächsische Kartoffelsuppe mit Wiener Würstchen oder vegane Variation mit einen Apfel, dazu ein Brötchen oder Scheibe Brot;4,27;2,35;0
+2020-02-18;Tue;Angebote;Vegane Linsensuppe;3,59;1,97;2
+2020-02-19;Wed;Angebote;Seelachs im Backteig an Erbsen-Kartoffelstampf und Gurkensalat mit Dilljoghurt;5,55;3,05;0
+2020-02-19;Wed;Angebote;Broccoli-Karottenküchlein mit Champignonragout Mailänder Art und Rotkohlsalat;5,94;3,12;1
+2020-02-19;Wed;Angebote;Kräuterquark mit Butter und Leberwurst oder vegetarische Variation mit Apfel, dazu Petersilienkartoffeln;4,27;2,35;0
+2020-02-19;Wed;Angebote;Vegane rote Bete-Bohnensuppe;3,59;1,97;2
+2020-02-20;Thu;Angebote;Radeberger Schweinsroulade mit Camembertfüllung,dazu Rotkohl und Kartoffelklöße;5,95;3,27;0
+2020-02-20;Thu;Angebote;Nudeln Trivelli mit frischem Spinatpesto und gehobelter italienischer Hartkäse;4,36;2,4;1
+2020-02-20;Thu;Angebote;Zwei scharfe Kokosplinsen mit Sesam-Korianderdip und Gemüsesalat;4,27;2,2;1
+2020-02-20;Thu;Angebote;Champignonrahmsuppe;3,59;1,97;1
+2020-02-21;Fri;Angebote;Lammgeschnetzeltes mit Wurzelgemüse in Rosmarinsoße, dazu Prinzessbohnen und Röstitaler;6,27;3,45;0
+2020-02-21;Fri;Angebote;Hausgemachte Möhrenköfte mit Aprikosen, dazu Chili-Dip und Couscous;4,27;2,35;0
+2020-02-21;Fri;Angebote;Mit Ananans und Käse überbackenes Valess-Schnitzel an Tomaten Olivenragout und Reis-Bulgurmix;6,18;3,25;1
+2020-02-21;Fri;Angebote;Vegane Schwarzwurzelsuppe;3,59;1,97;2
+2020-02-22;Sat;Angebote;Quinoa-Erbsen-Frikadellen an Zucchini-Kartoffelpfanne, dazu Mango Dip und Rotkohl-Apfelsalat;5,36;2,95;2
+2020-02-22;Sat;Angebote;Ungarischer Wurstgulasch mit Spirelli und geriebener Käse;4,64;2,55;0
+2020-02-23;Sun;Angebote;Hähnchenroulade Florenz, dazu buntes Gemüse und Kartoffelbällchen;6,05;3,33;0
+2020-02-23;Sun;Angebote;Broccoli-Nuss-Knusperecke mit Champignonsoße, dazu buntes Gemüse und Kartoffelbällchen;5,25;2,89;1
+2020-02-24;Mon;Angebote;Kammsteak mit einer deftigen Auflage aus Salami,Gurken,Senf,Käse und Schwarzbrot, dazu buntes Gemüse und Amaizeing fries;5,91;3,1;0
+2020-02-24;Mon;Angebote;Gebackene Polenta-Käseschnitte an Kürbis-Tomatengemüse, dazu Feldsalat mit Himbeerdressing;5,0;2,75;1
+2020-02-24;Mon;Angebote;Spaghetti dazu Tomatensoße mit Wurzelgemüse und  geriebener Käse;4,27;2,35;0
+2020-02-24;Mon;Angebote;Linsencurrysuppe;3,59;1,97;0
+2020-02-25;Tue;Angebote;Schweinskeulenbraten mit einer Senf-Kräuterkruste , dazu Bohnengemüse und Kartoffelklöße oder Petersilienkartoffeln;4,82;2,65;0
+2020-02-25;Tue;Angebote;Hausgemachte Couscous-Karottenfrikadelle an Tomaten-Paprikaragout, dazu Chinakohlsalat mit Früchten;4,73;2,6;2
+2020-02-25;Tue;Angebote;Gekochte Eier mit Senfsoße, dazu Möhrengemüse und Petersilienkartoffeln;4,27;2,2;1
+2020-02-25;Tue;Angebote;Möhren-Kartoffeltopf mit gebratenen Wienerscheiben;3,59;1,97;0
+2020-02-26;Wed;Angebote;Fischstäbchen mit Remouladensoße, dazu Pommes frites und Salat;5,95;3,27;0
+2020-02-26;Wed;Angebote;Kichererbsenbällchen an Rahmspinat und gebratenen Rote Bete-Gnocchi;5,86;3,07;2
+2020-02-26;Wed;Angebote;Griechischer Nudelauflauf mit Schweinefleisch und Hirtenkäse;4,27;2,35;0
+2020-02-27;Thu;Angebote;Kräuterschnitzel Toskana mit Gemüse und Pommes frites;5,44;2,99;0
+2020-02-27;Thu;Angebote;Hörnchennudeln-Chifferie an Pastasoße mit Champignons und getrockneten Tomaten, dazu gehobelter italienischer Hartkäse oder geriebener Käse;4,65;2,41;0
+2020-02-27;Thu;Angebote;Buttermilchplinsen mit Beerensoße;4,27;2,35;1
+2020-02-27;Thu;Angebote;Grüne Bohnensuppe mit Rindfleisch;3,59;1,97;0
+2020-02-28;Fri;Angebote;Gebratenes Schweinefilet an grüner Pfeffersoße, dazu glasierte Honigmöhren und Kartoffelbällchen;6,09;3,2;0
+2020-02-28;Fri;Angebote;Käsesouffle mit Preiselbeersahne, dazu Bratkartoffeln und Salat;5,09;2,8;1
+2020-02-28;Fri;Angebote;Sojaklops in Kapernsoße mit buntem Gemüse und Vollkornreis;4,27;2,35;1
+2020-02-28;Fri;Angebote;Vegane Maiscremesuppe;3,59;1,97;2
+2020-02-29;Sat;Angebote;Rindergulasch ungarischer Art mit Rosenkohl, dazu Hefeknödel oder Petersilienkartoffeln;5,23;2,88;0
+2020-02-29;Sat;Angebote;Gemüse-Vollkornbrätling an Tomatenratatouille mit Couscous;5,18;2,85;1
+2020-03-01;Sun;Angebote;Hähnchenbrustfilet Napoli an Romanescoröschen und Pastasotto;5,71;3,14;0
+2020-03-01;Sun;Angebote;Karottenschnitzel an Romanescoröschen, dazu Pastasotto und Kräutersoße;5,43;2,99;1
+2020-03-02;Mon;Angebote;Schweineschnitzel in Käsepanade, dazu Blumenkohl mit Semmelbutter und Pommes frites;5,25;2,89;0
+2020-03-02;Mon;Angebote;Gemüsekroketten aus Blumenkohl, Lauch, Sellerie und Erbsen, dazu Grünkern-Reispfanne mit Rucola, Kürbiskernen und scharfe Tomatensalsa;5,13;2,67;2
+2020-03-02;Mon;Angebote;Gabelspaghetti an Gulaschsoße Ragù napoletano oder an Basilikumsoße, dazu geriebener Gouda;4,27;2,35;0
+2020-03-02;Mon;Angebote;Vegane Kartottencremesuppe;3,59;1,97;2
+2020-03-03;Tue;Angebote;Lammgeschnetzeltes an Bohnengemüse mit Röstitaler;6,04;3,17;0
+2020-03-03;Tue;Angebote;Schwarzwurzel-Knusperkarrees an Mango-Linsen-Couscous, dazu Radieschen-Kressedip und Chinakohlsalat;5,82;3,2;1
+2020-03-03;Tue;Angebote;Deftiger Möhren-Kartoffeltopf mit gebratenen Wienerscheiben oder veganer Möhren-Kartoffeltopf mit Apfel, dazu ein Brötchen oder Scheibe Brot;4,27;2,35;0
+2020-03-04;Wed;Angebote;Gebackenes Hokifilet an mediterranem Kartoffelsalat;5,94;3,27;0
+2020-03-04;Wed;Angebote;Frisches Ofengemüse mit Petersiliengnocchi und Avocado-Sojacreme;6,09;3,2;2
+2020-03-04;Wed;Angebote;Apfel-Milchreis mit Erdbeeren, dazu zerlassene Butter und Zucker Zimt;4,27;2,35;1
+2020-03-04;Wed;Angebote;Vegane Blumenkohlcremesuppe;3,59;1,97;2
+2020-03-05;Thu;Angebote;Coq au vin von der Hähnchenbrust (Silberzwiebeln, Bauchspeck, Champignon und Weißwein), dazu buntes Pfannengemüse und Kartoffelbällchen;5,55;2,9;0
+2020-03-05;Thu;Angebote;Spirelli Treccine mit Rucolapesto, dazu gehobelter italienischer Hartkäse oder Reibekäse - ohne Käse vegan;4,49;2,47;0
+2020-03-05;Thu;Angebote;Hausgemachte Kartoffelpuffer mit Wurzelgemüse, dazu Kräuterquark-Dip und Salat;;;1
+2020-03-05;Thu;Angebote;Bohneneintopf mit Rindfleisch;3,59;1,97;0
+2020-03-06;Fri;Angebote;Putensteak mit Tomaten-Frischkäsecreme gratiniert, dazu buntes Gemüse und Pommes Twister;5,95;3,12;0
+2020-03-06;Fri;Angebote;Spinat-Ofenomelett mit Rosmarinkartoffeln, Joghurt-Kräuter-Dip und Möhrensalat;;;1
+2020-03-06;Fri;Angebote;Steckrüben-Karottenragout mit Curry und Limette, dazu grüner Bulgur;4,27;2,35;2
+2020-03-06;Fri;Angebote;Wirsingcremesuppe;3,59;1,97;1
+2020-03-07;Sat;Angebote;Schweineschnitzel Cordon bleu mit Bratensoße, dazu Pfannengemüse und Schwenkkartoffeln;6,1;3,36;0
+2020-03-07;Sat;Angebote;Karotten-Spinatrösti an Pfannengemüse und Schwenkkartoffeln;5,99;3,29;1
+2020-03-09;Mon;Aktion Wok;Rindfleischstreifen mit Chinakohl, Erdnüssen und Sojasprossen aus dem Wok, dazu Reisnudeln;6,53;3,44;0
+2020-03-09;Mon;Angebote;Spitzkohl-Apfel-Currygemüse, dazu kleine Kartoffelklöße und Paprikasoße;4,64;2,55;2
+2020-03-09;Mon;Angebote;Penne Rigate an Pastasoße mit Hackfleisch und Käse oder Broccoli-Sahne-Käsesoße, dazu geriebener Käse;4,27;2,35;0
+2020-03-10;Tue;Aktion Wok;Hähnchenbrust mit Zucchini, Ingwer und Ananas aus dem Wok, dazu gebratener Reis;5,91;3,25;0
+2020-03-10;Tue;Angebote;Hausgemachter Buchweizenbrätling mit Pilzen, Zwiebeln und Gouda, dazu Möhrenrisotto mit Kürbiskernen und Blattsalat mit Honig-Senfdressing;4,64;2,4;1
+2020-03-10;Tue;Angebote;Sojaklops an Sahnesoße mit Wurzelgemüse, dazu Kohlrabi-Möhrengemüse und Rosmarinkartoffeln;4,27;2,35;1
+2020-03-11;Wed;Aktion Wok;Vegetarische Frühlingsrolle an Wokgemüse süß-sauer, dazu Glasnudeln;5,44;2,99;1
+2020-03-11;Wed;Angebote;Gebackenes Schollenfilet mit Speck-Zwiebelauflage, dazu Mediterranen Nudelsalat;5,67;2,97;0
+2020-03-11;Wed;Angebote;Möhrenpfannkuchen mit Radieschen-Kressedip und Chicoree Paprika Salat;4,27;2,35;1
+2020-03-12;Thu;Aktion Wok;Lamm mit roten Zwiebeln, Minze und Erdnüssen aus dem Wok, dazu Basmati Reis;7,25;3,84;0
+2020-03-12;Thu;Angebote;Käsesoufflee an Püree von Roten Linsen mit Tomate, Rosine, Minze und Ingwer, dazu fruchtiger Eisbergsalat;5,31;2,92;1
+2020-03-12;Thu;Angebote;Champignon-Bohnenpfanne mit Röstiecken und Salat;4,27;2,35;2
+2020-03-13;Fri;Aktion Wok;Pute im Backteig mit Asiagemüse aus dem Wok, dazu gebratene Mie Nudeln;6,73;3,55;0
+2020-03-13;Fri;Angebote;Zucchini-Pakoras mit Tomatensalsa mit Pesto-Kartoffeln;5,44;2,99;0
+2020-03-13;Fri;Angebote;Sojageschnetzeltes, dazu karameliesirte Möhren und grüner Bulgursalat;4,27;2,35;2
+2020-03-14;Sat;Angebote;Schwedische Hackfleischbällchen mit Tomatensoße, dazu buntes Gemüse und Reis;5,04;2,77;0
+2020-03-14;Sat;Angebote;Gebackener Hirtenkäse mit Knoblauchcreme, dazu buntes Gemüse und Bratkartoffeln;5,74;3,16;1
+2020-03-16;Mon;Angebote;Schweineschnitzel in Tortilla-Chipspanade, dazu buntes Gemüse und Pommes frites;6,18;3,4;0
+2020-03-16;Mon;Angebote;Karotten-Sesamsticks an Frischkäse-Basilikumsoße, dazu Schwarzwurzelgemüse und Tomaten-Ebly;6,05;3,18;1
+2020-03-16;Mon;Angebote;Vollkornspaghetti mit Kürbis-Tomatenrahmsoße und geriebener Käse;4,27;2,35;1
+2020-03-17;Tue;Angebote;Rinderbraten mit Rotkohl, dazu Kartoffelklöße oder Kartoffeln;5,1;2,81;0
+2020-03-17;Tue;Angebote;Zucchini gefüllt mit Pilzen, Kräutern und Polenta, dazu Tomatensoße und Chinakohlsalat;5,23;2,73;2
+2020-03-17;Tue;Angebote;Bratwurst mit Sauerkraut und Kartoffelpüree;4,27;2,35;0
+2020-03-18;Wed;Angebote;Griechische Paprikaschote gefüllt mit Hackfleisch, Paprika und Hirtenkäse, dazu Paprikasoße, Erbsengemüse und Reis;5,67;3,12;0
+2020-03-18;Wed;Angebote;Gnocchipfanne mit rotem Pesto, Hirtenkäse und buntem Gemüse, dazu Feldsalat mit Himbeerdressing;6,05;3,18;1
+2020-03-18;Wed;Angebote;Hausgemachte Kartoffelpuffer mit Apfelmus;4,27;2,35;1
+2020-03-19;Thu;Angebote;Gegrillte Hähnchenkeule an buntem Gemüse mit Pommes frites;4,99;2,74;0
+2020-03-19;Thu;Angebote;Krautnudeln mit Salami, oder vegetarisch mit Gemüsestreifen, dazu Tomatensoße und Reibekäse;4,5;2,33;0
+2020-03-19;Thu;Angebote;Vier Hefeklöße an Heidelbeersoße;4,27;2,35;1
+2020-03-20;Fri;Angebote;Schweinesteak au four mit Erbsengemüse und gebackenen Kartoffelecken;6,03;3,32;0
+2020-03-20;Fri;Angebote;Gebackene Briespitze mit Preiselbeersahne, dazu Bratkartoffeln und Salat;5,87;3,08;1
+2020-03-20;Fri;Angebote;Zucchini im Cornflakesmantel an Tomatensalsa und Bombay Kartoffeln;4,27;2,35;2
+2020-03-21;Sat;Angebote;Hähnchenbrust in Honig Balsamicosoße, dazu glasierte Honigmöhren und Kartoffelkroketten;5,55;3,05;0
+2020-03-21;Sat;Angebote;Tofuschnitzel mit Panko-Erdnusspanade an Tomaten-Zucchiniragout und Couscous;5,55;3,05;2
