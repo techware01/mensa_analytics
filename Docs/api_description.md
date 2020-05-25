@@ -80,7 +80,8 @@ for i in range(delta.days + 1):
 
 
 # OpenMensa Api vs. Stuwe api
-Next to the official OpenMensa api the Stuwe offers it's own api. This [Stuwe api](https://www.studentenwerk-dresden.de/mensen/speiseplan-api.html) follows the structure of the official Api but only holds the data for Stuwe canteens.
+Next to the official OpenMensa api the Stuwe offers it's own api. This [Stuwe api](https://www.studentenwerk-dresden.de/mensen/speiseplan-api.html) follows the structure of the official Api. It only holds the data for the Stuwe canteens and it seems like it only has data for next two weeks. It's just a simple wrapper and still beta.
+
 Also their are some differences:
 
 ## Different IDs for canteens
@@ -114,5 +115,13 @@ For meals that were sold out the prices the whole meals get removed entirely.
 
 ## Promitted Meal data
 The data is the same, but the Stuwe Api in addition offers images for some meals.
+
+Only meals for next two weeks are provided by the Stuwe Api. For every other date it show the following error:
+```Json
+{
+    "status":   404,
+    "message":  "Not a valid date!"
+}
+```
 
 
