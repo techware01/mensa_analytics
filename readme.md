@@ -1,4 +1,4 @@
-## Studentenwerk Dresden statistics
+## Studentenwerk Dresden canteen statistics
 This repo is meant to be a starting point for deeper analysis of meals the Stuwe is selling.
 
 The main focus lays on sustainability. 
