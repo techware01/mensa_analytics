@@ -2,14 +2,13 @@
 This page is ment to describe all specific parts of the [OpenMensaApi](https://doc.openmensa.org/api/v2/) needed for getting information about meals in the STUWE canteens in Dresden.
 
 ## General information
-OpenMensa is a projekt ment to store all neccessary information about as many cateens as possible to provide easy and central access to these information for menu apps. Every one can use it and get data from their database via the OpenMensa api. Also it's possible to write own parser to add new meals for missing canteens, by for example crawling the data from the canteens website.
+OpenMensa is a projekt ment to store all neccessary information about as many cateens as possible to provide easy and central access to these information for menu apps and interested people. Every one can use it and get data from their database via the OpenMensa api. Also it's possible to write your own parser that adds new meals for missing canteens. For example by crawling the data from the canteens website.
 
 ## How to get data from the api
-Everthing works via GET requests. That means simply open a URL which holds all your search parameters. 
-e.g. https://openmensa.org/api/v2/canteens will give you all cateens in the OpenMensa database.
-A api requests has two parts the _Base URL_ which is the same for all requests: https://openmensa.org/api/v2/
-
-And the second part which specifies your search. For example /canteens. Also it possible to go a step further and add more restrictions to the search. Like ```/canteens/1``` will only show you information about the canteen with ID 1.
+Everthing works via GET requests. That means simply open an URL which holds all your search parameters. 
+E.g. https://openmensa.org/api/v2/canteens will give you all cateens in the OpenMensa database.
+An api request has two parts the _Base URL_ which is the same for all requests: https://openmensa.org/api/v2/
+and the parameters that specify your search. For example /canteens. It's also possible to go a step further and add more restrictions to the search. Like ```/canteens/1``` will only show you information about the canteen with ID 1.
 
 ### Call the Api
 - Open Firefox and just paste the request URL you built their. This is nice to get an overview and check if the URL works as Firefox is presenting the answer in a nicly styled form.
