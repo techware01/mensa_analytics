@@ -1,3 +1,5 @@
+## This repo has been moved to [Codeberg](https://codeberg.org/tuuwi/mensa-analytics)
+
 ## Studentenwerk Dresden canteen statistics
 This repo is meant to be a starting point for deeper analysis of meals the Stuwe is selling.
 
